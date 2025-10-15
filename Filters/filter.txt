@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2025-10-15T01:08:35.739Z
+! Last modified: 2025-10-15T03:01:37.242Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -10978,6 +10978,7 @@ vkcdnservice.appspot.com^
 ||bkgdacepots.help^
 ||bkgljnppwxjat.icu^
 ||bkjcspqtrlafh.online^
+||bkjgqyasbalgk.website^
 ||bkjhqkohal.com^
 ||bkkwdqssajegg.store^
 ||bkoqiqnmxfgth.website^
@@ -13032,6 +13033,7 @@ vkcdnservice.appspot.com^
 ||cjjhocfofemex.website^
 ||cjlph.com^
 ||cjoaootrbhfcx.site^
+||cjohftnninpfu.online^
 ||cjqyupjmmrahr.com^
 ||cjrlsw.info^
 ||cjrtwtmauargd.website^
@@ -14964,6 +14966,7 @@ vkcdnservice.appspot.com^
 ||denswordyogurt.com^
 ||dental-drawer.pro^
 ||denthaitingshospic.com^
+||dentileazurite.com^
 ||dentilnitter.com^
 ||dentiststockunsoiled.com^
 ||deostr.com^
@@ -15970,6 +15973,7 @@ vkcdnservice.appspot.com^
 ||dtx.click^
 ||dtxzzhqtb.com^
 ||dtyurebaioecr.com^
+||dualistesseda.com^
 ||dualmarket.info^
 ||dubbyamazons.help^
 ||dubioalcaaba.world^
@@ -19478,6 +19482,7 @@ vkcdnservice.appspot.com^
 ||ghszhdgsydcmt.site^
 ||ghtanothingfrui.org^
 ||ghyvgxemrszmx.site^
+||ghyzimfjilvbt.online^
 ||ghzxqtvqjybuj.online^
 ||gialamebxneob.space^
 ||giant-orange.pro^
@@ -25166,6 +25171,7 @@ vkcdnservice.appspot.com^
 ||lgepbups.xyz^
 ||lggbvkoaabvz.top^
 ||lghgxaudrourv.com^
+||lghjjjwnxrpjq.space^
 ||lgkjgunjzaort.website^
 ||lgklwhhssyxqe.space^
 ||lglxxxadsjocm.website^
@@ -25684,6 +25690,7 @@ vkcdnservice.appspot.com^
 ||louisehunchbackpearl.com^
 ||loulouly.net^
 ||loululant.cfd^
+||loumeglumawha.com^
 ||loungedcabrie.com^
 ||loungesdeseed.com^
 ||loupefulgora.shop^
@@ -26103,6 +26110,7 @@ vkcdnservice.appspot.com^
 ||lzmcyodoqgmrd.com^
 ||lzoqokmewrbkj.top^
 ||lzoqokmewrqzq.top^
+||lzpiozkcngklw.site^
 ||lzqmjakwllwry.top^
 ||lzsjauqvbc.com^
 ||lzvwybvvyroav.top^
@@ -28372,6 +28380,7 @@ vkcdnservice.appspot.com^
 ||ngahkaqwrcemx.store^
 ||ngbbrrenkxfyxfe.com^
 ||ngbixvopoqccq.website^
+||ngccdcrdgskjpl.com^
 ||ngcghsdvjfcpp.club^
 ||ngecjfsawnr.com^
 ||ngegas.files.im^
@@ -37679,6 +37688,7 @@ vkcdnservice.appspot.com^
 ||slavesubmarinebribery.com^
 ||slavicfarth.qpon^
 ||slavinboise.world^
+||slawhomager.com^
 ||slayingbritska.shop^
 ||slayingbugeyes.com^
 ||slbjksfomekcn.website^
@@ -39937,6 +39947,7 @@ vkcdnservice.appspot.com^
 ||tobaccoearnestnessmayor.com^
 ||tobaccosturgeon.com^
 ||tobaltoyon.com^
+||tobewhilst.cfd^
 ||tobipovsem.com^
 ||toboads.com^
 ||tocometothepoin.com^
@@ -40632,6 +40643,7 @@ vkcdnservice.appspot.com^
 ||tvoiioftvfzzc.buzz^
 ||tvphkckqchufn.space^
 ||tvprocessing.com^
+||tvqqnhkixwqny.space^
 ||tvrqlfdtfxtsh.space^
 ||tvsvmmik.com^
 ||tvuaaetfx.com^
@@ -42878,6 +42890,7 @@ vkcdnservice.appspot.com^
 ||wcwijbtqgajxf.global^
 ||wcyvjdpduqxym.site^
 ||wdcwmeklhgnfc.xyz^
+||wdhymnxhxpgsn.space^
 ||wdibwgllvzies.love^
 ||wdkmoxkhtnkss.space^
 ||wdlltvftsokwy.space^
@@ -43864,6 +43877,7 @@ vkcdnservice.appspot.com^
 ||wxqbopca-i.global^
 ||wxqhhskaltnbw.site^
 ||wxrgjdkxhegjn.online^
+||wxsyspqxdddrb.com^
 ||wxurshzniivhg.store^
 ||wxuuwmrmqfyh.com^
 ||wxwtvlov.com^
@@ -44452,6 +44466,7 @@ vkcdnservice.appspot.com^
 ||yassherris.shop^
 ||yaszcbffjnfak.today^
 ||yatytentioniau.org^
+||yaupaibcfqfvh.online^
 ||yaupfemur.com^
 ||yauponbotone.com^
 ||yavli.com^
@@ -45440,6 +45455,7 @@ vkcdnservice.appspot.com^
 ||zvzmzrawlvlez.top^
 ||zvzmzrawlvryj.top^
 ||zvzmzrawlvwlo.top^
+||zvzpzkqquxasw.store^
 ||zwaar.net^
 ||zwftdkfbbjyydg.com^
 ||zwk7ybbg.net^
@@ -136281,6 +136297,8 @@ dlsdk.appsflyer.com^
 ||ggo10150lq.com^
 ||scruffy.top^
 ||xarfxj.icu^
+||trmn.cn^
+||u3qrlykp2.com^
 ||rndmlk8asw.com^
 ||yp0loy5lcl.com^
 ||ggo10140lq.com^
