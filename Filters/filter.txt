@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2025-10-17T01:07:56.305Z
+! Last modified: 2025-10-17T02:58:46.582Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -7256,6 +7256,7 @@ vkcdnservice.appspot.com^
 ||abbotpredicateemma.com^
 ||abbreviationhanging.com^
 ||abcauegs.com^
+||abcessunaided.rest^
 ||abclefabletor.com^
 ||abdadde321.com^
 ||abdalminhag.com^
@@ -7494,6 +7495,7 @@ vkcdnservice.appspot.com^
 ||acofrnsr44es3954b.com^
 ||acoinlatakia.help^
 ||aconeilleck.cyou^
+||acorguciptoohas.com^
 ||acorncranberrycrayfish.com^
 ||acptfagotte.qpon^
 ||acqqmjewqgqln.online^
@@ -13910,6 +13912,7 @@ vkcdnservice.appspot.com^
 ||covettunica.com^
 ||coviddecil.help^
 ||covivado.club^
+||covutjidytpde.com^
 ||cowbirdipecacs.top^
 ||cowkmallow.cyou^
 ||cowpencinclis.com^
@@ -14085,6 +14088,7 @@ vkcdnservice.appspot.com^
 ||crevicedepressingpumpkin.com^
 ||cricklemotey.qpon^
 ||criesstarch.com^
+||crieycuber.com^
 ||crigmongery.help^
 ||crimeagc.com^
 ||criminalweightforetaste.com^
@@ -25048,6 +25052,7 @@ vkcdnservice.appspot.com^
 ||lastingdiketo.com^
 ||lastingquiver.com^
 ||lastlyseaweedgoose.com^
+||lastrepair.pro^
 ||latchfateverybody.com^
 ||late-anxiety.com^
 ||lateeltoun.net^
@@ -28179,6 +28184,7 @@ vkcdnservice.appspot.com^
 ||n4sredirect.com^
 ||n91hg.com^
 ||n9s74npl.de^
+||naacixmdxcfba.store^
 ||nabauxou.net^
 ||nabbr.com^
 ||nabqecvr.com^
@@ -30905,6 +30911,7 @@ vkcdnservice.appspot.com^
 ||oversleepwilling.com^
 ||oversolosisor.com^
 ||overswaloton.com^
+||overtedp.shop^
 ||overthrowslash.com^
 ||overtrapinchchan.net^
 ||overture.com^
@@ -37524,6 +37531,7 @@ vkcdnservice.appspot.com^
 ||sghbvhktcomrn.online^
 ||sgksmdci.com^
 ||sgnetwork.co^
+||sgxdkotcbhaev.com^
 ||sgxlziqbahhqb.store^
 ||sh0w-me-h0w.net^
 ||sh0w-me-how.com^
@@ -42044,6 +42052,7 @@ vkcdnservice.appspot.com^
 ||uyinpzcqltuqy.space^
 ||uynrxrspirsnw.space^
 ||uypbyopkhpoas.store^
+||uyprwkmrammol.space^
 ||uyqwpnspgadkq.site^
 ||uyrolbvqcbrot.site^
 ||uyuvcqrvyatpc.website^
@@ -42708,6 +42717,7 @@ vkcdnservice.appspot.com^
 ||vmawhaylmkxpv.vip^
 ||vmdvbyphnrtegyj.com^
 ||vmecbdkpvugpj.website^
+||vmetqeikgx.com^
 ||vmgvazjmjmojw.top^
 ||vmicdkmpvgbqt.online^
 ||vmjanoicaljna.online^
@@ -43222,6 +43232,7 @@ vkcdnservice.appspot.com^
 ||waudeesestew.com^
 ||waudoozookaupt.net^
 ||waufooke.com^
+||waulsquab.com^
 ||waust.at^
 ||wausteerairaid.net^
 ||wavablyimprevu.com^
@@ -44473,6 +44484,7 @@ vkcdnservice.appspot.com^
 ||xfpekegi.com^
 ||xfpjhwejhicwc.website^
 ||xftzmvvgnbnsx.space^
+||xfvclznzhmtte.site^
 ||xfvjamqqqv.com^
 ||xfvrkhjmanrnr.online^
 ||xfvslsqqtyeeb.store^
@@ -45186,6 +45198,7 @@ vkcdnservice.appspot.com^
 ||yogjylemldvjb.online^
 ||yohimbegunther.world^
 ||yohocrummer.cfd^
+||yoickshovered.click^
 ||yojbiagdemrac.buzz^
 ||yokeagetropein.rest^
 ||yokeeroud.com^
@@ -45609,6 +45622,7 @@ vkcdnservice.appspot.com^
 ||zhtndfplsmcqt.global^
 ||zhtvsepde.com^
 ||zhuotnqoongmt.club^
+||zhylvhqdlkacm.space^
 ||zhzijmkcplrch.store^
 ||zi8ivy4b0c7l.com^
 ||zibethprewire.cyou^
@@ -136783,6 +136797,7 @@ dlsdk.appsflyer.com^
 ||zhbhivvoid.com^
 ||okoy.cn^
 ||btjsvl.icu^
+||kw17vswzu.com^
 ||zsy10161yok.com^
 ||hhr3ybjsoy.com^
 ||yizj5fcwaj.com^
