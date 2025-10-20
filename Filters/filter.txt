@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2025-10-20T01:13:31.091Z
+! Last modified: 2025-10-20T03:12:07.913Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -14534,6 +14534,7 @@ vkcdnservice.appspot.com^
 ||cxvsermlepcod.site^
 ||cxwdgmldczxwa.website^
 ||cxwwphrswjedj.online^
+||cxyilbdocnfsi.space^
 ||cxyrrnttklcwq.online^
 ||cxztgrpsubvkt.online^
 ||cxzygwseuwnii.website^
@@ -15736,6 +15737,7 @@ vkcdnservice.appspot.com^
 ||dnurxagcqddad.website^
 ||dnvofjhiqgnx.com^
 ||dnvogsqirpcfq.space^
+||dnxohvytwgb.com^
 ||dnymygyjvu.com^
 ||doaipomer.com^
 ||doajauhopi.xyz^
@@ -16135,6 +16137,7 @@ vkcdnservice.appspot.com^
 ||dseudvepnmooe.net^
 ||dseveralmefarketi.com^
 ||dsgjnqdffkzjg.com^
+||dsgszujtdzlea.online^
 ||dsgtosabuqcil.website^
 ||dsjoiyflhvxpq.website^
 ||dskesrsbhqdnlta.xyz^
@@ -17704,6 +17707,7 @@ vkcdnservice.appspot.com^
 ||exigentwound.help^
 ||existenceassociationvoice.com^
 ||existencemelting.com^
+||existencepawstest.com^
 ||existenceprinterfrog.com^
 ||existencethrough.com^
 ||existingcraziness.com^
@@ -22102,6 +22106,7 @@ vkcdnservice.appspot.com^
 ||huwqhqezemv.com^
 ||huwuftie.com^
 ||huxitsaise.net^
+||huzewljtygd.com^
 ||huzytgmqsnecd.website^
 ||hvaxpkbykuj.com^
 ||hvdponfpbcgyr.site^
@@ -22136,6 +22141,7 @@ vkcdnservice.appspot.com^
 ||hwwltgfmw.com^
 ||hwyijnwehlsrq.website^
 ||hwzuwlghfqizh.space^
+||hxaeqktmhvawj.space^
 ||hxefvtiqr.net^
 ||hxefvtiqr.xyz^
 ||hxfhkckgyawb.com^
@@ -23200,6 +23206,7 @@ vkcdnservice.appspot.com^
 ||issitekelter.shop^
 ||issomeoneinth.info^
 ||issonruvxcgpp.website^
+||issuedkuvasz.com^
 ||isthmusreplant.digital^
 ||istipaumophy.com^
 ||istkechaukrguk.com^
@@ -24465,6 +24472,7 @@ vkcdnservice.appspot.com^
 ||kchhccjmzipel.site^
 ||kcjmivforjixu.online^
 ||kcnjivjem.net^
+||kcnoeqivvzana.online^
 ||kcqbrwygxixdh.site^
 ||kcqhtvqwla.com^
 ||kcxljicqwzjfd.space^
@@ -24923,6 +24931,7 @@ vkcdnservice.appspot.com^
 ||kolklltarjdnt.website^
 ||kolleqasforsale.com^
 ||kologyrtyndwean.info^
+||komatikbioptic.cfd^
 ||komnqabvgmayb.top^
 ||konelg.click^
 ||konize.click^
@@ -32539,6 +32548,7 @@ vkcdnservice.appspot.com^
 ||pinturaanglers.com^
 ||pinulustrisul.digital^
 ||pinuphele.click^
+||pinyonexdie.help^
 ||pioneercomparatively.com^
 ||pip-pip-pop.com^
 ||pipaffiliates.com^
@@ -39096,6 +39106,7 @@ vkcdnservice.appspot.com^
 ||spinmasterpiecediscount.com^
 ||spinoffabonne.cyou^
 ||spintrytherial.shop^
+||spirited-degree.pro^
 ||spirittitlist.digital^
 ||spiritualslower.com^
 ||spiroidnovenae.click^
@@ -40280,6 +40291,7 @@ vkcdnservice.appspot.com^
 ||teconqueerer.shop^
 ||tedhilarlymcken.org^
 ||tedhoweverbu.org^
+||tedious-skin.pro^
 ||tediousdisinterested.com^
 ||tediousguide.pro^
 ||tediouswasp.com^
@@ -41334,6 +41346,7 @@ vkcdnservice.appspot.com^
 ||trlyhvvibvndi.space^
 ||trmgsqnuizqku.space^
 ||trmit.com^
+||trmlmgfjratsges.com^
 ||trmzum.com^
 ||troadforristol.org^
 ||troakpundum.shop^
@@ -42156,6 +42169,7 @@ vkcdnservice.appspot.com^
 ||uniloberepaved.shop^
 ||unitedcyclistdesired.com^
 ||unitedlawsfriendship.com^
+||unitedpargos.com^
 ||unitedquarion.life^
 ||uniteevery.cyou^
 ||unitscompressmeow.com^
@@ -42661,6 +42675,7 @@ vkcdnservice.appspot.com^
 ||uzbiajlzdylja.icu^
 ||uzcbclgnjovkf.site^
 ||uzdhsjuhrw.com^
+||uzdpzjmscmlgz.website^
 ||uzeempoothult.net^
 ||uzioxnjmnonzu.site^
 ||uzpjrqgtrymrs.site^
@@ -43712,6 +43727,7 @@ vkcdnservice.appspot.com^
 ||wagerjoint.com^
 ||wagerprocuratorantiterrorist.com^
 ||wagershare.com^
+||wagetvienna.cyou^
 ||wagfuohlfnnnl.com^
 ||waggapunted.cfd^
 ||waggonerchildrensurly.com^
@@ -43826,6 +43842,7 @@ vkcdnservice.appspot.com^
 ||wassooghiseedry.com^
 ||wastabljellib.com^
 ||wastedclassmatemay.com^
+||wastefuldraft.pro^
 ||wastefulrope.com^
 ||wasteresents.shop^
 ||wastoowuth.net^
@@ -137524,6 +137541,7 @@ dlsdk.appsflyer.com^
 ||dpxadf.icu^
 ||interviewbq.com^
 ||tqub.cn^
+||0b6rvr210q.com^
 ||alcoholic56.top^
 ||lf2cgxz0b.com^
 ||84dwl4bbq.com^
