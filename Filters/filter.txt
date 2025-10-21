@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2025-10-21T01:52:09.993Z
+! Last modified: 2025-10-21T03:02:48.448Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -2407,7 +2407,6 @@
 ||b141e5f455.5495d0c343.com^
 ||b1fb7ee141.3fc6424eda.com^
 ||b257c1d0e9.7fa28aad94.com^
-||b33e7b1d89.98755c5056.com^
 ||b4efed32d2.4bd92c373a.com^
 ||b50c1772be.80494f40b6.com^
 ||ba31f372b1.6d0ce9a973.com^
@@ -7106,6 +7105,7 @@ vkcdnservice.appspot.com^
 ||97e7f92376.com^
 ||9832d75ae3.com^
 ||9862271b2d.com^
+||98755c5056.com^
 ||987f9e203d.com^
 ||9891a36e37.com^
 ||98cbb83e14.com^
@@ -9560,6 +9560,7 @@ vkcdnservice.appspot.com^
 ||astogepian.com^
 ||astonishlandmassnervy.com^
 ||astonishmentfuneral.com^
+||astoopechee.net^
 ||astorewashers.digital^
 ||astoundweighadjoining.com^
 ||astraycubist.qpon^
@@ -15517,6 +15518,7 @@ vkcdnservice.appspot.com^
 ||directtrck.com^
 ||direeyesightstray.com^
 ||diregun.digital^
+||dirgesimious.com^
 ||dirgyjimson.qpon^
 ||dirtharvestnickel.com^
 ||dirtilyvirago.cfd^
@@ -21936,6 +21938,7 @@ vkcdnservice.appspot.com^
 ||hot4k.org^
 ||hotbbuvifu.cc^
 ||hotbdugixi.today^
+||hotbedsleafdom.com^
 ||hotbmuwoxa.today^
 ||hotboysnearby.net^
 ||hotbqzlchps.com^
@@ -22484,6 +22487,7 @@ vkcdnservice.appspot.com^
 ||ieytglsanjfbb.online^
 ||ieyzrxtaxfqpc.website^
 ||iezxmddndn.com^
+||ifadnfhgaozlo.store^
 ||ifaifterdudseey.net^
 ||ifaqirpgjntoc.site^
 ||ifdbdp.com^
@@ -26173,6 +26177,7 @@ vkcdnservice.appspot.com^
 ||llqvtzufrrozyj.com^
 ||llrmdpyqhduad.store^
 ||llskrfxbuofuj.space^
+||lltnfhzysxuin.website^
 ||lluewwiw.com^
 ||lluwrenwsfh.xyz^
 ||llvlzvroqokmj.top^
@@ -29945,6 +29950,7 @@ vkcdnservice.appspot.com^
 ||nwljjhhbtofbtc.com^
 ||nwlsdjumwhghtr.com^
 ||nwmnd.com^
+||nwnncnbipamso.website^
 ||nwntsabmagdqn.xyz^
 ||nwnxyebilknrv.com^
 ||nwpwfyhnvqmxd.website^
@@ -34496,6 +34502,7 @@ vkcdnservice.appspot.com^
 ||qa-vatote.icu^
 ||qa24ljic4i.com^
 ||qabbalacurval.world^
+||qadwmyxqi.com^
 ||qaebaywbvvjqz.top^
 ||qaebaywwzvmyw.top^
 ||qaebaywwzvwvb.top^
@@ -34671,6 +34678,7 @@ vkcdnservice.appspot.com^
 ||qfiozwfjkgjta.store^
 ||qfjgcntbdvthn.online^
 ||qfjherc.com^
+||qfltfrmzvmpqd.online^
 ||qfmmysaorvape.net^
 ||qfnmqhacsscph.site^
 ||qfpfyddaodmcp.store^
@@ -42343,6 +42351,7 @@ vkcdnservice.appspot.com^
 ||unfamllliardates.com^
 ||unfancyvergers.cfd^
 ||unfinished-apple.com^
+||unfitstrain.pro^
 ||unflatsmopple.life^
 ||unfortunate-can.com^
 ||unfortunatechampionship.com^
@@ -42657,6 +42666,7 @@ vkcdnservice.appspot.com^
 ||uqrchidhtpvmc.space^
 ||uquhuahi.com^
 ||uqvgtqnthkqgi.space^
+||uqvkbnjtvbpy.com^
 ||uqxawlipmigevx.com^
 ||uqxtyjclokxex.website^
 ||uqzoyikxsfhdr.space^
@@ -119192,6 +119202,7 @@ vkcdnservice.appspot.com^
 ! Blocking piwik analytics subdomain(for DNS filtering)
 |piwik.
 !
+||leo.tridge.com^
 ||haystack.wavve.com^
 ||user-event-log.aminer.cn^
 ||pixel.dashfi.dev^
@@ -136287,6 +136298,8 @@ dlsdk.appsflyer.com^
 ||fnoc.cn^
 ||atekag.cn^
 ||nidckjnc.com^
+||75rakcovr.com^
+||bftvpp.icu^
 ||ulwzinqlh0.com^
 ||9swovqnp52.com^
 ||zsy10200yok.com^
