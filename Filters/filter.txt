@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2025-10-21T01:10:39.771Z
+! Last modified: 2025-10-21T01:52:09.993Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -10031,6 +10031,7 @@ vkcdnservice.appspot.com^
 ||aycrxa.com^
 ||aydtfcrhoifaof.net^
 ||ayensgerim.com^
+||ayfahctcpwkjt.space^
 ||ayfixvgbijkba.online^
 ||ayfsfqjauuzvm.space^
 ||ayghoddmrzret.space^
@@ -20304,6 +20305,7 @@ vkcdnservice.appspot.com^
 ||goingsrosehip.com^
 ||goingtabific.com^
 ||gojbtiqarctsc.life^
+||gojesrlkzmlgz.website^
 ||gojjutccrvayv.store^
 ||gojrtepoxln.net^
 ||goksmejewlqpk.space^
@@ -23496,6 +23498,7 @@ vkcdnservice.appspot.com^
 ||izechqbrmajqr.online^
 ||izeetchothoo.com^
 ||izeeto.com^
+||izekxwljsjboe.online^
 ||izhukvhcxfcon.vip^
 ||izhvgmfpzbmu.com^
 ||izikthr.my^
@@ -30893,6 +30896,7 @@ vkcdnservice.appspot.com^
 ||oophytecopped.click^
 ||oopihxqn.com^
 ||oopuhuenext.cyou^
+||ooqrgonbifrag.online^
 ||ooqtjsubfcppe.life^
 ||ooraliapposer.help^
 ||oordoafordoa.net^
@@ -33026,6 +33030,7 @@ vkcdnservice.appspot.com^
 ||pnd.gs^
 ||pndvdeojbvrtm.store^
 ||pndvhjgixorbq.online^
+||pneojrqqkydgc.online^
 ||pneumahameil.com^
 ||pnfoccvoyssqwx.xyz^
 ||pngdumzdmydll.site^
@@ -39786,6 +39791,7 @@ vkcdnservice.appspot.com^
 ||stringbuild.com^
 ||stringroadway.com^
 ||stringshypnotize.com^
+||stripedmitring.qpon^
 ||stripskeletonsting.com^
 ||strodeintended.com^
 ||strolldownstairstelegram.com^
@@ -52757,7 +52763,6 @@ vkcdnservice.appspot.com^
 ||realizerecess.com^
 ||simonsignal.com^
 ||analytics.vodgc.net^
-||youborafds01.com^
 ||mc.admetrica.ru^
 ||shopnetic.com^
 ||e-contenta.com^
@@ -136280,6 +136285,8 @@ dlsdk.appsflyer.com^
 ||zsy10210yok.com^
 ||yjprlwskt.com^
 ||fnoc.cn^
+||atekag.cn^
+||nidckjnc.com^
 ||ulwzinqlh0.com^
 ||9swovqnp52.com^
 ||zsy10200yok.com^
