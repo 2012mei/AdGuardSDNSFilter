@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2025-10-23T20:16:43.983Z
+! Last modified: 2025-10-23T22:14:13.106Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -15025,6 +15025,7 @@ vkcdnservice.appspot.com^
 ||dcgnheouhmnlx.online^
 ||dcgpsjmcytukn.website^
 ||dciuocgwopyla.website^
+||dcleuevkxvzmr.site^
 ||dcmbaescepqsq.space^
 ||dcmdquudzpmkc.store^
 ||dcmrnstqdbgvn.website^
@@ -15401,6 +15402,7 @@ vkcdnservice.appspot.com^
 ||devotedspree.com^
 ||devoteegibberishsinister.com^
 ||devoteorewood.shop^
+||devotesobeyed.help^
 ||devuba.xyz^
 ||dewanbirchen.qpon^
 ||dewaxesintrod.help^
@@ -15907,6 +15909,7 @@ vkcdnservice.appspot.com^
 ||dobvvamtbskgg.online^
 ||dociiopyfxovz.website^
 ||dockresorbs.cyou^
+||docpicvggkfcp.site^
 ||doctrinekettleworsening.com^
 ||documentaryangerabed.com^
 ||documentaryselfless.com^
@@ -17743,6 +17746,7 @@ vkcdnservice.appspot.com^
 ||eunpprzdlkf.online^
 ||eunuchsresoak.digital^
 ||euonymcozen.help^
+||euopkalxm.com^
 ||eupaifeuwgnft.store^
 ||eupathyseraya.top^
 ||eupepsypenury.qpon^
@@ -20518,6 +20522,7 @@ vkcdnservice.appspot.com^
 ||googleapi.club^
 ||goolahwhirrs.life^
 ||goomaphy.com^
+||goonchclues.shop^
 ||gooods4you.com^
 ||goosebomb.com^
 ||goosierappetit.com^
@@ -21952,6 +21957,7 @@ vkcdnservice.appspot.com^
 ||hnauhnumosawj.store^
 ||hnbmbgagxwyqd.site^
 ||hnchrbjicjcxq.space^
+||hncwcitryrwxkz.com^
 ||hnejuupgblwc.com^
 ||hngtkmbijgmfy.xyz^
 ||hnheuhjyk.com^
@@ -25366,6 +25372,7 @@ vkcdnservice.appspot.com^
 ||kqbjdvighp.com^
 ||kqbkkyqv.com^
 ||kqboyauwwixla.space^
+||kqcetainqdx.com^
 ||kqdmpnqlefncp.site^
 ||kqejazglxkwta.space^
 ||kqenotme.com^
@@ -25987,6 +25994,7 @@ vkcdnservice.appspot.com^
 ||legitfizzed.shop^
 ||legitimatedear.pro^
 ||legitsgoa.shop^
+||leglenargents.rest^
 ||leglessreekers.help^
 ||leglikedescantwonder.com^
 ||legoacanst.cyou^
@@ -27373,6 +27381,7 @@ vkcdnservice.appspot.com^
 ||martialchara.org^
 ||martingpaction.qpon^
 ||marvelous-gold.com^
+||marybudnell.com^
 ||masaflagman.qpon^
 ||masakeku.com^
 ||masaxe.xyz^
@@ -27809,6 +27818,7 @@ vkcdnservice.appspot.com^
 ||mgdnjexlmiqfl.online^
 ||mgdxanrzodxrc.online^
 ||mgeihsfggzaca.store^
+||mgfovsauwpkkp.website^
 ||mgfutkkdzvwtg.site^
 ||mghkpg.com^
 ||mgid.com^
@@ -31682,6 +31692,7 @@ vkcdnservice.appspot.com^
 ||pasxfixs.com^
 ||patacajabia.com^
 ||patchportlyparking.com^
+||patelemeutes.qpon^
 ||patentjav128.fun^
 ||patgsrv.com^
 ||patheticformerly.com^
@@ -39605,6 +39616,7 @@ vkcdnservice.appspot.com^
 ||thuthoock.net^
 ||thuwhehyli.com^
 ||thwitepartlet.shop^
+||thxtlltpdqk.com^
 ||thylouple.com^
 ||thymelecatch.click^
 ||thyselacknown.com^
@@ -43884,6 +43896,7 @@ vkcdnservice.appspot.com^
 ||wrnxvvbriocgob.xyz^
 ||wrochtjouked.click^
 ||wrongdoanodos.com^
+||wrongland.pro^
 ||wrongwayfarer.com^
 ||wrotebp.world^
 ||wrppoldzkxbqo.space^
@@ -45379,6 +45392,7 @@ vkcdnservice.appspot.com^
 ||zeroglamour.com^
 ||zerorson.com^
 ||zerothtrophal.digital^
+||zerzvqrzzqmzz.top^
 ||zerzvqrzzqomb.top^
 ||zerzvqrzzqoro.top^
 ||zesrsywjvphmj.store^
