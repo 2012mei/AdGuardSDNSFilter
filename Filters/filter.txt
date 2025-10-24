@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2025-10-24T06:22:16.939Z
+! Last modified: 2025-10-24T08:20:26.155Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -17835,6 +17835,7 @@ vkcdnservice.appspot.com^
 ||evolatemyrrh.help^
 ||evolutesaveloy.help^
 ||evouxoup.com^
+||evrrdjkoevuia.online^
 ||evrrndlwvff.com^
 ||evspnideufht.com^
 ||evsw-zfdmag.one^
@@ -23404,6 +23405,7 @@ vkcdnservice.appspot.com^
 ||iokyzmpkwtepa.space^
 ||iolljrivp.com^
 ||iomlsfqgvugaf.space^
+||iomnqhzj.com^
 ||ionakasulba.org^
 ||ionianeosines.cfd^
 ||ionigravida.com^
@@ -27574,6 +27576,7 @@ vkcdnservice.appspot.com^
 ||mcyaabdssxdlg.space^
 ||mcytxdrqjmrly.fun^
 ||mczbf.com^
+||mdbrqxpqvx.com^
 ||mddbdmylgchjx.space^
 ||mddsp.info^
 ||mddunelluyeeelt.com^
@@ -30033,6 +30036,7 @@ vkcdnservice.appspot.com^
 ||nyalabubukle.cfd^
 ||nyayacurtals.qpon^
 ||nybkctzmldnye.space^
+||nybrvnteugnpr.site^
 ||nycteaflota.com^
 ||nycteascans.digital^
 ||nycvqozkkmzti.com^
@@ -31505,6 +31509,7 @@ vkcdnservice.appspot.com^
 ||pachegaimax.net^
 ||packagebellysmoothly.com^
 ||packeteagle.com^
+||packsoffward.shop^
 ||packsofgood.com^
 ||pacotaanankes.help^
 ||pacteaten.com^
@@ -42729,6 +42734,7 @@ vkcdnservice.appspot.com^
 ||vxfgdhyjprlhx.store^
 ||vxgvqcxghgtqe.site^
 ||vxiearhzvtdtv.website^
+||vxlehqrvmw.com^
 ||vxmgwfvl.net^
 ||vxo-protect.co.in^
 ||vxpcarcapffdp.global^
@@ -50179,6 +50185,7 @@ vkcdnservice.appspot.com^
 !
 !
 !
+||pirsch.io^
 ||d2g2u2795e3fzw.cloudfront.net^
 ||mobiexchange.com^
 ||matomo-demo-*.amazonaws.com^
@@ -118146,6 +118153,7 @@ vkcdnservice.appspot.com^
 ! Blocking piwik analytics subdomain(for DNS filtering)
 |piwik.
 !
+||z.cdn.protect-ad.com^
 ||sb1.mangataro.org^
 ||sgtm.yubico.com^
 ||ins.oberpfalzmedien.de^
