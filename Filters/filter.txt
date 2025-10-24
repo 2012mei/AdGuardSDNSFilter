@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2025-10-24T04:18:34.737Z
+! Last modified: 2025-10-24T06:22:16.939Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -12229,6 +12229,7 @@ vkcdnservice.appspot.com^
 ||c4ef95025c.com^
 ||c4ff1123f0.com^
 ||c526b6ac88.com^
+||c55d4b9929.com^
 ||c5e739a769.com^
 ||c6073077cc.com^
 ||c607b31b1a.com^
@@ -14730,6 +14731,7 @@ vkcdnservice.appspot.com^
 ||czsttsmgndlni.website^
 ||czsusasfoyqln.website^
 ||cztmmijwxiafu.click^
+||czuovvrfi.com^
 ||czwgftuwfitha.space^
 ||czxnozkdqlcrk.online^
 ||czxtnycchoexz.space^
@@ -15707,6 +15709,7 @@ vkcdnservice.appspot.com^
 ||disorderpublishrecords.com^
 ||disownsdispend.shop^
 ||disparitydegenerateconstrict.com^
+||disparkhellen.help^
 ||disparkhypural.cfd^
 ||dispatchfeed.com^
 ||dispatchgoldcarefully.com^
@@ -17769,6 +17772,7 @@ vkcdnservice.appspot.com^
 ||eupepsypenury.qpon^
 ||euphoric-nature.com^
 ||euphuesmasses.com^
+||euripusrochet.help^
 ||europeanivanprestigious.com^
 ||europeanplash.com^
 ||euros4click.de^
@@ -23144,6 +23148,7 @@ vkcdnservice.appspot.com^
 ||infectedrepentearl.com^
 ||infercrawfordpreponderant.com^
 ||inferiorkate.com^
+||infinitemark.pro^
 ||infirmaryabundance.com^
 ||infirmiere-moyersoen.be^
 ||infixedbomarea.click^
@@ -29051,6 +29056,7 @@ vkcdnservice.appspot.com^
 ||nbekirowekzaq.space^
 ||nbgpbzkllsdwk.space^
 ||nbimehsndxebs.store^
+||nbjemmxex.com^
 ||nbkbzzlvtbkeh.website^
 ||nbkpigxextkjn.website^
 ||nbmramf.de^
@@ -30035,6 +30041,7 @@ vkcdnservice.appspot.com^
 ||nyftieeoryant.space^
 ||nygcwpskctfwq.space^
 ||nyirdmnvfcjav.online^
+||nyivoueeetmksk.com^
 ||nyjnursqfwsum.website^
 ||nylonhighlyculture.com^
 ||nylonnickel.xyz^
@@ -32395,6 +32402,7 @@ vkcdnservice.appspot.com^
 ||pkdvcmrjfscjr.space^
 ||pkehswqnitpvr.global^
 ||pkelsonlw.com^
+||pkgfasodr.com^
 ||pkhhyool.com^
 ||pkhtedxfloany.xyz^
 ||pkiagqasgbgqx.online^
@@ -32852,6 +32860,7 @@ vkcdnservice.appspot.com^
 ||poujudaidaiwee.net^
 ||poulrgrsadmrv.space^
 ||poultsbrosot.shop^
+||poumaugovoboa.net^
 ||pouncetusk.com^
 ||poundswhammo.rest^
 ||poupokeewewe.net^
@@ -34814,6 +34823,7 @@ vkcdnservice.appspot.com^
 ||rbzqarqzoveok.top^
 ||rbzqarqzoveqy.top^
 ||rbzqarqzovjev.top^
+||rbzqarqzovjyq.top^
 ||rcdamcdeqtea.net^
 ||rcdcqwnmplklc.store^
 ||rcdn-web.com^
@@ -35963,6 +35973,7 @@ vkcdnservice.appspot.com^
 ||rowetbouton.rest^
 ||roxby.org^
 ||roxfdmeqsfjjw.online^
+||roxieguru.qpon^
 ||roxot-panel.com^
 ||roxyaffiliates.com^
 ||royalcactus.com^
@@ -36962,6 +36973,7 @@ vkcdnservice.appspot.com^
 ||serpentinelow.com^
 ||serraitabret.com^
 ||sersabion.com^
+||sertivepremier.cfd^
 ||serumsugareffective.com^
 ||serv01001.xyz^
 ||serv1for.pro^
@@ -38035,6 +38047,7 @@ vkcdnservice.appspot.com^
 ||sparerseosines.qpon^
 ||sparersruiner.shop^
 ||sparkleunwelcomepleased.com^
+||sparkling-credit.pro^
 ||sparkrainstorm.host^
 ||sparkstudios.com^
 ||sparkvibe.today^
@@ -38666,6 +38679,7 @@ vkcdnservice.appspot.com^
 ||subduedfilthloot.com^
 ||subgumsabe.cfd^
 ||subgyriunprime.digital^
+||subheroopium.com^
 ||subiqquokjziy.store^
 ||subitopreface.qpon^
 ||subjectivecubecaprice.com^
@@ -43187,6 +43201,7 @@ vkcdnservice.appspot.com^
 ||wenykhldanuek.store^
 ||weocnwmly.com^
 ||weownthetraffic.com^
+||wepmanpiute.cyou^
 ||weptnastyturmoil.com^
 ||wererxrzmp.com^
 ||wesicuros.com^
@@ -45631,6 +45646,7 @@ vkcdnservice.appspot.com^
 ||znenythxhplgtu.com^
 ||znfjejuvhkuuz.site^
 ||znhuinjequxzf.store^
+||znieeladt.com^
 ||znjdkvlhfvuuc.one^
 ||znntvpdicngpo.website^
 ||znorrymikvycz.site^
@@ -135240,6 +135256,8 @@ dlsdk.appsflyer.com^
 ||go2yd.com^
 ||dbraxb.icu^
 ||bzp2fqad7o.com^
+||zdh10241lo.com^
+||e26fr9qb4m.com^
 ||smooth33.com^
 ||lxwp426ao.com^
 ||zdh10230lo.com^
