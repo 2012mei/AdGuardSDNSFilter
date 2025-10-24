@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2025-10-24T14:29:56.990Z
+! Last modified: 2025-10-24T16:18:54.222Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -7231,6 +7231,7 @@ vkcdnservice.appspot.com^
 ||aalhjtdrhzqgu.site^
 ||aaprhbdlqstrob.net^
 ||aapugyluomq.xyz^
+||aaqdyhptis.com^
 ||aarcpcukxe.net^
 ||aarghclothy.com^
 ||aauedwmoofyox.buzz^
@@ -8261,6 +8262,7 @@ vkcdnservice.appspot.com^
 ||aggregateknowledge.com^
 ||aggregationdestructoppression.com^
 ||aggregationmodest.com^
+||aggressiveinformation.pro^
 ||agguriceless.com^
 ||agharedan.click^
 ||agile-perspective.pro^
@@ -10402,6 +10404,7 @@ vkcdnservice.appspot.com^
 ||basilaratterr.cfd^
 ||basketballshameless.com^
 ||basogadenied.com^
+||basqzfjsvtefx.site^
 ||bassoonavatara.com^
 ||bastilecentimo.rest^
 ||bastoofoaphouds.net^
@@ -13334,6 +13337,7 @@ vkcdnservice.appspot.com^
 ||clamoroarage.rest^
 ||clankexpelledidentification.com^
 ||clanmute.com^
+||clashprobation.com^
 ||classedsamekh.com^
 ||classesrainbowburka.com^
 ||classessavagely.com^
@@ -15295,6 +15299,7 @@ vkcdnservice.appspot.com^
 ||demowebcode.online^
 ||denameborts.help^
 ||denariibrocked.com^
+||denarobookend.cyou^
 ||denayphlox.top^
 ||denbeigemark.com^
 ||dendrito.name^
@@ -15873,6 +15878,7 @@ vkcdnservice.appspot.com^
 ||dmhulgvmedlik.store^
 ||dmiredindeed.com^
 ||dmjfikqbzcjrp.website^
+||dmjlfkhpbpguhej.com^
 ||dmkynnbnphpyl.store^
 ||dmlnznrxcwfeo.store^
 ||dmlvzoanvi.com^
@@ -17618,6 +17624,7 @@ vkcdnservice.appspot.com^
 ||ero-match.site^
 ||erobilpbxvnf.xyz^
 ||erodiumvodums.com^
+||erogatesoral.com^
 ||eroidere.com^
 ||erovation.com^
 ||erpupydeklzyp.space^
@@ -24386,6 +24393,7 @@ vkcdnservice.appspot.com^
 ||jovqyymemwrob.top^
 ||jovqyymemwyqy.top^
 ||jovytear.help^
+||jowfefzzbovee.online^
 ||jowingnagami.world^
 ||jowlishdiviner.com^
 ||jowpyscania.cfd^
@@ -26447,6 +26455,7 @@ vkcdnservice.appspot.com^
 ||ljybybyerzejk.top^
 ||ljybybyerzoev.top^
 ||ljybybyerzreq.top^
+||ljybybyerzyjy.top^
 ||ljyozyvbewtbb.site^
 ||ljypfykcofguz.fun^
 ||ljzkmkblgvaaj.top^
@@ -35838,6 +35847,7 @@ vkcdnservice.appspot.com^
 ||rnpbmhmjxwmgs.website^
 ||rnpiysana.com^
 ||rnqcztbdtxoup.site^
+||rntitelgr.com^
 ||rnuxzqjkiwiry.website^
 ||rnvondsyjfcjq.online^
 ||rnwbrm.com^
@@ -41183,6 +41193,7 @@ vkcdnservice.appspot.com^
 ||unbelievablycaption.com^
 ||unbiasbiog.cfd^
 ||unblimans.cfd^
+||unblushtalishi.com^
 ||unboybandeng.top^
 ||unburstmaunch.help^
 ||unbuttonexcellentsubway.com^
@@ -45132,6 +45143,7 @@ vkcdnservice.appspot.com^
 ||yntherplunge.com^
 ||yntvrgqkwlwag.site^
 ||ynurfigldblbt.online^
+||ynusrfcfba.com^
 ||ynuuuxojqjm.com^
 ||ynvhnmjwszeuf.online^
 ||ynvtepiimtshs.store^
