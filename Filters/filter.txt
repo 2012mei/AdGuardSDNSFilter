@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2025-10-26T03:06:47.663Z
+! Last modified: 2025-10-26T04:17:13.694Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -9293,6 +9293,7 @@ vkcdnservice.appspot.com^
 ||aqleispxkvda.xyz^
 ||aqlzpubftudgu.com^
 ||aqmlaklwyqwmy.top^
+||aqnfiranqzas.com^
 ||aqnlyporcwcvq.space^
 ||aqnmbzmojlnbq.top^
 ||aqnyjcywvcs.com^
@@ -10123,6 +10124,7 @@ vkcdnservice.appspot.com^
 ||azazyjjovmyow.top^
 ||azbbyqnaonmmy.top^
 ||azbghupkmoljn.online^
+||azbjjbwvqowrb.top^
 ||azbjjbwvqowyv.top^
 ||azbjjbwvqozrm.top^
 ||azbjjbwvqozvj.top^
@@ -12740,6 +12742,7 @@ vkcdnservice.appspot.com^
 ||cdwmpt.com^
 ||cdwmtt.com^
 ||cdwudnnwrvmtwfy.com^
+||cdytayuoexopsk.com^
 ||ce6b6837ab.com^
 ||ce6fc56927.com^
 ||ce82020873.com^
@@ -15915,6 +15918,7 @@ vkcdnservice.appspot.com^
 ||dlssuizl.art^
 ||dlvtuqmylwqwr.online^
 ||dlwhtkiilipxk.site^
+||dlwutbljksqve.com^
 ||dlzunqyzwiiia.website^
 ||dlzuocvcjdqvq.space^
 ||dmadehimalowb.com^
@@ -17060,6 +17064,7 @@ vkcdnservice.appspot.com^
 ||egcuxefgvsjpw.online^
 ||egeemsob.com^
 ||eggedtarasco.shop^
+||egghotrascals.shop^
 ||eggplantgapmatter.com^
 ||egighbqdtgyen.rocks^
 ||egjtmguxueesf.xyz^
@@ -19731,6 +19736,7 @@ vkcdnservice.appspot.com^
 ||g2afse.com^
 ||g33ktr4ck.com^
 ||g33tr4c3r.com^
+||g5hxng7tc1kht66b3rro74.cfd^
 ||g8tor.com^
 ||g9qnk89pd5ic.com^
 ||gaaekexcvdkur.site^
@@ -32059,6 +32065,7 @@ vkcdnservice.appspot.com^
 ||pbterra.com^
 ||pbtgbodqcsntf.store^
 ||pbtqnpqpfelqk.space^
+||pbuteuvdt.com^
 ||pbxai.com^
 ||pbymzmwwopnlm.site^
 ||pbzgcofnurhyz.website^
@@ -38341,6 +38348,7 @@ vkcdnservice.appspot.com^
 ||soviettreasures.com^
 ||sovranskoosin.life^
 ||sovransshindys.digital^
+||sovroiojknivs.store^
 ||sovveinery.life^
 ||sowedgolo.rest^
 ||sowp.cloud^
@@ -42899,6 +42907,7 @@ vkcdnservice.appspot.com^
 ||voovoacivoa.net^
 ||voowhougloapy.com^
 ||voozephiwithy.net^
+||vopripwm.net^
 ||voredi.com^
 ||vorpalzant.qpon^
 ||vorxovcbesyuo.net^
@@ -44989,6 +44998,7 @@ vkcdnservice.appspot.com^
 ||xtwxjsjkmuopm.net^
 ||xtxjyxtvcwuam.site^
 ||xtydrmtywznhs.website^
+||xtzignbgtfbi.com^
 ||xubcnzfex.com^
 ||xubosjvatott.com^
 ||xucylxthpajss.site^
