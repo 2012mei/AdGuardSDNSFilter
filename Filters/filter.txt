@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2025-10-26T01:14:16.912Z
+! Last modified: 2025-10-26T03:06:47.663Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -10244,6 +10244,7 @@ vkcdnservice.appspot.com^
 ||badsecs.com^
 ||badtopwitch.work^
 ||badvgpluw.com^
+||baeriapiacula.com^
 ||baffetabyes.cfd^
 ||bafyiwdcpkbkk.online^
 ||bafyotramage.qpon^
@@ -14450,6 +14451,7 @@ vkcdnservice.appspot.com^
 ||cruncherpatiencestoreroom.com^
 ||crunchysheathstruck.com^
 ||cruorincager.com^
+||crupkokum.rest^
 ||crushedshakechasing.com^
 ||crushingaspect.pro^
 ||crushingaspirin.com^
@@ -16572,6 +16574,7 @@ vkcdnservice.appspot.com^
 ||dwjmjanexskxu.com^
 ||dwkhqbgckhxfjqp.com^
 ||dwocjxvzwnkmv.online^
+||dwphzxrhplyyr.website^
 ||dwpuuaxhcqlvz.website^
 ||dwrmadbgml.com^
 ||dwvdofpcelstt.site^
@@ -17310,6 +17313,7 @@ vkcdnservice.appspot.com^
 ||emicalcoveningspon.org^
 ||emigrantbeasts.com^
 ||emigreemarket.rest^
+||emimtaimteeckam.com^
 ||eminbjuc.com^
 ||eminencedarker.com^
 ||eminent-drag.pro^
@@ -19541,6 +19545,7 @@ vkcdnservice.appspot.com^
 ||funny-dot.pro^
 ||funny-quality.pro^
 ||funnyslender.com^
+||funorinwacker.help^
 ||funsouwhoo.net^
 ||funtoday.info^
 ||funufc.fun^
@@ -20420,8 +20425,10 @@ vkcdnservice.appspot.com^
 ||glimpsemankind.com^
 ||glimtors.net^
 ||glingabsoufturd.net^
+||gliosissizing.shop^
 ||gliptoacaft.net^
 ||gliraimsofu.net^
+||glisriqpkaetu.online^
 ||glisteninginstruction.pro^
 ||glitteringovernightflea.com^
 ||glitteringunavoidable.com^
@@ -20756,6 +20763,7 @@ vkcdnservice.appspot.com^
 ||gqpeyiqibmfid.site^
 ||gqprjkneyocuo.site^
 ||gqrjyvgrlhmaa.space^
+||gqrznrvddpsso.site^
 ||gqrzrssheetzc.website^
 ||gqukkctktohil.com^
 ||gquwuefddojikxo.xyz^
@@ -22068,6 +22076,7 @@ vkcdnservice.appspot.com^
 ||hkpjnieraypcn.site^
 ||hkrxmmyfysvyf.site^
 ||hktgbobrsdg.com^
+||hkubluminqjxy.website^
 ||hkuwxrdiqhdha.space^
 ||hkwrwuqlcpelq.site^
 ||hkzhongzhuangzhan.cc^
@@ -22393,6 +22402,7 @@ vkcdnservice.appspot.com^
 ||hqnmuuwcsudqd.store^
 ||hqpass.com^
 ||hqpyrhlgqqxbl.online^
+||hqqatewckioxb.website^
 ||hqscene.com^
 ||hqtwmtsflttlx.site^
 ||hquerdxxxxdlp.site^
@@ -22646,6 +22656,7 @@ vkcdnservice.appspot.com^
 ||hyleanwheeled.world^
 ||hymenalmatinee.help^
 ||hymmnexxf.net^
+||hymnistdedans.cyou^
 ||hynea.site^
 ||hyoidanblotted.world^
 ||hypatondrch.life^
@@ -25160,6 +25171,7 @@ vkcdnservice.appspot.com^
 ||kfzdbukgugedn.space^
 ||kfzfkkxcpiz.com^
 ||kgakynwqllqwj.top^
+||kgbgcuabndbjw.store^
 ||kgbhovudcliseso.com^
 ||kgcdtdui.com^
 ||kgdvs9ov3l2aasw4nuts.com^
@@ -25196,6 +25208,7 @@ vkcdnservice.appspot.com^
 ||khayaltenses.com^
 ||khbgpgyoneegd.website^
 ||khcenayroisqp.store^
+||khedassphene.com^
 ||khedivasample.top^
 ||khfnijzujyxrj.online^
 ||khidlcdjhlsfu.space^
@@ -28464,6 +28477,7 @@ vkcdnservice.appspot.com^
 ||moenyandluckybymyside.com^
 ||moerkfvzhfdgt.online^
 ||mofeegavub.net^
+||mofwtywsvqatt.site^
 ||mogheeckatcho.net^
 ||moghulzoeae.rest^
 ||mogointeractive.com^
@@ -31673,6 +31687,7 @@ vkcdnservice.appspot.com^
 ||oyagncfnrlmij.club^
 ||oybvvlmskh.xyz^
 ||oybyaojyylboz.top^
+||oybzcowgqigef.store^
 ||oyen3zmvd.com^
 ||oyeonwxjqtzcm.website^
 ||oyhwxybkapymd.online^
@@ -32816,6 +32831,7 @@ vkcdnservice.appspot.com^
 ||pmdrcbgdkueokx.com^
 ||pmegdobhuwqwz.online^
 ||pmfqvgxsywccw.space^
+||pmgkpllqrxdwf.site^
 ||pmgueojdggonf.space^
 ||pmhfckukslyyc.website^
 ||pmhltxilxakly.site^
@@ -34458,6 +34474,7 @@ vkcdnservice.appspot.com^
 ||qmslgwdr.com^
 ||qmvnncombsqpk.com^
 ||qmwonwowmytqf.store^
+||qmxhaxinrdz.com^
 ||qmybnjqupyg.com^
 ||qmyzawzrqrmjo.top^
 ||qmyzawzrqrwmw.top^
@@ -37340,6 +37357,7 @@ vkcdnservice.appspot.com^
 ||sffptixbbemd.com^
 ||sffsdvc.com^
 ||sfixretarum.com^
+||sfpbitjsbvbcjps.com^
 ||sftapi.com^
 ||sfulylydeveloped.org^
 ||sfvauwpjcdgfo.xyz^
@@ -129312,8 +129330,8 @@ dlsdk.appsflyer.com^
 # A hosts file that aims to get rid of ads, tracking, scams & badware on (mostly) Swedish websites
 # ----
 # title:          Frellwit's Swedish Hosts File
-# last updated:   2025-10-09 04:11:51 CEST
-# entries:        1152
+# last updated:   2025-10-26 04:01:05 CET
+# entries:        1154
 # format:         hosts (hosts -- in hosts file format)
 # homepage:       https://github.com/lassekongo83/Frellwits-filter-lists/
 ||a.zxcvads.com^
@@ -129418,6 +129436,7 @@ dlsdk.appsflyer.com^
 ||backend.qimtek.se^
 ||banner.bet365partners.com^
 ||banners.instaforex.com^
+||banners.jldigital.se^
 ||banners.wsnonline.dk^
 ||bcm.interactives.dk^
 ||bellmetric.net^
@@ -135671,6 +135690,7 @@ dlsdk.appsflyer.com^
 ||zdh10260lo.com^
 ||zhjqtd.icu^
 ||graunutbpz.com^
+||ei7buknu82.com^
 ||suppose84.com^
 ||9cwcu1574.com^
 ||zdh10250lo.com^
