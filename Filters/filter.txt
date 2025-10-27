@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2025-10-27T04:25:35.146Z
+! Last modified: 2025-10-27T06:25:26.506Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -6964,6 +6964,7 @@ vkcdnservice.appspot.com^
 ||75h4x7992.com^
 ||760a131226.com^
 ||76359a95dd.com^
+||76679c5fef.com^
 ||766935bca8.com^
 ||768e7f3194.com^
 ||76ec5a61ac.com^
@@ -13253,6 +13254,7 @@ vkcdnservice.appspot.com^
 ||chyvz-lsdpv.click^
 ||ciaankzzhmcrz.click^
 ||ciacoqueoqqby.online^
+||ciarfownl.com^
 ||cibariarodolph.help^
 ||cibhmyowgsmpa.store^
 ||cibnulivuw.com^
@@ -18811,6 +18813,7 @@ vkcdnservice.appspot.com^
 ||firstosama.com^
 ||firtaips.com^
 ||firvmamosigpu.website^
+||fisetindebye.cyou^
 ||fishingslaplobby.com^
 ||fissivecatalos.com^
 ||fistevasionjoint.com^
@@ -20882,6 +20885,7 @@ vkcdnservice.appspot.com^
 ||granular-reflection.com^
 ||granularcloud.com^
 ||grapefruitstarchbeep.com^
+||graphwizard.click^
 ||graptaupsi.net^
 ||graqtcdjzqmib.store^
 ||grasauptess.net^
@@ -23790,6 +23794,7 @@ vkcdnservice.appspot.com^
 ||isolatespokesman.com^
 ||isoldetid.click^
 ||isomersairshed.shop^
+||isoporagonal.cfd^
 ||isoptichabiru.com^
 ||isosterrockier.cyou^
 ||isotopetaxers.cfd^
@@ -32220,6 +32225,7 @@ vkcdnservice.appspot.com^
 ||pdatbyyinqnco.site^
 ||pdavbtkidyyra.click^
 ||pdbfqinwkt.com^
+||pdezyfwfwijfx.online^
 ||pdfolnydwrxyp.com^
 ||pdfsearchhq.com^
 ||pdgknglzhohbi.online^
@@ -33853,6 +33859,7 @@ vkcdnservice.appspot.com^
 ||pteemteethu.net^
 ||pteerdoaxie.net^
 ||pteewookre.net^
+||pteexackaipie.net^
 ||ptekaikrergooy.net^
 ||ptekuwiny.pro^
 ||ptelastaxo.com^
@@ -36430,6 +36437,7 @@ vkcdnservice.appspot.com^
 ||roxyaffiliates.com^
 ||royalcactus.com^
 ||royaltyfig.com^
+||roydippers.click^
 ||rozamimo9za10.com^
 ||rpadpdwrrvfac.com^
 ||rpazaa.xyz^
@@ -36727,6 +36735,7 @@ vkcdnservice.appspot.com^
 ||rworljrkawkoa.top^
 ||rworljrkawlqq.top^
 ||rworljrkawoma.top^
+||rworljrkawzok.top^
 ||rworljrkawzqy.top^
 ||rwqewpuny.xyz^
 ||rwqovmoezrevy.top^
@@ -38720,6 +38729,7 @@ vkcdnservice.appspot.com^
 ||sqhqtvnvfzfne.store^
 ||sqlick.com^
 ||sqmwvjiqhvh.com^
+||sqpcjfvdgnemlhf.net^
 ||sqrekndc.fun^
 ||sqrobmpshvj.com^
 ||sqtagpqwzyfhj.site^
@@ -41799,6 +41809,7 @@ vkcdnservice.appspot.com^
 ||unluckasserta.com^
 ||unlucky-judge.pro^
 ||unluckydoubt.com^
+||unlusheyespot.cyou^
 ||unlushhypate.rest^
 ||unlustymawkin.click^
 ||unluxioer.com^
@@ -43635,6 +43646,7 @@ vkcdnservice.appspot.com^
 ||wcwijbtqgajxf.global^
 ||wcyvjdpduqxym.site^
 ||wdcwmeklhgnfc.xyz^
+||wddkgtbwy.com^
 ||wdhymnxhxpgsn.space^
 ||wdibwgllvzies.love^
 ||wdkmoxkhtnkss.space^
@@ -43844,6 +43856,7 @@ vkcdnservice.appspot.com^
 ||wgknjngzmakak.top^
 ||wglqvwknwzyjg.top^
 ||wgmenxpvnxnbs.space^
+||wgmnhecxa.com^
 ||wgolyqqmnzmgz.top^
 ||wgudvecmihgqy.site^
 ||wguqjqreoxaa.com^
@@ -44585,6 +44598,7 @@ vkcdnservice.appspot.com^
 ||wt20trk.com^
 ||wtasvypxjqfro.com^
 ||wtatrrum.net^
+||wtbeftkffxceq.online^
 ||wtdttepdbcpnx.site^
 ||wtemitaux.com^
 ||wtg-ads.com^
@@ -45655,6 +45669,7 @@ vkcdnservice.appspot.com^
 ||ynmqxodcf.com^
 ||ynmyhwrnexynk.store^
 ||ynossspikirow.online^
+||ynpsubgqyi.com^
 ||ynrhzckotwzal.site^
 ||ynrije.com^
 ||ynrwubpirmtv.com^
@@ -50815,6 +50830,7 @@ vkcdnservice.appspot.com^
 !
 !
 !
+||heidy.makeup^
 ||events.api.gamma.app^
 ||pirsch.io^
 ||d2g2u2795e3fzw.cloudfront.net^
@@ -123747,6 +123763,7 @@ dlsdk.appsflyer.com^
 ||basilfish.com^
 ||basketballbelieve.com^
 ||baskettexture.com^
+||bastingart.com^
 ||bawdybalance.com^
 ||beamvolcano.com^
 ||beancontrol.com^
@@ -124453,6 +124470,7 @@ dlsdk.appsflyer.com^
 ||jazzwholesale.com^
 ||jetskiscovers.com^
 ||jewelryforest.com^
+||jewelrysprings.com^
 ||joblessdrum.com^
 ||jobmist.com^
 ||joyfulharbor.com^
@@ -124830,6 +124848,7 @@ dlsdk.appsflyer.com^
 ||pumpedpurpose.com^
 ||punyplant.com^
 ||puppetcorp.com^
+||puppiesart.com^
 ||puppytooth.com^
 ||purposepipe.com^
 ||pyramidpaw.com^
@@ -129529,8 +129548,8 @@ dlsdk.appsflyer.com^
 # A hosts file that aims to get rid of ads, tracking, scams & badware on (mostly) Swedish websites
 # ----
 # title:          Frellwit's Swedish Hosts File
-# last updated:   2025-10-26 04:01:05 CET
-# entries:        1154
+# last updated:   2025-10-27 06:47:40 CET
+# entries:        1155
 # format:         hosts (hosts -- in hosts file format)
 # homepage:       https://github.com/lassekongo83/Frellwits-filter-lists/
 ||a.zxcvads.com^
@@ -129728,6 +129747,7 @@ dlsdk.appsflyer.com^
 ||d33s3ffr7fotas.cloudfront.net^
 ||dackpartner-web.s3.amazonaws.com^
 ||dc.schibsted.io^
+||dcl-cdn.digitalcaramel.com^
 ||deals.innocode.no^
 ||delivered-by-madington.com^
 ||di.insplanet.com^
