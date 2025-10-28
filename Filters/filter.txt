@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2025-10-28T03:04:17.171Z
+! Last modified: 2025-10-28T04:17:52.607Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -7796,6 +7796,7 @@ vkcdnservice.appspot.com^
 ||adlogists.com^
 ||adlserq.com^
 ||adltserv.com^
+||admaaodfwkcuj.store^
 ||admachina.com^
 ||admangrauc.com^
 ||admangrsw.com^
@@ -15398,6 +15399,7 @@ vkcdnservice.appspot.com^
 ||deityhumcelery.com^
 ||deitynosebleed.com^
 ||dejectedineptvary.com^
+||dekampeeksoa.net^
 ||dekkendw.com^
 ||deksaimpuzi.com^
 ||deksoarguph.net^
@@ -15621,6 +15623,7 @@ vkcdnservice.appspot.com^
 ||dezna.online^
 ||dfaksbltiobcn.website^
 ||dfbwlahtm.com^
+||dfcthngzpxiwc.site^
 ||dfdgfruitie.xyz^
 ||dfdgkwyfharug.online^
 ||dfe89deba4.com^
@@ -20728,6 +20731,7 @@ vkcdnservice.appspot.com^
 ||gncesebtgiyeoot.net^
 ||gnewcwuaertoo.com^
 ||gnewgyld.com^
+||gnfmxcvotyiu.com^
 ||gnfwcrhdmmlku.store^
 ||gnmmbnnbqcwtb.site^
 ||gnmwsxajxlakj.vip^
@@ -21281,6 +21285,7 @@ vkcdnservice.appspot.com^
 ||gthin.site^
 ||gtiqupisxnouh.site^
 ||gtitdwvw.com^
+||gtithiojf.com^
 ||gtlykyvizfrui.space^
 ||gtosmdjgn.xyz^
 ||gtprmwvtduybm.online^
@@ -25241,6 +25246,7 @@ vkcdnservice.appspot.com^
 ||kbkbcpavcqffo.online^
 ||kbkgamfrjsbhdqc.net^
 ||kbmetcacunqgq.store^
+||kbnemyhaay.com^
 ||kbnmnl.com^
 ||kbnsnwgeldtti.website^
 ||kbopnpiyhomtd.space^
@@ -25962,6 +25968,7 @@ vkcdnservice.appspot.com^
 ||kvdqzsytlcxuf.space^
 ||kvfiutytcelqx.site^
 ||kvhfewmbwyads.online^
+||kvicotyzeyt.com^
 ||kvjdkdnikxrev.website^
 ||kvkffstijydyf.website^
 ||kvmaekkoql.com^
@@ -30157,6 +30164,7 @@ vkcdnservice.appspot.com^
 ||normal-analysis.pro^
 ||normalballet.com^
 ||normalfloat.com^
+||normallook.pro^
 ||normallycollector.com^
 ||normallydemandedalter.com^
 ||normallydirtenterprising.com^
@@ -30276,6 +30284,7 @@ vkcdnservice.appspot.com^
 ||npstpazhz.com^
 ||npttprrgr.net^
 ||npttprrgr.xyz^
+||npugjzhcvhxiw.store^
 ||npvgghqmsehdq.club^
 ||npvos.com^
 ||npvqolcucthor.website^
@@ -139178,6 +139187,8 @@ dlsdk.appsflyer.com^
 ||ttnjhlhys.icu^
 ||rsoz.cn^
 ||tkdjrsee.icu^
+||jxal.cn^
+||rstdfyerm.icu^
 ||phodhithp.com^
 ||zdh10270lo.com^
 ||1kiaxb3kl.com^
