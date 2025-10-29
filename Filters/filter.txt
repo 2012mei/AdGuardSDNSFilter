@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2025-10-29T03:12:27.904Z
+! Last modified: 2025-10-29T04:21:59.538Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -11507,6 +11507,7 @@ vkcdnservice.appspot.com^
 ||boaststockingsaucer.com^
 ||boatagemr.qpon^
 ||boatagerooflet.help^
+||boatcontinuing.com^
 ||boatheeh.com^
 ||boatjadeinconsistency.com^
 ||boazaicheewasti.net^
@@ -22144,6 +22145,7 @@ vkcdnservice.appspot.com^
 ||hgbn.rocks^
 ||hgbqowuzgonia.website^
 ||hgbqsxuptruuf.website^
+||hgeagyaxnsqq.com^
 ||hgesqwfqw.online^
 ||hgfosqroovvpw.website^
 ||hggcovkyhosxz.click^
@@ -23387,6 +23389,7 @@ vkcdnservice.appspot.com^
 ||imbet.site^
 ||imbfsidnchope.site^
 ||imbruesacraein.world^
+||imbueprescriptionhumiliation.com^
 ||imbuteresaws.cyou^
 ||imbutewigtail.cyou^
 ||imcdn.pro^
@@ -25577,6 +25580,7 @@ vkcdnservice.appspot.com^
 ||kickhoistsuccess.com^
 ||kidcotehumific.rest^
 ||kiddiesdruidic.shop^
+||kiddingpseud.com^
 ||kidimportant.com^
 ||kidnapbarkey.cyou^
 ||kidnapstrongestfeathers.com^
@@ -27799,6 +27803,7 @@ vkcdnservice.appspot.com^
 ||magicianmost.com^
 ||magnificent-listen.com^
 ||magnificentdates.com^
+||magnificentdeedsenses.com^
 ||magnificentmanlyyeast.com^
 ||magnificentpeak.pro^
 ||magnificentsentence.pro^
@@ -28235,6 +28240,7 @@ vkcdnservice.appspot.com^
 ||mediaxchange.co^
 ||medical-aid.net^
 ||medicalcandid.com^
+||medicalcause.pro^
 ||medicationspoons.com^
 ||medicinemannerruthless.com^
 ||medievalbraneedlework.com^
@@ -28451,6 +28457,7 @@ vkcdnservice.appspot.com^
 ||mgivusiufzagm.space^
 ||mgixkyviq.net^
 ||mgixkyviq.xyz^
+||mgjkoyjyfoqas.site^
 ||mgkaxqzmwainx.space^
 ||mgladthereisso.com^
 ||mgleqgatzedjk.com^
@@ -30187,6 +30194,7 @@ vkcdnservice.appspot.com^
 ||nmwjoscu.com^
 ||nmyfedath.com^
 ||nmynalaphswdf.space^
+||nmypizkt.com^
 ||nmzanxng.com^
 ||nnacoevirghpr.store^
 ||nncdtquddmjjb.site^
@@ -32319,6 +32327,7 @@ vkcdnservice.appspot.com^
 ||panjsnlmneasi.store^
 ||pannamdashee.com^
 ||panocero.com^
+||panpbibrvqyen.space^
 ||pansywebsite.com^
 ||pantafives.com^
 ||pantasskirr.click^
@@ -32797,6 +32806,7 @@ vkcdnservice.appspot.com^
 ||pfiuyt.com^
 ||pfmiliexijdfl.website^
 ||pfmmzmdba.com^
+||pfnmjvrvy.com^
 ||pfoodbhip.com^
 ||pfoxbasytwqcjvy.com^
 ||pfpmdbyighkrn.online^
@@ -34323,6 +34333,7 @@ vkcdnservice.appspot.com^
 ||pudijoghimtoo.net^
 ||pueblossedilia.com^
 ||puefknpdsruum.website^
+||puerjtzvnpdmp.website^
 ||puffinskauris.help^
 ||puggedshushes.cyou^
 ||pugmarksquiffy.com^
@@ -35737,6 +35748,7 @@ vkcdnservice.appspot.com^
 ||rebloomspelk.rest^
 ||reboantzarf.com^
 ||rebootsormers.com^
+||rebopsmurly.com^
 ||rebosogabby.cyou^
 ||rebrew-foofteen.com^
 ||rebukeemotion.com^
@@ -40334,6 +40346,7 @@ vkcdnservice.appspot.com^
 ||terrinecocco.qpon^
 ||tersatedtheother.com^
 ||testcede.com^
+||testrole.care^
 ||testtubeabilityinvited.com^
 ||testybeautiful.com^
 ||tetteruroodal.click^
@@ -131758,7 +131771,6 @@ dlsdk.appsflyer.com^
 ! Bad: ||adssubdomain.legitwebsite.com^ (should be in adservers_firstparty.txt)
 !
 !
-||testrole.care^
 ||mdznads.pages.dev^
 ||reklam.ibrahimyurttapan.com.tr^
 ||reklam.arailetisim.com^
