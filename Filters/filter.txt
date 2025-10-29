@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2025-10-29T04:21:59.538Z
+! Last modified: 2025-10-29T06:24:33.574Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -6420,6 +6420,7 @@ vkcdnservice.appspot.com^
 ||1ato.com^
 ||1b14e0ee42d5e195c9aa1a2f5b42c710.com^
 ||1b384556ae.com^
+||1b38tqq7788wfrnti3.cfd^
 ||1b3tmfcbq.de^
 ||1b87094b09.com^
 ||1b9e934cbd.com^
@@ -11077,11 +11078,13 @@ vkcdnservice.appspot.com^
 ||bhu9xjvxku1jrxul79wij8i9.cfd^
 ||bhwfvfevnqg.com^
 ||bhyyiodopichc.site^
+||biackbve.com^
 ||biakvwhahqeto.site^
 ||biancasunlit.com^
 ||biaqghckapnum.online^
 ||biassedlunker.cfd^
 ||biatcrsqdiusny.xyz^
+||bibbevgvdvlua.online^
 ||bibbonsvoter.cyou^
 ||bibbstropate.rest^
 ||bibbysilkmen.com^
@@ -12143,6 +12146,7 @@ vkcdnservice.appspot.com^
 ||buljlwaclnocq.site^
 ||bulkconflictpeculiarities.com^
 ||bulky-battle.com^
+||bulky-winter.pro^
 ||bulkypush.pro^
 ||bullaninique.cyou^
 ||bulletadopt.com^
@@ -12604,6 +12608,7 @@ vkcdnservice.appspot.com^
 ||captureukdmyatyten.org^
 ||caputtalite.shop^
 ||caquethaloa.com^
+||caracalabscess.cyou^
 ||caraganaarborescenspendula.com^
 ||caranxyowling.cfd^
 ||caravanfried.com^
@@ -14875,6 +14880,7 @@ vkcdnservice.appspot.com^
 ||cxfbpspnezfak.online^
 ||cxfzjbczatqgm.space^
 ||cxhbourj.net^
+||cxhgp43vo2oprrkmry5tjyo3i.rest^
 ||cxhumkyjvd.com^
 ||cxidvoykswqjmt.net^
 ||cxikfjqfiwxta.vip^
@@ -17035,8 +17041,10 @@ vkcdnservice.appspot.com^
 ||eclkmpbn.com^
 ||eclkmpsa.com^
 ||eclnqdlbtgokj.site^
+||eclunhuzuyoia.store^
 ||eclvgswxvthwx.space^
 ||ecmsfknkqb.com^
+||ecntpxvcdvmsn.website^
 ||econventa.com^
 ||ecortiwace.com^
 ||ecphovainlace.cyou^
@@ -17540,6 +17548,7 @@ vkcdnservice.appspot.com^
 ||emotional-efficiency.pro^
 ||emotivejinx.top^
 ||empalerwhang.qpon^
+||empaquatlbsgn.space^
 ||empdat.com^
 ||empirecdn.io^
 ||empirelayer.club^
@@ -19013,6 +19022,7 @@ vkcdnservice.appspot.com^
 ||fjbtsczhpnche.store^
 ||fjeamibbbhxuf.site^
 ||fjfpdjajzzymi.online^
+||fjgcgzayjh.com^
 ||fjgnksqydotkc.net^
 ||fjgwwishotqppsu.xyz^
 ||fjhpswuk.com^
@@ -21170,6 +21180,7 @@ vkcdnservice.appspot.com^
 ||grene.site^
 ||grepeiros.com^
 ||grerdaibools.net^
+||grerdoaltouckoa.net^
 ||grergoomsoo.net^
 ||greroaso.com^
 ||gretseemudseevo.net^
@@ -21893,6 +21904,7 @@ vkcdnservice.appspot.com^
 ||hczbwlxihsjoc.website^
 ||hd100546c.com^
 ||hdacode.com^
+||hdaglczxvulaj.online^
 ||hdat.xyz^
 ||hdaxeosojlsbn.website^
 ||hdbcdn.com^
@@ -25966,6 +25978,7 @@ vkcdnservice.appspot.com^
 ||kroeuqqqi.com^
 ||krofqawozfnma.website^
 ||kromerefinds.cyou^
+||kronendaylong.help^
 ||kroonioctofid.click^
 ||krpoxpezhuqqx.online^
 ||krrcqsiew.com^
@@ -30995,6 +31008,7 @@ vkcdnservice.appspot.com^
 ||oempafnyfiexpe.com^
 ||oemutbhpmcvfpnv.com^
 ||oenhpacsdtt.xyz^
+||oenlqnoljqljsg.com^
 ||oeoawmxr.com^
 ||oeoyerdysxsrc.space^
 ||oepahvkqvihnh.space^
@@ -31320,6 +31334,7 @@ vkcdnservice.appspot.com^
 ||ominouscedarwalker.com^
 ||ominousgutter.com^
 ||omission119.fun^
+||omissiongreatestoriginal.com^
 ||omlkfwhnqdiekxy.net^
 ||ommcrywbemojn.space^
 ||ommwrhyrcbgl.com^
@@ -31350,6 +31365,7 @@ vkcdnservice.appspot.com^
 ||on1nzbp3.com^
 ||onacmacaighuth.net^
 ||onad.eu^
+||onagracorrals.qpon^
 ||onahrpcvwuo.net^
 ||onameketathar.com^
 ||onatallcolumn.com^
@@ -36701,6 +36717,7 @@ vkcdnservice.appspot.com^
 ||romperspardesi.com^
 ||rompishvariola.com^
 ||romsxqicvnbvx.store^
+||rondeldilates.cfd^
 ||ronfxlrttuldy.website^
 ||roobetaffiliates.com^
 ||roofprison.com^
@@ -36886,6 +36903,7 @@ vkcdnservice.appspot.com^
 ||rrqwarwrewojy.top^
 ||rrqwarwrewolk.top^
 ||rrqwarwrewrlj.top^
+||rrqwarwrewybv.top^
 ||rrryrtsxfqnyp.store^
 ||rruxvlycnmeko.xyz^
 ||rrxoysq.art^
@@ -39373,6 +39391,7 @@ vkcdnservice.appspot.com^
 ||stewishaspic.cfd^
 ||stewportfoliomeaning.com^
 ||stfeukufunden.org^
+||stfqwogcmrqqy.website^
 ||stgcdn.com^
 ||stgowan.com^
 ||sthevoyager.org^
@@ -41346,6 +41365,7 @@ vkcdnservice.appspot.com^
 ||trocheefurl.rest^
 ||trochilcurvy.click^
 ||trocoskyless.world^
+||trodeunfull.cfd^
 ||trokemar.com^
 ||trollsvide.com^
 ||trololopush2023push.com^
@@ -51324,6 +51344,7 @@ vkcdnservice.appspot.com^
 !
 !
 !
+||trackingmyadsas.com^
 ||sa.openmedia.co^
 ||c1.prmonline.ru^
 ||heidy.makeup^
@@ -122314,6 +122335,8 @@ vkcdnservice.appspot.com^
 ! Blocking piwik analytics subdomain(for DNS filtering)
 |piwik.
 !
+||touch.yesim.
+||uac.heraldcorp.com^
 ||applytics.my1337jog.run^
 ||data-track*.yingxiong.com^
 ||applytics.os4work.com^
