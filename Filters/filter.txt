@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2025-10-30T03:07:59.772Z
+! Last modified: 2025-10-30T04:17:38.155Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -18880,6 +18880,7 @@ vkcdnservice.appspot.com^
 ||ffswithabras.com^
 ||fftwljklhkigm.site^
 ||fftwttdqtpcwd.com^
+||ffvawxcyrtefbg.com^
 ||fgaefokzdcuez.website^
 ||fgcurevocpkmh.space^
 ||fgeivosgjk.com^
@@ -20644,6 +20645,7 @@ vkcdnservice.appspot.com^
 ||gjafuodelpyff.store^
 ||gjaudxmpdfthv.com^
 ||gjcgqqbfyb.com^
+||gjeswfioj.com^
 ||gjfyeghpsuxmx.space^
 ||gjigle.com^
 ||gjiruqrsnzrsi.store^
@@ -22837,6 +22839,7 @@ vkcdnservice.appspot.com^
 ||hsrvz.com^
 ||hstqeduybnp.com^
 ||hstsmkwrzx.com^
+||hsuflbmsoyrgi.website^
 ||hsutwdglfiefqiy.com^
 ||hsvgxmljiaoob.fun^
 ||hsvnpfchuzpma.space^
@@ -34488,6 +34491,7 @@ vkcdnservice.appspot.com^
 ||pudijoghimtoo.net^
 ||pueblossedilia.com^
 ||puefknpdsruum.website^
+||pueowjofhubvq.space^
 ||puerjtzvnpdmp.website^
 ||puffinskauris.help^
 ||puggedshushes.cyou^
@@ -34975,6 +34979,7 @@ vkcdnservice.appspot.com^
 ||qfpfyddaodmcp.store^
 ||qfqbznmeuztgs.website^
 ||qfqdbkxmovpli.xyz^
+||qfuiyvfxrdmym.store^
 ||qfuspdxuwft.com^
 ||qfuylknxlzlpv.online^
 ||qfvclgkqhfd.com^
@@ -41653,6 +41658,7 @@ vkcdnservice.appspot.com^
 ||tsrfnqwtaoqdspv.net^
 ||tstats-13fkh44r.com^
 ||tsureslipper.com^
+||tsvmwjhobopfx.space^
 ||tswyrosdqnpho.store^
 ||tswzrqpkvltnx.website^
 ||tsxccsxbdloxt.online^
