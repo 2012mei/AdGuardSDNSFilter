@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2025-10-30T12:31:25.086Z
+! Last modified: 2025-10-30T14:15:38.967Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -22,6 +22,8 @@
 !
 !
 !
+||aacycjgsifojcw.com^
+||moofoonepaw.com^
 ||ritzumafma.com^
 ||stinafulltiukmep.org^
 ||rel-s.com^
@@ -19541,6 +19543,7 @@ vkcdnservice.appspot.com^
 ||fotoompi.com^
 ||fotsaulr.net^
 ||fouettbrauna.com^
+||fouleegleechy.com^
 ||foulierne.qpon^
 ||foulishschwa.click^
 ||foullyploce.cfd^
@@ -20105,6 +20108,7 @@ vkcdnservice.appspot.com^
 ||gadspmz.com^
 ||gaelwvtomjmbm.store^
 ||gaendashers.help^
+||gaetheydeys.rest^
 ||gafioraqw.xyz^
 ||gafteeshoaxoucm.net^
 ||gagebonus.com^
@@ -28131,6 +28135,7 @@ vkcdnservice.appspot.com^
 ||maplehache.cfd^
 ||mapsoumpooroo.com^
 ||maquiags.com^
+||maracaspeevers.click^
 ||marantaexterne.rest^
 ||marapcana.online^
 ||marathonseaside.com^
@@ -28536,6 +28541,7 @@ vkcdnservice.appspot.com^
 ||merisescran.help^
 ||merlindappled.shop^
 ||mermaidconclusionwaited.com^
+||meropgenian.click^
 ||merrycontext.pro^
 ||merterpazar.com^
 ||meselsued.com^
@@ -29151,7 +29157,6 @@ vkcdnservice.appspot.com^
 ||monxserver.com^
 ||moodirresolute.com^
 ||moodjav12.fun^
-||moofoonepaw.com^
 ||mooglegrofa.net^
 ||moogloadouzub.net^
 ||moogratkzvmwt.online^
@@ -29607,6 +29612,7 @@ vkcdnservice.appspot.com^
 ||mxdcdefgbyyeb.website^
 ||mxeeslnguh.com^
 ||mxfglajkqrwsv.online^
+||mxfuwvrxudpkr.website^
 ||mxgaxuxgitqav.online^
 ||mxgi4yblnquujool.rest^
 ||mxglfjjyjkir.xyz^
@@ -29910,6 +29916,7 @@ vkcdnservice.appspot.com^
 ||nckojcploecia.online^
 ||nckyebkwqugez.website^
 ||nclehfpupenne.store^
+||nclwtwijazso.com^
 ||ncmeojlrybcza.online^
 ||ncoyercwrriqc.website^
 ||ncqfppkwczjal.site^
@@ -31099,6 +31106,7 @@ vkcdnservice.appspot.com^
 ||ocbtpubcaowl.com^
 ||occasionalmanner.com^
 ||occasionedcaneturner.com^
+||occjrzpp.com^
 ||occurclaimed.com^
 ||occurseactin.com^
 ||occxfzqyhhq.com^
@@ -34946,6 +34954,7 @@ vkcdnservice.appspot.com^
 ||qcjgyhgwtzlzv.space^
 ||qcjyyaiabhmrn.store^
 ||qckwwrbyjejwi.website^
+||qcmlcwymvatsn.site^
 ||qcnfhvtvlwbhz.store^
 ||qcnpyyughyluz.online^
 ||qcnragymlulzk.website^
@@ -35279,6 +35288,7 @@ vkcdnservice.appspot.com^
 ||qppq166n.de^
 ||qpqbyxuoqjscrv.com^
 ||qpsaktcxcldmp.online^
+||qpsygjnwhungniv.com^
 ||qptfdtjasvzmb.site^
 ||qpuajvzdhsmrk.space^
 ||qpweyjmudecjc.online^
@@ -40584,6 +40594,7 @@ vkcdnservice.appspot.com^
 ||tenthsfrumpy.com^
 ||tenthsvolley.life^
 ||tentioniaukmlastit.com^
+||tentorykolobia.cfd^
 ||tenuredwese.shop^
 ||tenurehabille.shop^
 ||tenzonebrazed.shop^
@@ -42030,6 +42041,7 @@ vkcdnservice.appspot.com^
 ||tzokruogxo.com^
 ||tzsxqxxjvzfeq.one^
 ||tzvpn.site^
+||tzxbgwdsbtjzu.online^
 ||u-oxmzhuo.tech^
 ||u0054.com^
 ||u0064.com^
@@ -43459,6 +43471,7 @@ vkcdnservice.appspot.com^
 ||vgkaszpddsetc.online^
 ||vgkczktpjwypf.space^
 ||vgoawzppsjrff.store^
+||vgpjkpqwiqgie.space^
 ||vgqixiwdtjgbv.website^
 ||vgrgwtalqk.com^
 ||vgtevnzhlujfv.website^
@@ -43718,6 +43731,7 @@ vkcdnservice.appspot.com^
 ||vlitag.com^
 ||vlknaapixtq.com^
 ||vllrvynklavnc.space^
+||vlmllaeqhcvnb.store^
 ||vlnbnmlwzndjm.space^
 ||vlnjusck.com^
 ||vlnk.me^
@@ -45628,6 +45642,7 @@ vkcdnservice.appspot.com^
 ||xemwmuayozxti.space^
 ||xenonsandpit.cyou^
 ||xeoviuozdirmh.com^
+||xepluwsaisxgi.website^
 ||xepsygfqsvyyv.tech^
 ||xeqkxbzbubpdb.site^
 ||xerahhhwhpcey.online^
@@ -139713,6 +139728,7 @@ dlsdk.appsflyer.com^
 ||zbl40hvzzy.com^
 ||zdh10301lo.com^
 ||ijxi.cn^
+||bflvxv.icu^
 ||careless05.com^
 ||zdh10290lo.com^
 ||1futnsio0.com^
