@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2025-10-31T06:23:02.342Z
+! Last modified: 2025-10-31T08:20:06.701Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -8183,6 +8183,7 @@ vkcdnservice.appspot.com^
 ||agcdn.com^
 ||agdoewhybofgr.site^
 ||agedvalue.pro^
+||agedycsmjwbtt.website^
 ||ageevjvw.net^
 ||agegodfatherbritish.com^
 ||agency2.ru^
@@ -9439,6 +9440,7 @@ vkcdnservice.appspot.com^
 ||aukthwaealsoext.com^
 ||aulahmuuniglx.space^
 ||aulingimpora.club^
+||aulnotwhlqqxi.online^
 ||aulrertogo.xyz^
 ||aulsoonaimperd.net^
 ||aumaupoy.net^
@@ -13250,6 +13252,7 @@ vkcdnservice.appspot.com^
 ||cpfbqfwcihepe.space^
 ||cpfdjfwbxcyny.online^
 ||cpfyghgfkdgpu.website^
+||cphckhiishp.com^
 ||cpjgcxcpswkai.space^
 ||cpjxmaecroqix.online^
 ||cpkwmmawszpkj.store^
@@ -17139,6 +17142,7 @@ vkcdnservice.appspot.com^
 ||fidgethid.com^
 ||fidhkhqccgqkh.website^
 ||fidjecdmjqvmnvn.xyz^
+||fidxillyibuxe.space^
 ||fiercedibbles.click^
 ||fiercerkelek.cyou^
 ||fieryinjure.com^
@@ -20946,6 +20950,7 @@ vkcdnservice.appspot.com^
 ||hxtvpdjsjgvvk.site^
 ||hxvurenflajbf.online^
 ||hxwppwsqfoysay.net^
+||hxxtbkbgnxaw.com^
 ||hxzdmcgrkmxsz.website^
 ||hyaccgrjkbsoz.online^
 ||hybodusdouc.rest^
@@ -21428,6 +21433,7 @@ vkcdnservice.appspot.com^
 ||imirnneipcvaq.com^
 ||imitateupsettweak.com^
 ||imitrck.net^
+||imjgkrmhfvznf.online^
 ||imkirh.com^
 ||immaculate-vacation.pro^
 ||immaterial-mother.com^
@@ -29345,6 +29351,7 @@ vkcdnservice.appspot.com^
 ||okdyvjqdrbguk.online^
 ||okeezyxflelvs.website^
 ||okewheexol.com^
+||okiiajtpeyycg.website^
 ||okjlteobj.com^
 ||oklaozkkitxoz.online^
 ||oklbhyzogmzxq.rocks^
@@ -30353,6 +30360,7 @@ vkcdnservice.appspot.com^
 ||paceaskhari.com^
 ||pacekami.com^
 ||pacesconcise.com^
+||pachakcokes.cyou^
 ||pachegaimax.net^
 ||packagebellysmoothly.com^
 ||packeteagle.com^
@@ -32249,6 +32257,7 @@ vkcdnservice.appspot.com^
 ||pshb.me^
 ||pshmetrk.com^
 ||pshvpyilxuow.net^
+||psibhuhohmdzq.store^
 ||psigradinals.com^
 ||psilaurgi.net^
 ||psilsophulsich.net^
@@ -33093,6 +33102,7 @@ vkcdnservice.appspot.com^
 ||qksrv1.com^
 ||qksz.net^
 ||qktfhnxogqx.com^
+||qkuddzkexfiez.site^
 ||qkvfnjfhdparr.store^
 ||qkxwhdgnpczur.space^
 ||qkxwtytuaybam.space^
@@ -33842,6 +33852,7 @@ vkcdnservice.appspot.com^
 ||rdexylsftabnr.store^
 ||rdfeesvsxhsyn.online^
 ||rdhsefvixvaws.space^
+||rdhzeagmyxdim.site^
 ||rdilgjxfabtiu.life^
 ||rdiloktcbwkhg.online^
 ||rdizbuadhvcrs.site^
@@ -35825,6 +35836,7 @@ vkcdnservice.appspot.com^
 ||sduvfegbppemz.store^
 ||sdvouppehhvpg.site^
 ||sdvsrjqvsindt.com^
+||sdxkukveddwbi.site^
 ||sdyfukskmnv.com^
 ||sdyphzdgrctcc.site^
 ||sdzqquyuzaema.space^
@@ -42011,6 +42023,7 @@ vkcdnservice.appspot.com^
 ||vwoalbekrhqam.online^
 ||vwpttkoh.xyz^
 ||vwrectxemak.com^
+||vwrrnekqrsxqb.com^
 ||vwtcrfoovanir.online^
 ||vwwlmjwnaobmy.top^
 ||vwwydixeuufec.tech^
@@ -130055,6 +130068,7 @@ dlsdk.appsflyer.com^
 ! Bad: ||adssubdomain.legitwebsite.com^ (should be in adservers_firstparty.txt)
 !
 !
+||lups1.site^
 ||mdznads.pages.dev^
 ||reklam.ibrahimyurttapan.com.tr^
 ||reklam.arailetisim.com^
@@ -137717,6 +137731,7 @@ dlsdk.appsflyer.com^
 ||xpdgvlxwn.icu^
 ||lyjq9gwob.com^
 ||rvrl1srlq.com^
+||zdh10311lo.com^
 ||zdh10300lo.com^
 ||dlkliqrxt2.com^
 ||gv0oi9ecji.com^
