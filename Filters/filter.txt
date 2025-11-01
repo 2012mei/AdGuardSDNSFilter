@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2025-11-01T06:20:41.343Z
+! Last modified: 2025-11-01T08:18:04.314Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -7222,6 +7222,7 @@ vkcdnservice.appspot.com^
 ||aabproxytests.top^
 ||aabtestsproxydomain.top^
 ||aada35c15f.com^
+||aaedgdwcrxtkw.site^
 ||aafcwvjpryevi.online^
 ||aafdcq.com^
 ||aagm.link^
@@ -7725,6 +7726,7 @@ vkcdnservice.appspot.com^
 ||admirablepositive.com^
 ||admiralimaginablesnarl.com^
 ||admireddepressedsarcastic.com^
+||admiredtrick.com^
 ||admiregarrisonnetwork.com^
 ||admissibleconference.com^
 ||admissiblenutmegoperator.com^
@@ -16236,6 +16238,7 @@ vkcdnservice.appspot.com^
 ||eoflgybccinwq.website^
 ||eofufortchris.org^
 ||eofwlnyaxwfqt.global^
+||eogkxhtmoctjp.com^
 ||eojfxignjyzev.website^
 ||eolioadwse.xyz^
 ||eolithpopedom.cfd^
@@ -19342,6 +19345,7 @@ vkcdnservice.appspot.com^
 ||growing-file.pro^
 ||growingtotallycandied.com^
 ||growjav11.fun^
+||growledbravely.com^
 ||growlinginflation.pro^
 ||growlingpension.com^
 ||grown-inpp-code.com^
@@ -20502,6 +20506,7 @@ vkcdnservice.appspot.com^
 ||hmqphmhktywbq.space^
 ||hmrjcocqi.com^
 ||hmsuxcnrcyzmn.today^
+||hmwfxljbhtjvp.store^
 ||hmxg5mhyx.com^
 ||hmxoufchteecf.world^
 ||hmxtqllaxspck.site^
@@ -22223,6 +22228,7 @@ vkcdnservice.appspot.com^
 ||ittorchicer.com^
 ||ittoxicroakon.club^
 ||itudxxjroadevb.com^
+||ituxolroarg.com^
 ||itvalleynews.com^
 ||itvfpesimiyuy.tech^
 ||itvpxyhsacbwm.online^
@@ -22677,6 +22683,7 @@ vkcdnservice.appspot.com^
 ||jfzucsihbphzt.store^
 ||jgagkabmqyzya.top^
 ||jganqtdsam.net^
+||jgcmzlhhvxvpf.website^
 ||jgfuxnrloev.com^
 ||jggylqznkywaj.top^
 ||jgiajhhxeceki.online^
@@ -22797,6 +22804,7 @@ vkcdnservice.appspot.com^
 ||jjryhyjbsykiqpv.net^
 ||jjudwgoiczwke.online^
 ||jjwsogjn.com^
+||jjxmhxtqafdpa.store^
 ||jjzuqyezehdnj.space^
 ||jk4lmrf2.de^
 ||jkajyrkjmoeez.top^
@@ -26434,6 +26442,7 @@ vkcdnservice.appspot.com^
 ||mediaupspew.rest^
 ||mediaxchange.co^
 ||medical-aid.net^
+||medical-character.com^
 ||medicalcandid.com^
 ||medicalcause.pro^
 ||medicationspoons.com^
@@ -27350,6 +27359,7 @@ vkcdnservice.appspot.com^
 ||mpwhizbkgewzg.vip^
 ||mpwoowqwsdzpz.space^
 ||mpwpttkomxhhb.vip^
+||mpxrzqogafyxv.space^
 ||mpxtvxmvsm.xyz^
 ||mpylymygeearg.site^
 ||mpzqirfeaqene.website^
@@ -29432,6 +29442,7 @@ vkcdnservice.appspot.com^
 ||oinkedbowls.com^
 ||ointmentapathetic.com^
 ||ointmentbarely.com^
+||oirgsgzxkowkn.website^
 ||oirtqcmkvgsln.com^
 ||oiruhwtodmhcb.store^
 ||oisfwfiayxtbw.com^
@@ -30095,6 +30106,7 @@ vkcdnservice.appspot.com^
 ||otoaowuyvdacd.online^
 ||otocyontentful.cyou^
 ||otofthesefa.org^
+||otowdvfis.com^
 ||otoyueuprumok.icu^
 ||otpftzljmqtsc.space^
 ||otpxlgoektqp.com^
@@ -31837,6 +31849,7 @@ vkcdnservice.appspot.com^
 ||porbzpfmverzb.today^
 ||porchmy.com^
 ||porculaworkman.cfd^
+||poredtray.help^
 ||porikatha.com^
 ||porkpiecosmo.com^
 ||porkpielepidin.com^
@@ -33707,6 +33720,7 @@ vkcdnservice.appspot.com^
 ||qylmbeojmzyez.top^
 ||qylyknxkeep.com^
 ||qymkbmjssadw.top^
+||qyngpuya.com^
 ||qyoprobasxtbk.store^
 ||qypyleahjucze.com^
 ||qyqvxtufskevk.site^
@@ -39063,6 +39077,7 @@ vkcdnservice.appspot.com^
 ||thylouple.com^
 ||thymelecatch.click^
 ||thyselacknown.com^
+||thzzcoebytprh.online^
 ||tianguesatire.rest^
 ||tiangzwrvnify.website^
 ||tiarajustina.com^
@@ -40277,6 +40292,7 @@ vkcdnservice.appspot.com^
 ||uciockqdyzlim.site^
 ||ucjfbrzxxlbok.online^
 ||ucmsrfvvjpht.net^
+||ucnkxbirf.com^
 ||ucpfezjbcrmwh.space^
 ||ucsnddigmtwoe.space^
 ||ucuoknexq.global^
@@ -41439,6 +41455,7 @@ vkcdnservice.appspot.com^
 ||vdeavpfroe.com^
 ||vdeiseyswdfco.global^
 ||vdgtzmfxlfpmb.space^
+||vdjzreyjxrjtn.website^
 ||vdkvjefuqvfoh.site^
 ||vdlvry.com^
 ||vdocifgpcjirs.online^
@@ -41847,6 +41864,7 @@ vkcdnservice.appspot.com^
 ||vizoalygrenn.com^
 ||vjajkbewrmjbw.top^
 ||vjajkbewrmvwm.top^
+||vjbefwlkvimxg.store^
 ||vjdciu.com^
 ||vjembmkzbeezj.top^
 ||vjembmkzbeyvy.top^
