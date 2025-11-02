@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2025-11-02T03:12:05.901Z
+! Last modified: 2025-11-02T04:18:43.451Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -10563,6 +10563,7 @@ vkcdnservice.appspot.com^
 ||biodrising.shop^
 ||biolw.cloud^
 ||biontsjudokas.help^
+||bioxiderattage.com^
 ||bipartyskirled.cyou^
 ||biphic.com^
 ||biptoakrolaimte.xyz^
@@ -11538,6 +11539,7 @@ vkcdnservice.appspot.com^
 ||bxglynwnlnrwa.website^
 ||bxiblgutsaead.site^
 ||bxiqmpioldqqk.online^
+||bxmyyupyexyci.space^
 ||bxpirsojnnuvq.xyz^
 ||bxrtwyavhyb.online^
 ||bxsssywlwocdmdw.net^
@@ -15226,6 +15228,7 @@ vkcdnservice.appspot.com^
 ||drutsylaylzqx.site^
 ||drvhpkomem.xyz^
 ||drvnycycgoslg.site^
+||drwfkzlumcyob.space^
 ||drxdbjkowgmgyx.xyz^
 ||drybid.pro^
 ||dryerhalfmoon.com^
@@ -21979,6 +21982,7 @@ vkcdnservice.appspot.com^
 ||interiorchalk.com^
 ||interlik.co.in^
 ||internal-show.com^
+||internalreveal.com^
 ||internewsweb.com^
 ||internodeid.com^
 ||interpersonalskillse.com^
@@ -32953,6 +32957,7 @@ vkcdnservice.appspot.com^
 ||pvdbkr.com^
 ||pvfcqfjymgnua.store^
 ||pvgcedbveetxz.website^
+||pvlmkccoimeqpx.com^
 ||pvmycolrkfqsjd.com^
 ||pvncyytieok.com^
 ||pvnsfrhlfpwbo.space^
@@ -45629,6 +45634,7 @@ vkcdnservice.appspot.com^
 ||zuqxuomhfipor.space^
 ||zureiskedamyb.world^
 ||zurgnkluzowya.store^
+||zusgorphsbeny.site^
 ||zutcjnjjv.com^
 ||zuwufag.com^
 ||zuxbysnundhbl.com^
