@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2025-11-03T03:13:49.594Z
+! Last modified: 2025-11-03T04:24:30.716Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -11770,6 +11770,7 @@ vkcdnservice.appspot.com^
 ||candourglumes.click^
 ||candyai.love^
 ||candyaversion.com^
+||candyhbodes.rest^
 ||candyhiss.com^
 ||canekilttantrum.com^
 ||canelorets.com^
@@ -12160,6 +12161,7 @@ vkcdnservice.appspot.com^
 ||cewmyvfmjjbit.store^
 ||cexofira.com^
 ||cexucetum.com^
+||ceyjnbst.com^
 ||cf6fae15c3.com^
 ||cfarvjcutttkn.website^
 ||cfcezivxdpevd.online^
@@ -22916,6 +22918,7 @@ vkcdnservice.appspot.com^
 ||jigsawstitlike.click^
 ||jigsawthirsty.com^
 ||jijeahjtjzpxr.space^
+||jijgoqmodexjzh.com^
 ||jijrafocr.com^
 ||jikrujajecmeksu.net^
 ||jimimpwmgzycc.site^
@@ -28942,6 +28945,7 @@ vkcdnservice.appspot.com^
 ||nrhxvuvbthck.net^
 ||nriceukwater.org^
 ||nrihauhzmmxha.store^
+||nrjnxbdqgo.com^
 ||nrjxrennaxcftuq.com^
 ||nrnma.com^
 ||nrnmbyjsyxgr.xyz^
@@ -33799,6 +33803,7 @@ vkcdnservice.appspot.com^
 ||quarreltopped.help^
 ||quarteawless.cyou^
 ||quarterbackchangeless.com^
+||quarterlybeyond.com^
 ||quarterlybeyond.pro^
 ||quarterlyservice.pro^
 ||quarterlysun.pro^
@@ -40750,6 +40755,7 @@ vkcdnservice.appspot.com^
 ||ujducdplaicwa.store^
 ||ujdvvfrqujgfl.space^
 ||ujekrtaxqxy.com^
+||ujgjrajahqcpv.website^
 ||ujnfkyefpvheo.site^
 ||ujooagoi.com^
 ||ujpfkhrose.com^
@@ -42589,6 +42595,7 @@ vkcdnservice.appspot.com^
 ||vwxfxcamyhpqq.online^
 ||vwzrmuzcjxpkh.space^
 ||vxbstsvddlepb.online^
+||vxdbcutwrzzet.website^
 ||vxddydruqitjl.space^
 ||vxdehrxgnvhksfe.com^
 ||vxgvqcxghgtqe.site^
@@ -45110,6 +45117,7 @@ vkcdnservice.appspot.com^
 ||yoyadsdom.com^
 ||yoyjdfpylpyfl.space^
 ||yozxgwnjsbspo.website^
+||ypazheudgumun.store^
 ||ype7.com^
 ||ypedyumnpafvy.xyz^
 ||ypersonalrecome.com^
@@ -45206,6 +45214,7 @@ vkcdnservice.appspot.com^
 ||ytsa.net^
 ||ytseotpnuzrdc.site^
 ||ytsuptbpkgdq.net^
+||ytsxuxsdjlwff.store^
 ||yttompthree.com^
 ||ytvpxycvnjtow.site^
 ||ytwkxqqvwgywl.com^
@@ -45483,6 +45492,7 @@ vkcdnservice.appspot.com^
 ||zeroglamour.com^
 ||zerorson.com^
 ||zerothtrophal.digital^
+||zeruwzwdzfpeo.site^
 ||zerzvqrzzqmzz.top^
 ||zerzvqrzzqomb.top^
 ||zerzvqrzzqoro.top^
