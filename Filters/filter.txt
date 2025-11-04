@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2025-11-04T18:22:27.916Z
+! Last modified: 2025-11-04T20:18:05.565Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -9739,6 +9739,7 @@ vkcdnservice.appspot.com^
 ||axhiymziopw.com^
 ||axhkkigc.com^
 ||axhqzjtpfwrfg.tech^
+||axhwnwviphlyr.space^
 ||axilfroisse.digital^
 ||axilstonics.help^
 ||axisdoctrine.com^
@@ -9814,6 +9815,7 @@ vkcdnservice.appspot.com^
 ||azgpciab.com^
 ||azilianmazy.click^
 ||azimechgirosol.top^
+||azirpnmw.com^
 ||azjmp.com^
 ||azkwwrejomazr.top^
 ||azkwwrejomwjb.top^
@@ -12262,6 +12264,7 @@ vkcdnservice.appspot.com^
 ||cgjobsvomesbu.space^
 ||cgjowhzaneoli.love^
 ||cgknhsvcjm.com^
+||cgltfkdmgfafm.site^
 ||cgltweiaokwbt.store^
 ||cgmfhzvqykwxg.store^
 ||cgnbrphifspug.online^
@@ -18580,6 +18583,7 @@ vkcdnservice.appspot.com^
 ||gbdkbtuzvqrun.fun^
 ||gbdoyxqikbvfigb.xyz^
 ||gbedxtcoyviwt.space^
+||gbemcylkyl.com^
 ||gbengene.com^
 ||gbevrhrgpslkz.online^
 ||gbfys.global^
@@ -19344,6 +19348,7 @@ vkcdnservice.appspot.com^
 ||gpmodmpdrwbrx.space^
 ||gpmznplrczobob.com^
 ||gppslmcuwg.net^
+||gppxchiueswud.online^
 ||gpsecureads.com^
 ||gpseyeykuwgn.rocks^
 ||gptzluojzguhq.online^
@@ -25329,6 +25334,7 @@ vkcdnservice.appspot.com^
 ||librarybengals.cyou^
 ||librarysituation.com^
 ||libriluger.qpon^
+||libseergaukr.com^
 ||libsjamdani.shop^
 ||licantrum.com^
 ||licenceconsiderably.com^
@@ -31372,6 +31378,7 @@ vkcdnservice.appspot.com^
 ||pdllogging.qpon^
 ||pdn-1.com^
 ||pdn-2.com^
+||pdngwfor.com^
 ||pdnyxybyecfqso.xyz^
 ||pdorki.xyz^
 ||pdoxsdusciwet.store^
@@ -40741,6 +40748,7 @@ vkcdnservice.appspot.com^
 ||tviqzqsrdvofl.website^
 ||tvkfxtoydfqtf.online^
 ||tvlhvswh.com^
+||tvlmwraahoqwn.online^
 ||tvmnogzzkdoku.online^
 ||tvmqpobguuvtr.store^
 ||tvnyutbfvrjen.website^
@@ -40898,8 +40906,10 @@ vkcdnservice.appspot.com^
 ||uacugnyezgqvp.site^
 ||uads.cc^
 ||uaeqvfwofd.com^
+||uafghzkvnycrz.site^
 ||uafkcvpvvelp.com^
 ||uagzghuaqcmdo.online^
+||uaiugdbudbdfz.store^
 ||uaivqzpqzehth.love^
 ||uajgfkbpypbsa.site^
 ||uakarisigneur.com^
@@ -42671,6 +42681,7 @@ vkcdnservice.appspot.com^
 ||vmuid.com^
 ||vmwnwgoqkmqkv.top^
 ||vmxckyomhbtcz.space^
+||vmxneqttwxhcv.site^
 ||vmyzsntquxfav.space^
 ||vmzjmjzgqzmqq.top^
 ||vnaymmzomvkqj.top^
@@ -42842,6 +42853,7 @@ vkcdnservice.appspot.com^
 ||vsfswhpnyjnbv.space^
 ||vsgwolwqobhalt.com^
 ||vsimyppptdxdo.site^
+||vskuiusgblrdq.website^
 ||vslcqsrpmhhne.net^
 ||vslpnvutywvnb.space^
 ||vsoexylody.com^
@@ -45757,6 +45769,7 @@ vkcdnservice.appspot.com^
 ||zachpigs.help^
 ||zacleporis.com^
 ||zacnzkkkaufrb.online^
+||zacoortautsougi.net^
 ||zacygnygluawn.site^
 ||zaevoqatiyylf.online^
 ||zagvee.com^
@@ -129312,6 +129325,7 @@ dlsdk.appsflyer.com^
 ||justicejudo.com^
 ||justpickaname.com^
 ||justwebcards.com^
+||justwowjars.com^
 ||keenquill.com^
 ||kidpowers.com^
 ||kindasingle.com^
@@ -129904,6 +129918,7 @@ dlsdk.appsflyer.com^
 ||siliconslow.com^
 ||sillyscrew.com^
 ||simplenaming.com^
+||simplesafari.com^
 ||simplesidewalk.com^
 ||simulateswing.com^
 ||sincerebuffalo.com^
@@ -130293,6 +130308,7 @@ dlsdk.appsflyer.com^
 ||watersensible.com^
 ||waterywave.com^
 ||waveinverter.com^
+||wavesimple.com^
 ||wavesmachine.com^
 ||waxsirens.com^
 ||wayjoyfarm.com^
