@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2025-11-04T01:11:16.146Z
+! Last modified: 2025-11-04T03:06:46.140Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -8456,6 +8456,7 @@ vkcdnservice.appspot.com^
 ||ajhcxism.xyz^
 ||ajillionmax.com^
 ||ajjdagokxajb.com^
+||ajjkmozrrvmj.top^
 ||ajjlasruwwrlt.store^
 ||ajjwutdytigzg.rocks^
 ||ajougnophomseez.com^
@@ -9854,6 +9855,7 @@ vkcdnservice.appspot.com^
 ||b4v77u1k7pqgeupxe.cfd^
 ||b51f251b31.com^
 ||b58ncoa1c07f.com^
+||b5e17bdf06.com^
 ||b60756935f.com^
 ||b69b92742d.com^
 ||b6b2d31f7e.com^
@@ -10518,6 +10520,7 @@ vkcdnservice.appspot.com^
 ||bhdneknhogpin.store^
 ||bhdnkayjlk.com^
 ||bhgtubjtfggfa.website^
+||bhhgvedfr.com^
 ||bhhjjdqcwfrpv.space^
 ||bhilschoon.qpon^
 ||bhivpvsbhskzv.site^
@@ -14938,6 +14941,7 @@ vkcdnservice.appspot.com^
 ||dkqmltboagmona.xyz^
 ||dkrbus.com^
 ||dkswshap-3.online^
+||dktclumdglhds.site^
 ||dkwiwhotwo.net^
 ||dkwiwhotwo.xyz^
 ||dkwtrzrrejqls.club^
@@ -14949,6 +14953,7 @@ vkcdnservice.appspot.com^
 ||dle-news.xyz^
 ||dlhdcawqeawfb.space^
 ||dlhwyaetguynl.space^
+||dljecxbxgaosn.online^
 ||dlkqngolb.net^
 ||dllmqxzriqgnz.online^
 ||dlmztrbyjydcn.space^
@@ -16059,6 +16064,7 @@ vkcdnservice.appspot.com^
 ||ejubrrqyxytckhd.net^
 ||ejufwpkpikrgy.space^
 ||ejuiashsateampl.info^
+||ejvopiwqynfcp.site^
 ||ejxhiitnxgwun.site^
 ||ejyrayquvzgab.online^
 ||ekaacdiilusiw.space^
@@ -18912,6 +18918,7 @@ vkcdnservice.appspot.com^
 ||gkjicggvnoabu.website^
 ||gknpinykaom.net^
 ||gkrtmc.com^
+||gkuocadgecsga.com^
 ||gkyju.space^
 ||gla63a4l.de^
 ||glacierwaist.com^
@@ -30612,6 +30619,7 @@ vkcdnservice.appspot.com^
 ||outpagefitroot.shop^
 ||outpealhussy.cfd^
 ||outplayanzac.click^
+||outplotthamus.com^
 ||outpompdimer.click^
 ||outpomppopeyes.cyou^
 ||outponyglorious.com^
@@ -32441,6 +32449,7 @@ vkcdnservice.appspot.com^
 ||praght.tech^
 ||praiseddisintegrate.com^
 ||pramrowanslang.com^
+||praxkbagds.com^
 ||prayercertificatecompletion.com^
 ||prayingskyful.click^
 ||prayratesantibiotic.com^
@@ -37963,6 +37972,7 @@ vkcdnservice.appspot.com^
 ||spondilsomalo.com^
 ||spongecell.com^
 ||spongesofateacher.com^
+||sponginarist.cfd^
 ||sponsormob.com^
 ||sponsorpay.com^
 ||spoofedwhitey.shop^
@@ -40037,6 +40047,7 @@ vkcdnservice.appspot.com^
 ||tovespiquener.com^
 ||tovfgweccuhdw.space^
 ||towabledelian.rest^
+||towableunto.cfd^
 ||towantacit.cyou^
 ||towcockcfs.click^
 ||towerloftier.com^
@@ -40960,6 +40971,7 @@ vkcdnservice.appspot.com^
 ||ujducdplaicwa.store^
 ||ujdvvfrqujgfl.space^
 ||ujekrtaxqxy.com^
+||ujf25ozv656t67v4.cfd^
 ||ujgjrajahqcpv.website^
 ||ujnfkyefpvheo.site^
 ||ujooagoi.com^
@@ -41555,6 +41567,7 @@ vkcdnservice.appspot.com^
 ||urgedmildly.com^
 ||urgentlyrightypast.com^
 ||urgerrebasis.com^
+||urgtuzfabbtgx.website^
 ||urgxnorjluhwl.online^
 ||urialnork.shop^
 ||urialprespur.qpon^
@@ -44206,6 +44219,7 @@ vkcdnservice.appspot.com^
 ||wvlwtsgbperzr.space^
 ||wvmvpjlguwapy.online^
 ||wvomzgawkwvyn.top^
+||wvq79p7guifrftl3hf8j55q6j5myitvr.rest^
 ||wvqljkowybfxe.space^
 ||wvrkhhgbdafay.store^
 ||wvrqxorubkj.com^
@@ -45503,6 +45517,7 @@ vkcdnservice.appspot.com^
 ||yvmads.com^
 ||yvmfvtciz.com^
 ||yvoria.com^
+||yvotaacxzzvub.website^
 ||yvpswmiipjhni.life^
 ||yvqmxqzkurpim.website^
 ||yvwkhmpgqbmw.com^
@@ -45570,7 +45585,9 @@ vkcdnservice.appspot.com^
 ||yzciqxtamhfde.online^
 ||yzdkhftbkynua.site^
 ||yzhaizvsynwabk.com^
+||yzraenppksaq.com^
 ||yzrgtocyuvzxc.online^
+||yzsgwklwqzemn.online^
 ||yzsinffpguits.space^
 ||yzswlkwqkkndh.space^
 ||yzusmqxulljzm.website^
@@ -45873,6 +45890,7 @@ vkcdnservice.appspot.com^
 ||zkzenlcagknfi.world^
 ||zlacraft.com^
 ||zlaosdshglcjt.space^
+||zlikzxdvkhans.website^
 ||zlink2.com^
 ||zlink6.com^
 ||zlinkc.com^
@@ -133142,6 +133160,7 @@ dlsdk.appsflyer.com^
 ! Source: https://adguardteam.github.io/AdguardFilters/JapaneseFilter/sections/adservers.txt
 !
 !
+||ad.zetacx.net^
 ||widget-api.dmm.co.jp^
 ||widget-api.dmm.com^
 ||zzlles.com^
@@ -140562,6 +140581,7 @@ dlsdk.appsflyer.com^
 ||divergentld.com^
 ||zdh11040lo.com^
 ||ohvtrokyq.com^
+||3yx95kv3at.com^
 ||4totls9uh.com^
 ||c0zwsdryg.com^
 ||biconcave43.com^
