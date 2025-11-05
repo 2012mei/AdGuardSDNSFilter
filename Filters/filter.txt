@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2025-11-05T01:12:25.062Z
+! Last modified: 2025-11-05T03:08:08.216Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -6968,6 +6968,7 @@ vkcdnservice.appspot.com^
 ||6tnpqnytyolllykq.cfd^
 ||6ujk8x9soxhm.com^
 ||6v41p4bsq.com^
+||6x8rvifv7ehfhoe1qrphxeyh8wk4hkt.cfd^
 ||6yfquhelmrprxfv5.cfd^
 ||6zy9yqe1ew.com^
 ||7-7-7-partner.com^
@@ -7514,6 +7515,7 @@ vkcdnservice.appspot.com^
 ||achieveweakness.com^
 ||aching-period.com^
 ||achingborder.com^
+||achromafaon.click^
 ||achyaplenty.com^
 ||achycompassionate.com^
 ||acinggentler.com^
@@ -8803,6 +8805,7 @@ vkcdnservice.appspot.com^
 ||amusing-breath.pro^
 ||amusingbase.com^
 ||amusinghump.com^
+||amvbwlerkymzw.top^
 ||amvndrcsfxevr.site^
 ||amwgisnagixqe.store^
 ||amwoukrkskillso.com^
@@ -9591,6 +9594,7 @@ vkcdnservice.appspot.com^
 ||autopsytan.com^
 ||auvaugushik.net^
 ||auxml.com^
+||auypgtmvwerhh.store^
 ||avads.co.uk^
 ||avads.live^
 ||availableshove.com^
@@ -9848,6 +9852,7 @@ vkcdnservice.appspot.com^
 ||azzxoefggcsuo.website^
 ||b-m.xyz^
 ||b02byun5xc3s.com^
+||b0f01ce38a.com^
 ||b0f3731d0a.com^
 ||b116785e75.com^
 ||b14ae1c233.com^
@@ -16679,6 +16684,7 @@ vkcdnservice.appspot.com^
 ||esveabkwjvkcj.space^
 ||esvunifeyiqhk.website^
 ||eswfsinghtywb.website^
+||eswpfkuwyovtm.space^
 ||etagumlbvhmuk.online^
 ||etalageunwept.qpon^
 ||etapecontes.rest^
@@ -20570,6 +20576,7 @@ vkcdnservice.appspot.com^
 ||hgtczdcptoidc.site^
 ||hgub2polye.com^
 ||hgutlxufr.com^
+||hgvigqjolbnnt.store^
 ||hgwkgddzhtbac.space^
 ||hh9uc8r3.xyz^
 ||hhbpxsvmq.com^
@@ -21832,6 +21839,7 @@ vkcdnservice.appspot.com^
 ||ilxylgyphi.com^
 ||ilyaoipntdyol.space^
 ||ilyf4amifh.com^
+||ilzr6xm53owgu8y9h.rest^
 ||imageadvantage.net^
 ||imageflow.store^
 ||imagenest.site^
@@ -23329,6 +23337,7 @@ vkcdnservice.appspot.com^
 ||jolmen.click^
 ||joltermedlars.cyou^
 ||joluw.net^
+||jomaijainay.com^
 ||jombfyktowaqp.space^
 ||jomistress.com^
 ||jomoukrebsoxy.net^
@@ -27035,6 +27044,7 @@ vkcdnservice.appspot.com^
 ||mesioncurtest.cyou^
 ||mesivtalene.qpon^
 ||mesmerizeexempt.com^
+||mesnagebobble.com^
 ||mesodepointed.com^
 ||mesonickarns.cyou^
 ||mesonsstilted.digital^
@@ -28690,6 +28700,7 @@ vkcdnservice.appspot.com^
 ||ngdpzsewyequh.site^
 ||ngegas.files.im^
 ||ngegyhsuaylyj.site^
+||ngepfoguoouph.space^
 ||ngexcelelernodyde.org^
 ||ngforanoppor.org^
 ||ngfycrwwd.com^
@@ -29407,6 +29418,7 @@ vkcdnservice.appspot.com^
 ||nwfkhvqxjxpll.online^
 ||nwjdldsfzszkp.rocks^
 ||nwljjhhbtofbtc.com^
+||nwmlglasjxvgx.space^
 ||nwmnd.com^
 ||nwnncnbipamso.website^
 ||nwntsabmagdqn.xyz^
@@ -29758,6 +29770,7 @@ vkcdnservice.appspot.com^
 ||oecdupuvlbvjs.space^
 ||oecustoggles.shop^
 ||oehgk.com^
+||oeibagiwhfltb.site^
 ||oeicqhzlvnlpc.online^
 ||oeldtgynjxqbe.online^
 ||oelhofejacqod.website^
@@ -30941,6 +30954,7 @@ vkcdnservice.appspot.com^
 ||owzppkkbfzkmu.site^
 ||oxado.com^
 ||oxaihpkyv.com^
+||oxauxgbuzyyae.online^
 ||oxbbzxqfnv.com^
 ||oxcj7jqw52iwy9bgw14uve6.cfd^
 ||oxfbambrpxoud.xyz^
@@ -33267,6 +33281,7 @@ vkcdnservice.appspot.com^
 ||punkeysieee.click^
 ||punknatrix.life^
 ||punkspyke.com^
+||punneddieties.com^
 ||punogchdnwcrri.com^
 ||punoocke.com^
 ||punosend.com^
@@ -33774,6 +33789,7 @@ vkcdnservice.appspot.com^
 ||qhffqlklvclza.website^
 ||qhgryaocaxulj.online^
 ||qhiatcfrywgse.click^
+||qhihiftucgmcma.com^
 ||qhkbqycpoasdqd.com^
 ||qhkcbwfvobqma.space^
 ||qhkcnqnvjjl.net^
@@ -39039,6 +39055,7 @@ vkcdnservice.appspot.com^
 ||syjkcdmwgqwrm.top^
 ||sylfaczvioejj.site^
 ||syllabusbastardchunk.com^
+||sylloedema.help^
 ||sylsiohopvaav.website^
 ||sylvansmowch.com^
 ||sylvitetortis.qpon^
@@ -41818,6 +41835,7 @@ vkcdnservice.appspot.com^
 ||usingstrikingindoors.com^
 ||usisedprivatedqua.org^
 ||usix-udlnseb.space^
+||usiybpgvwccfajn.com^
 ||usjbwvtqwv.com^
 ||uskokvolutin.com^
 ||uslqdimcuxehp.store^
@@ -42814,6 +42832,7 @@ vkcdnservice.appspot.com^
 ||voustysluggy.shop^
 ||vouwouhusta.net^
 ||vovhalrrqiowz.love^
+||vovtmzagxegns.com^
 ||vowlvgdgbkqmv.online^
 ||voxar.xyz^
 ||voxozvccofzwc.website^
@@ -140813,6 +140832,9 @@ dlsdk.appsflyer.com^
 ||lls11050ko.com^
 ||concave88.top^
 ||zdh11050lo.com^
+||jisk.cn^
+||namnothp.com^
+||lnme1q1qa.com^
 ||dkc63u5su8.com^
 ||tb4gv2cp5z.com^
 ||divergentld.com^
