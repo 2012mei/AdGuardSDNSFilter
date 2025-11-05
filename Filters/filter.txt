@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2025-11-05T18:22:06.926Z
+! Last modified: 2025-11-05T20:17:40.633Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -19819,6 +19819,7 @@ vkcdnservice.appspot.com^
 ||gtusaexrlpab.world^
 ||gtuwqshqhsqxd.store^
 ||gtuxvjpwgyzob.online^
+||gtwmxqiknbhg.com^
 ||gtxqpbsbnci.net^
 ||gtylgblgbpudu.net^
 ||guanaentasia.help^
@@ -36528,6 +36529,7 @@ vkcdnservice.appspot.com^
 ||sandwich3452.fun^
 ||sandwichconscientiousroadside.com^
 ||sandydestructioncoax.com^
+||sanerespect.com^
 ||sanestruggle.com^
 ||sangarrigbane.qpon^
 ||sangashulloos.world^
@@ -37230,6 +37232,7 @@ vkcdnservice.appspot.com^
 ||sheersotsoanass.com^
 ||sheertaxir.qpon^
 ||sheetedunrope.com^
+||sheetsaucmoms.com^
 ||sheetvibe.com^
 ||shegaisoultou.net^
 ||shegloamoa.net^
@@ -43935,6 +43938,7 @@ vkcdnservice.appspot.com^
 ||whygiglachy.com^
 ||whyluegg.com^
 ||whynessspriggy.cyou^
+||whypglwvcnjpq.com^
 ||whyvmwuxhordai.com^
 ||whywolveshowl.com^
 ||wiahsuaiu.com^
@@ -44637,6 +44641,7 @@ vkcdnservice.appspot.com^
 ||wwpybuhnzkcn.com^
 ||wwqsvldq.work^
 ||wwqtpcmsikcab.net^
+||wwrioiackkiwpy.com^
 ||wwubgxrmxgskt.com^
 ||wwvqboerllrej.top^
 ||wwvqboerllrzm.top^
