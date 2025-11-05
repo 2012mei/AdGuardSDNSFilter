@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2025-11-05T03:08:08.216Z
+! Last modified: 2025-11-05T04:19:20.900Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -9701,6 +9701,7 @@ vkcdnservice.appspot.com^
 ||awestatic.com^
 ||awestc.com^
 ||aweyqaqkrzzr.top^
+||awfhhbawivnii.website^
 ||awfrpupxxwqidr.net^
 ||awhauchoa.net^
 ||awheecethe.net^
@@ -10541,6 +10542,7 @@ vkcdnservice.appspot.com^
 ||bhcifkfrtccdt.online^
 ||bhcont.com^
 ||bhdghvvwhlct.xyz^
+||bhdkfolig.com^
 ||bhdneknhogpin.store^
 ||bhdnkayjlk.com^
 ||bhgtubjtfggfa.website^
@@ -17428,6 +17430,7 @@ vkcdnservice.appspot.com^
 ||fhiegretefqfb.website^
 ||fhiulnbk.cam^
 ||fhjhcrmwbgvkz.website^
+||fhjnbyifqkizh.store^
 ||fhjrpcmkyrkvi.space^
 ||fhktaryvtgnaw.store^
 ||fhldb.site^
@@ -18182,6 +18185,7 @@ vkcdnservice.appspot.com^
 ||fstsrv9.com^
 ||fstsspfwthukh.site^
 ||fsvgheuiakdrf.online^
+||fszlnmpcstck.com^
 ||ftacbwmrfphxa.online^
 ||ftblltrck.com^
 ||ftd.agency^
@@ -18222,6 +18226,7 @@ vkcdnservice.appspot.com^
 ||fudyepnjxwmlm.online^
 ||fudzceoandzhm.website^
 ||fueunubabrncq.site^
+||fufgipvvxayxh.site^
 ||fugallyterrae.cfd^
 ||fuget.xyz^
 ||fugfyhzilfnjb.website^
@@ -19980,6 +19985,7 @@ vkcdnservice.appspot.com^
 ||gzhqowygyvfnx.space^
 ||gzomjiuoedpnu.website^
 ||gzslhnszxh.com^
+||gzsmzfafszuih.website^
 ||gzxndiiqkcpgt.space^
 ||gzyxqdhtkomzx.space^
 ||gzzfcmflxfspx.store^
@@ -20812,6 +20818,7 @@ vkcdnservice.appspot.com^
 ||hlnylqalpqei.com^
 ||hloontleulrrx.site^
 ||hlserve.com^
+||hlshoqbndrqfny.com^
 ||hlufsqadxupgr.website^
 ||hlwguammsvikv.online^
 ||hlxyidqacaivu.site^
@@ -23969,6 +23976,7 @@ vkcdnservice.appspot.com^
 ||kecheluntie.cfd^
 ||kedasensiblemot.com^
 ||kedasensiblemother.org^
+||keddahbowlder.cfd^
 ||kedgxztugonrg.space^
 ||kedgygyrinid.help^
 ||kedrevenuedurin.com^
@@ -40719,6 +40727,7 @@ vkcdnservice.appspot.com^
 ||tuftomaighee.net^
 ||tuftpdfntzale.online^
 ||tugpoise.com^
+||tuhhfhswiabhz.space^
 ||tuikproart.life^
 ||tuiyvrfyy.com^
 ||tujlpraovjert.site^
@@ -44691,6 +44700,7 @@ vkcdnservice.appspot.com^
 ||xepsygfqsvyyv.tech^
 ||xeqkxbzbubpdb.site^
 ||xerahhhwhpcey.online^
+||xeuesswygmuso.site^
 ||xexuchkq.com^
 ||xfalmawladvew.site^
 ||xfbjiyqezmwew.space^
@@ -134474,8 +134484,8 @@ dlsdk.appsflyer.com^
 # A hosts file that aims to get rid of ads, tracking, scams & badware on (mostly) Swedish websites
 # ----
 # title:          Frellwit's Swedish Hosts File
-# last updated:   2025-11-03 03:49:00 CET
-# entries:        1151
+# last updated:   2025-11-05 04:09:03 CET
+# entries:        1152
 # format:         hosts (hosts -- in hosts file format)
 # homepage:       https://github.com/lassekongo83/Frellwits-filter-lists/
 ||a.zxcvads.com^
