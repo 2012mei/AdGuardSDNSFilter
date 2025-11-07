@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2025-11-07T06:23:41.298Z
+! Last modified: 2025-11-07T08:21:09.420Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -7468,6 +7468,7 @@ vkcdnservice.appspot.com^
 ||acceptablegrand.pro^
 ||acceptablereality.com^
 ||acceptableredheadcaviar.com^
+||acceptableremotehumorous.com^
 ||acceptancecrowdadvertising.com^
 ||acceptcontemplatecorner.com^
 ||acceptguide.com^
@@ -8485,6 +8486,7 @@ vkcdnservice.appspot.com^
 ||aj2555.bid^
 ||aj2635.bid^
 ||ajacoehkzhvla.website^
+||ajardesk.pro^
 ||ajautchaissaur.net^
 ||ajcafpjuhur.xyz^
 ||ajdhawgchjuix.online^
@@ -9577,6 +9579,7 @@ vkcdnservice.appspot.com^
 ||auhailsoumoofot.net^
 ||auhungou.com^
 ||auhwfcyikuqam.club^
+||auhydkks.com^
 ||auklettabbied.cyou^
 ||aukrutijirgaute.net^
 ||auksaichockoa.net^
@@ -11649,6 +11652,7 @@ vkcdnservice.appspot.com^
 ||bustlerloins.com^
 ||bustlingdeep.pro^
 ||bustslicerstrongbox.com^
+||busxxmopnrkmz.store^
 ||busy-man.com^
 ||busyishdodged.help^
 ||busyregret.pro^
@@ -11868,6 +11872,7 @@ vkcdnservice.appspot.com^
 ||calcifynyoro.cyou^
 ||calcpol.com^
 ||calculatingequal.pro^
+||calculatingimagination.pro^
 ||calculationcovetous.com^
 ||calculationoccasional.com^
 ||calculationperildomestic.com^
@@ -12297,6 +12302,7 @@ vkcdnservice.appspot.com^
 ||cephei-b.com^
 ||cephoupharauts.net^
 ||ceqgiawfjpxkwg.net^
+||ceqrjkoyft.com^
 ||ceqyuidnlnyib.site^
 ||ceqzalgmqqqjg.com^
 ||cercalventers.click^
@@ -26517,6 +26523,7 @@ vkcdnservice.appspot.com^
 ||lvgmmwjmvmzjg.top^
 ||lvlhmjerf.buzz^
 ||lvltsgyorrxhl.website^
+||lvmhnywuwafj.com^
 ||lvmllngjayavj.top^
 ||lvoaglwvomnma.top^
 ||lvoikaridbext.online^
@@ -32150,6 +32157,7 @@ vkcdnservice.appspot.com^
 ||phphtscriver.com^
 ||phpleuwcjmmahn.com^
 ||phprdouhkyukn.space^
+||phqwoaxhzsyjd.website^
 ||phraseoreburial.com^
 ||phrdzpqqbukjn.store^
 ||phsism.com^
@@ -34319,6 +34327,7 @@ vkcdnservice.appspot.com^
 ||qnsxtvhfnajnw.global^
 ||qntbrpbuyprtm.website^
 ||qnuecpgpjfgxg.store^
+||qnvtpvguzqaci.site^
 ||qnxrfwtnijcvj.space^
 ||qoaaa.com^
 ||qoapvdltqqkqlhj.com^
@@ -36758,6 +36767,7 @@ vkcdnservice.appspot.com^
 ||salvageapplet.com^
 ||salvationclaimsunfortunately.com^
 ||salvgceyqbtpd.website^
+||salviarhebok.rest^
 ||salviolmarital.cyou^
 ||samage-bility.icu^
 ||samaidougniphu.net^
@@ -43470,6 +43480,7 @@ vkcdnservice.appspot.com^
 ||vvmkzawomeqol.top^
 ||vvolnzdglprvf.store^
 ||vvolyzmoborp.com^
+||vvozhgxuksfkt.space^
 ||vvprcztaw.com^
 ||vvrjezyxwxhqd.store^
 ||vvsjyapbsm.com^
@@ -43816,6 +43827,7 @@ vkcdnservice.appspot.com^
 ||wbidr.com^
 ||wbilvnmool.com^
 ||wbiskyenhrwvx.website^
+||wbjjeykbznavr.space^
 ||wbkcxsdbchyrj.website^
 ||wbkokfwzpfuai.life^
 ||wbllomblyoqn.top^
@@ -44417,6 +44429,7 @@ vkcdnservice.appspot.com^
 ||wizenboyaux.shop^
 ||wizkrdxivl.com^
 ||wjbopslee.com^
+||wjbphrbiisvag.space^
 ||wjdgtcuulylbi.website^
 ||wjdwnkoukunmvgj.com^
 ||wjebboljoverw.top^
@@ -45013,6 +45026,7 @@ vkcdnservice.appspot.com^
 ||wyhifdpatl.com^
 ||wyidsbopxpifd.love^
 ||wyjpjqlmi.com^
+||wykfynibhazix.online^
 ||wyklxsos.com^
 ||wylbmlihtyetei.com^
 ||wylhcncknyyzr.website^
@@ -141385,6 +141399,7 @@ dlsdk.appsflyer.com^
 ||vzorzilmf.com^
 ||fagp.cn^
 ||nl1d8gzi5.com^
+||598n8mpd6.com^
 ||workshop39.top^
 ||svhk4bt874.com^
 ||xuwmylm697.com^
