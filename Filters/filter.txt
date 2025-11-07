@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2025-11-07T12:31:00.054Z
+! Last modified: 2025-11-07T13:06:24.061Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -24526,6 +24526,7 @@ vkcdnservice.appspot.com^
 ||kjxzkzulgoipl.fun^
 ||kjyytxyetnueu.club^
 ||kkarjbugckcln.online^
+||kkdgwavpabkgk.space^
 ||kkeichcdm.xyz^
 ||kkhfsefqdurod.site^
 ||kkhfxnuhuuncc.online^
@@ -26346,6 +26347,7 @@ vkcdnservice.appspot.com^
 ||lrmasmheotivr.com^
 ||lrtfiyldgsawj.website^
 ||lrucqhpa.com^
+||lrvttzvsdgywx.online^
 ||lrvwxbifst.xyz^
 ||lrwgmmuhrimpk.store^
 ||lrwtsfkv.net^
@@ -45215,6 +45217,7 @@ vkcdnservice.appspot.com^
 ||xdqyswctcbtor.store^
 ||xdrelbgbndfnl.site^
 ||xdsvnjxawlruv.store^
+||xduegcjooe.com^
 ||xdyxzdkconsev.site^
 ||xeajyphfvmxpc.store^
 ||xebfomhenqxin.online^
@@ -51355,6 +51358,7 @@ vkcdnservice.appspot.com^
 ||monitoring.hackle.io^
 ||event-api.hackle.io^
 ||tracking-api.g2.com^
+||litix.io^
 ||audiencelab.io^
 ||openpanel.dev^
 ||alphaupsell.s3.ap-northeast-2.amazonaws.com^
@@ -134220,7 +134224,6 @@ dlsdk.appsflyer.com^
 ||spreadlink.net^
 ||seedapp-creative.s3.amazonaws.com^
 ||admane.jp^
-||smaad.net^
 ||app.monetrack.com^
 ||bn.dxlive.com^
 ||mobee2.jp^
