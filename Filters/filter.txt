@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2025-11-09T18:19:31.518Z
+! Last modified: 2025-11-09T20:15:35.026Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -10204,6 +10204,7 @@ vkcdnservice.appspot.com^
 ||batcrack.icu^
 ||batebalmy.com^
 ||batelltrog.cyou^
+||batemanalgarde.click^
 ||bathepoliteness.com^
 ||bathershucked.cyou^
 ||batheunits.com^
@@ -10715,6 +10716,7 @@ vkcdnservice.appspot.com^
 ||bifacesairwash.cfd^
 ||biffedpining.help^
 ||biffingmatina.com^
+||biffsjhyckaiv.website^
 ||bifilarwhammo.com^
 ||bigbasketshop.com^
 ||bigbolz.com^
@@ -17226,6 +17228,7 @@ vkcdnservice.appspot.com^
 ||exptlgooney.com^
 ||exptrncaaidhs.site^
 ||exqbxfzcrslqg.store^
+||exqbxkfncmcli.website^
 ||exrcfdbcqiddp.space^
 ||exrtbsrv.com^
 ||exrzo.love^
@@ -20321,6 +20324,7 @@ vkcdnservice.appspot.com^
 ||gxaswlbqotagx.online^
 ||gxbpiovpukbaq.website^
 ||gxetowrzlnqbf.online^
+||gxfctjvbewis.com^
 ||gxfh59u4.xyz^
 ||gxfjdkaumtstfho.xyz^
 ||gxhpviwyvvctoi.net^
@@ -24601,6 +24605,7 @@ vkcdnservice.appspot.com^
 ||kf6h8g95nxv2k439c36y.cfd^
 ||kfaktmfqtbw.xyz^
 ||kfbjqsqbvnmrj.site^
+||kfbndkkbjbxkq.site^
 ||kfdgdobcvm.com^
 ||kfdubugmtxfh.com^
 ||kfeiovrksdezl.online^
@@ -30543,6 +30548,7 @@ vkcdnservice.appspot.com^
 ||ofljjrxtflpva.space^
 ||ofluyplnfaqhi.site^
 ||ofmdohtxiotxm.site^
+||ofmeivlmqjxqc.store^
 ||ofoejohepntintt.com^
 ||ofphanpytor.com^
 ||ofpodconnmtyd.space^
@@ -32989,6 +32995,7 @@ vkcdnservice.appspot.com^
 ||pocbpegghrf.net^
 ||poceidvfuvuja.store^
 ||pochotetwitch.click^
+||pocketshighlyinquired.com^
 ||pocrd.cc^
 ||pocrowpush.com^
 ||podefr2.net^
@@ -34631,6 +34638,7 @@ vkcdnservice.appspot.com^
 ||qjjqhcqxcyfex.tech^
 ||qjldydelwreqn.click^
 ||qjlyfestjozoo.site^
+||qjmklfeamrpjgw.com^
 ||qjoauekeqgysdub.com^
 ||qjpiosbrbh.net^
 ||qjrvummavqjtr.website^
@@ -36315,6 +36323,7 @@ vkcdnservice.appspot.com^
 ||riwxnjegf.xyz^
 ||riwzzbhovpdzt.space^
 ||rixaka.com^
+||rixezmpshxviy.space^
 ||rixibe.xyz^
 ||rixoanoophouboo.net^
 ||rixyceruses.world^
@@ -44813,6 +44822,7 @@ vkcdnservice.appspot.com^
 ||whizzerrapiner.com^
 ||whizzertattie.cyou^
 ||whkbqnkscmnwo.global^
+||whldthsafmpam.online^
 ||whlsxwhq.com^
 ||whoaksoopoordo.net^
 ||whoalinseed.shop^
@@ -45848,6 +45858,7 @@ vkcdnservice.appspot.com^
 ||xgsxkzscxapvj.online^
 ||xgszciooysvcj.site^
 ||xgubwpvoyqgtd.online^
+||xgwvtfjyklyyi.website^
 ||xgyamkbizucnd.store^
 ||xhabbeulalnqtd.com^
 ||xhbbbwjfipallhq.com^
@@ -46635,11 +46646,13 @@ vkcdnservice.appspot.com^
 ||ymazkrkieaujq.online^
 ||ymcflloytltvc.online^
 ||ymcndkctb.com^
+||ymdqjgiecsdds.website^
 ||ymedwanuhpzxd.store^
 ||ymehnthakutyfor.com^
 ||ymhiqcxygwtdh.site^
 ||ymjpyeapkcoae.space^
 ||ymjwxocpguvgo.space^
+||ymjwzofxrfjwc.space^
 ||ymmobi.com^
 ||ymmztxjktdirn.site^
 ||ymnyokcv.com^
@@ -130058,6 +130071,7 @@ dlsdk.appsflyer.com^
 ||coinsyouneed.com^
 ||coldbalance.com^
 ||coloradoserves.com^
+||colorfulpet.com^
 ||coloringisland.com^
 ||colossalclouds.com^
 ||colossalcoat.com^
@@ -130805,6 +130819,7 @@ dlsdk.appsflyer.com^
 ||needyneedle.com^
 ||neighborlywatch.com^
 ||nervoussummer.com^
+||networklast.com^
 ||newarkdriving.com^
 ||newartreview.com^
 ||niftygraphs.com^
@@ -131365,6 +131380,7 @@ dlsdk.appsflyer.com^
 ||stomachscience.com^
 ||stonechin.com^
 ||stopstomach.com^
+||stormyflower.com^
 ||straightnest.com^
 ||straindrinks.com^
 ||strangeclocks.com^
