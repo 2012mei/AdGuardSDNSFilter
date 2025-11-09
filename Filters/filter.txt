@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2025-11-09T12:27:53.141Z
+! Last modified: 2025-11-09T14:12:11.013Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -10864,6 +10864,7 @@ vkcdnservice.appspot.com^
 ||bkvxjygccpkwk.space^
 ||bkwmxsuuxtwjl.site^
 ||bkwuodwvehlzr.life^
+||bkxdwjggbkdmnu.com^
 ||bkzojuncitbqa.space^
 ||bl230126pb.com^
 ||blackandwhite-temporary.com^
@@ -10888,6 +10889,7 @@ vkcdnservice.appspot.com^
 ||blahlivedsnowdrop.com^
 ||blamads.com^
 ||blamelessperfume.com^
+||blamesfusc.click^
 ||blamingnuclearplasma.com^
 ||blandalternative.pro^
 ||blank-game.pro^
@@ -12082,6 +12084,7 @@ vkcdnservice.appspot.com^
 ||carplusky.cyou^
 ||carpuslarrups.com^
 ||carrackclote.help^
+||carrarablowgun.cyou^
 ||carreaucultist.cfd^
 ||carrelroosers.cfd^
 ||carriedamiral.com^
@@ -14490,6 +14493,7 @@ vkcdnservice.appspot.com^
 ||ddelqieomzyds.online^
 ||ddfbgbghyxrtq.site^
 ||ddhjnrssqnmxc.store^
+||ddkwzfhfqfuxb.site^
 ||ddllppbdwkvol.site^
 ||ddmsvcltbyjoc.store^
 ||ddmwicctsqjhc.website^
@@ -15271,6 +15275,7 @@ vkcdnservice.appspot.com^
 ||dmrtx.com^
 ||dmsik.com^
 ||dmsktmld.com^
+||dmtopkjucvncs.site^
 ||dmubohtyqje.net^
 ||dmupywgfuurjd.club^
 ||dmvbdfblevxvx.com^
@@ -16293,6 +16298,7 @@ vkcdnservice.appspot.com^
 ||egeemsob.com^
 ||egfsjlnmbflyj.com^
 ||eggedtarasco.shop^
+||eggerselly.shop^
 ||egghotrascals.shop^
 ||eggplantgapmatter.com^
 ||egighbqdtgyen.rocks^
@@ -16741,6 +16747,7 @@ vkcdnservice.appspot.com^
 ||eofufortchris.org^
 ||eofwlnyaxwfqt.global^
 ||eogkxhtmoctjp.com^
+||eoglimegdapoh.site^
 ||eojfxignjyzev.website^
 ||eolioadwse.xyz^
 ||eolithpopedom.cfd^
@@ -17545,6 +17552,7 @@ vkcdnservice.appspot.com^
 ||fcqzufbjogbkj.store^
 ||fcrfxxxydltzy.store^
 ||fcswogrcyplcs.space^
+||fctuxsuitasid.website^
 ||fcvxmhtpvpuld.space^
 ||fcwdsidinixoz.website^
 ||fcxbs.com^
@@ -21249,6 +21257,7 @@ vkcdnservice.appspot.com^
 ||hmxg5mhyx.com^
 ||hmxoufchteecf.world^
 ||hmxtqllaxspck.site^
+||hmzxoegngasft.site^
 ||hnauhnumosawj.store^
 ||hnbmbgagxwyqd.site^
 ||hnchrbjicjcxq.space^
@@ -22655,6 +22664,7 @@ vkcdnservice.appspot.com^
 ||insertjav182.fun^
 ||inservinea.com^
 ||inshelmetan.com^
+||inshootmaars.cyou^
 ||insideofnews.com^
 ||insightadz.com^
 ||insightexpress.com^
@@ -27881,6 +27891,7 @@ vkcdnservice.appspot.com^
 ||miraclethisaddicted.com^
 ||mirandabodkin.cyou^
 ||miredindeedeisas.info^
+||mireerenow.qpon^
 ||mirfakpersei.top^
 ||miridaebakes.rest^
 ||mirifelon.com^
@@ -29333,6 +29344,7 @@ vkcdnservice.appspot.com^
 ||ngfycrwwd.com^
 ||nghlsfshnptix.tech^
 ||nglmedia.com^
+||ngmamfwwpqzny.site^
 ||ngmdyqmrfvdzp.space^
 ||ngnvtrwzyxqsn.store^
 ||ngplansforourco.com^
@@ -32330,6 +32342,7 @@ vkcdnservice.appspot.com^
 ||petrosaley.click^
 ||petsoadepsoa.net^
 ||petulanthamsterunless.com^
+||peugeotenlock.qpon^
 ||peugyiwmgvadr.space^
 ||peukasrsihavele.org^
 ||peulvanclatsop.help^
@@ -39265,6 +39278,7 @@ vkcdnservice.appspot.com^
 ||starrylook.com^
 ||starryphone.pro^
 ||starryprotection.com^
+||starsapegnilr.net^
 ||starswalker.site^
 ||startappexchange.com^
 ||startbio.cyou^
@@ -45815,6 +45829,7 @@ vkcdnservice.appspot.com^
 ||xiailvhqrdoml.website^
 ||xidykpkqsib.com^
 ||xieaoxvbgxppytx.com^
+||xieoyqqked.com^
 ||xifyokyspc.com^
 ||xiixzsaxlirtn.site^
 ||xilflksioan.net^
@@ -46235,6 +46250,7 @@ vkcdnservice.appspot.com^
 ||xyz0k4gfs.xyz^
 ||xz0wefju.fun^
 ||xzbyhyxkzfbpa.space^
+||xzdagpywxkozq.online^
 ||xzfnpjjvenexj.website^
 ||xzjdkkbltgfqe.website^
 ||xzkqduqxaavac.site^
@@ -134585,6 +134601,7 @@ dlsdk.appsflyer.com^
 ! Source: https://adguardteam.github.io/AdguardFilters/JapaneseFilter/sections/adservers.txt
 !
 !
+||js.miyuki-web.net^
 ||girls-escort.tokyo^
 ||ad.zetacx.net^
 ||widget-api.dmm.co.jp^
@@ -134601,7 +134618,6 @@ dlsdk.appsflyer.com^
 ||paradise1972.com^
 ||line-jp.live^
 ||assessoriagmv.com^
-||brightskillsacademy.com^
 ||japans-offers.com^
 ||ibento-yahoo.com^
 ||adlookmanager.com^
@@ -134668,7 +134684,6 @@ dlsdk.appsflyer.com^
 ||ad.owlair.net^
 ||presco.ai^
 ||affiliate.casino-wonder.com^
-||affiliate.miracle-miracle.com^
 ||samuraiclick.com^
 ||sexpixbox.com^
 ||ads.contents.fc2.com^
@@ -134735,7 +134750,6 @@ dlsdk.appsflyer.com^
 ||world-ad.jp^
 ||devo.jp^
 ||ad.ddo.jp^
-||js.winc-ad.com^
 ||reemo-ad.jp^
 ||cdn.alistcloud.com^
 ||candy-network.com^
@@ -142013,6 +142027,7 @@ dlsdk.appsflyer.com^
 ||lls11091ko.com^
 ||tjv251109ads.com^
 ||tghigvud.com^
+||leue.cn^
 ||6tdz25urqj.com^
 ||qjqdkli0ag.com^
 ||wrestle22.top^
