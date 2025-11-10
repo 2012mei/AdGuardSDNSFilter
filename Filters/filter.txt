@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2025-11-10T20:18:50.738Z
+! Last modified: 2025-11-10T22:15:25.746Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -6657,6 +6657,7 @@ vkcdnservice.appspot.com^
 ||2re6rpip2.de^
 ||2rlgdkf7s.de^
 ||2rmifan7n.de^
+||2ruopg11yj3ri4eeq1hw.cfd^
 ||2s02keqc1.com^
 ||2s2enegt0.de^
 ||2smarttracker.com^
@@ -8877,6 +8878,7 @@ vkcdnservice.appspot.com^
 ||amovinggoals.rest^
 ||amp.services^
 ||ampcr.io^
+||ample-speaker.pro^
 ||ampxchange.com^
 ||amqfcjsppmniz.store^
 ||amqkuedsdsube.site^
@@ -10777,6 +10779,7 @@ vkcdnservice.appspot.com^
 ||bikespeed.shop^
 ||bikestripara.cfd^
 ||bikingdecare.help^
+||bilfsuuem.com^
 ||billboardwring.com^
 ||billybobandirect.org^
 ||billypub.com^
@@ -12715,6 +12718,7 @@ vkcdnservice.appspot.com^
 ||cholicklyceum.qpon^
 ||cholummoxas.help^
 ||chomeshoomsu.net^
+||chondrejapetus.cyou^
 ||choockoarsoust.net^
 ||choodsaingalo.net^
 ||chooftookikip.net^
@@ -16454,6 +16458,7 @@ vkcdnservice.appspot.com^
 ||ejubrrqyxytckhd.net^
 ||ejufwpkpikrgy.space^
 ||ejuiashsateampl.info^
+||ejuratepainted.rest^
 ||ejvopiwqynfcp.site^
 ||ejwxlplhgzzhf.store^
 ||ejxhiitnxgwun.site^
@@ -17561,6 +17566,7 @@ vkcdnservice.appspot.com^
 ||fastidiousilliteratehag.com^
 ||fastidiouso.com^
 ||fastincognitomode.com^
+||fastishabridge.shop^
 ||fastlgtrk.com^
 ||fastlnd.com^
 ||fastnativead.com^
@@ -24837,6 +24843,7 @@ vkcdnservice.appspot.com^
 ||kilzrkxmenmwo.space^
 ||kimberlite.io^
 ||kinarums.rest^
+||kincobloggats.cyou^
 ||kind-lecture.com^
 ||kindhearted-building.pro^
 ||kindhearted-middle.pro^
@@ -26719,6 +26726,7 @@ vkcdnservice.appspot.com^
 ||lposksozrud.com^
 ||lppgwovqwhwpc.store^
 ||lpqfjgcwpbxic.site^
+||lpqznnkdczxuo.space^
 ||lprgcuewbzwdd.store^
 ||lpsaubcit.xyz^
 ||lpskfqjxnrnh.xyz^
@@ -30556,6 +30564,7 @@ vkcdnservice.appspot.com^
 ||ocoupaigipteejo.net^
 ||ocpjyfnbu.com^
 ||ocpolgam.com^
+||ocpzncdorezwy.site^
 ||ocrlmgqgqlfqt.store^
 ||octaplagaius.shop^
 ||octo25.me^
@@ -30635,6 +30644,7 @@ vkcdnservice.appspot.com^
 ||oepttrroizcak.online^
 ||oerfucoids.qpon^
 ||oerxzdstepphr.store^
+||oeskwqiboakfdb.com^
 ||oestpq.com^
 ||oetkvtzohzcsxf.com^
 ||oetnjcozrg.com^
@@ -36522,6 +36532,7 @@ vkcdnservice.appspot.com^
 ||rivrumtmzjmqu.site^
 ||riwfokivb.com^
 ||riwhssuoploai.buzz^
+||riwpjluwrzxts.store^
 ||riwxnjegf.xyz^
 ||riwzzbhovpdzt.space^
 ||rixaka.com^
@@ -36577,6 +36588,7 @@ vkcdnservice.appspot.com^
 ||rkocuezkhfizy.site^
 ||rkomf.com^
 ||rkoofgxarguv.com^
+||rkuindgprvwyg.store^
 ||rlakqevkz.com^
 ||rlccneuysfrum.net^
 ||rlcdn.com^
@@ -37742,6 +37754,7 @@ vkcdnservice.appspot.com^
 ||scurra.space^
 ||scurrilidylian.shop^
 ||scurrypaleron.click^
+||scutateslogs.cyou^
 ||scutesneatest.com^
 ||scvmljhzcdfyj.store^
 ||scwmllkshdfug.website^
@@ -38861,6 +38874,7 @@ vkcdnservice.appspot.com^
 ||smugglerefreshing.com^
 ||smugmoney.pro^
 ||smurtleyaupon.shop^
+||smykirfgsmfpl.space^
 ||smzzsjssovr.com^
 ||snackimmovabletrinity.com^
 ||snackteepatron.com^
@@ -40318,6 +40332,7 @@ vkcdnservice.appspot.com^
 ||tackmainly.com^
 ||tackyfrack.digital^
 ||tacticalswindle.com^
+||tacticflitty.cfd^
 ||tacticschangebabysitting.com^
 ||tacticsextreme.com^
 ||tacticwane.com^
@@ -42032,6 +42047,7 @@ vkcdnservice.appspot.com^
 ||tuudibopjoxmy.site^
 ||tuuthcqyryopa.site^
 ||tuyexdwuboyuw.top^
+||tv3nx1tzhw5v41ov5vt747qn.rest^
 ||tvcbvfwdj.net^
 ||tvdnchhxwss.com^
 ||tvgqezdhuvbzh.site^
@@ -45085,6 +45101,7 @@ vkcdnservice.appspot.com^
 ||whollyindependentlylooking.com^
 ||whomcomposescientific.com^
 ||whomsudsikaxu.com^
+||whoogheersowiks.net^
 ||whoohobersy.net^
 ||whookroo.com^
 ||whooltaulsairso.com^
@@ -47633,6 +47650,7 @@ vkcdnservice.appspot.com^
 ||zmonei.com^
 ||zmqyzjlzoojbw.top^
 ||zmqyzjlzoojvj.top^
+||zmqyzjlzoorvb.top^
 ||zmrrjyyqeaaye.top^
 ||zmrrjyyqeaqwz.top^
 ||zmunerrdl.com^
@@ -132061,6 +132079,7 @@ dlsdk.appsflyer.com^
 ||inputicicle.com^
 ||inquisitiveice.com^
 ||inquisitiveinvention.com^
+||inspirebees.com^
 ||insulatech.com^
 ||intelligentscissors.com^
 ||intentlens.com^
