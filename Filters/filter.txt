@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2025-11-10T03:15:53.150Z
+! Last modified: 2025-11-10T04:23:31.310Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -15222,6 +15222,7 @@ vkcdnservice.appspot.com^
 ||djqprujbvjcfx.space^
 ||djrkpoublcswv.store^
 ||djrrburvg.com^
+||djrtrzohpfgmi.site^
 ||djtsgzireukxr.online^
 ||djtvmjsgrfhrx.store^
 ||djuqmseuelmct.site^
@@ -15265,6 +15266,7 @@ vkcdnservice.appspot.com^
 ||dloksywrn.com^
 ||dlpggklxwulgcmp.net^
 ||dlqbioenjjwsv.store^
+||dlqenqgotsate.store^
 ||dlqovfmukewgc.website^
 ||dlqysest.com^
 ||dlrectdates.com^
@@ -18348,6 +18350,7 @@ vkcdnservice.appspot.com^
 ||foxlikecometot.org^
 ||foxpush.io^
 ||foybdfdodvgva.rocks^
+||foyiairjj.com^
 ||fpadserver.com^
 ||fpbckekryivna.website^
 ||fpbpgoqubikzw.space^
@@ -19304,6 +19307,7 @@ vkcdnservice.appspot.com^
 ||gigsmanhowls.top^
 ||giguenestle.com^
 ||giiepghzxdtbl.website^
+||giiqvfzntxhbq.store^
 ||giirlforyou.com^
 ||gikwhxotzqqzc.site^
 ||gilarditus.com^
@@ -22216,6 +22220,7 @@ vkcdnservice.appspot.com^
 ||ihuzryhojljka.site^
 ||ihvyhnqa.com^
 ||ihxqbcjyqnsny.online^
+||ihxqlcufowneq.store^
 ||ihxvtrhybhf.com^
 ||ihykcymyocpvw.site^
 ||ihytcsarhaaxw.net^
@@ -38288,6 +38293,7 @@ vkcdnservice.appspot.com^
 ||significantdoubloons.com^
 ||significantrapid.com^
 ||sihucmeefuthul.net^
+||sijawylhpflm.com^
 ||sijfmqqjmglzk.space^
 ||sijqthniphtag.website^
 ||sikagaylies.com^
@@ -39472,6 +39478,7 @@ vkcdnservice.appspot.com^
 ||sterurelander.com^
 ||stesywijy.com^
 ||stethathehadsto.com^
+||stevanlatoun.shop^
 ||stevetrainer.shop^
 ||steviamose.shop^
 ||stewishaspic.cfd^
@@ -42933,6 +42940,7 @@ vkcdnservice.appspot.com^
 ||usiybpgvwccfajn.com^
 ||usjbwvtqwv.com^
 ||uskokvolutin.com^
+||uslfmnchussgv.site^
 ||uslqdimcuxehp.store^
 ||usmajesticrake.com^
 ||usneaers.cfd^
@@ -43259,6 +43267,7 @@ vkcdnservice.appspot.com^
 ||vawk0ap3.xyz^
 ||vax-boost.com^
 ||vax-now.com^
+||vaxednltajoif.space^
 ||vazvfaazc.com^
 ||vazypteke.pro^
 ||vbaalbovaazmv.top^
@@ -43852,6 +43861,7 @@ vkcdnservice.appspot.com^
 ||vmgvazjmjmojw.top^
 ||vmhrqjvddhnwp.site^
 ||vmicdkmpvgbqt.online^
+||vmiymbabxueli.space^
 ||vmjanoicaljna.online^
 ||vmjdbcwl.com^
 ||vmjtfdykvjhca.online^
@@ -136569,8 +136579,8 @@ dlsdk.appsflyer.com^
 !
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 05 Nov 2025 15:59 UTC+7
-! Version: 2511051559
+! Last modified: 10 Nov 2025 10:27 UTC+7
+! Version: 2511101027
 ! Blocked: 889 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
@@ -137402,9 +137412,9 @@ dlsdk.appsflyer.com^
 !
 ! Title: hostsVN Threat
 ! Description: Only include threat domains
-! Last modified: 05 Nov 2025 15:59 UTC+7
-! Version: 2511051559
-! Blocked: 4.780 rules
+! Last modified: 10 Nov 2025 10:27 UTC+7
+! Version: 2511101027
+! Blocked: 4.782 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -137496,6 +137506,7 @@ dlsdk.appsflyer.com^
 ||abfishop.com^
 ||abfishop.org^
 ||abutparker.com^
+||abxvr.ndkp.tech^
 ||acb.vn-c.xyz^
 ||acb.vn-ol.top^
 ||acbbank.xyz^
@@ -137547,6 +137558,7 @@ dlsdk.appsflyer.com^
 ||ahoravideo-schnellvpn.xyz^
 ||ahthegha.cfd^
 ||aiagjgqz.njasu.de^
+||aikguairn.osmt.link^
 ||airst.giize.com^
 ||aivaylaco.com^
 ||alibabavip.xyz^
