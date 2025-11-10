@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2025-11-10T18:22:14.321Z
+! Last modified: 2025-11-10T20:18:50.738Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -8585,6 +8585,7 @@ vkcdnservice.appspot.com^
 ||akokkogoshiak.website^
 ||akouptishoa.net^
 ||akqpfvmbvrqjf.online^
+||akqsxpfnxxmvr.com^
 ||aksasaoaqdqrh.store^
 ||aksdaitkatktk.com^
 ||aksfkedagaz.com^
@@ -9622,6 +9623,7 @@ vkcdnservice.appspot.com^
 ||auditioningborder.com^
 ||auditoriumgiddiness.com^
 ||audmrk.com^
+||audxqevqhnv.com^
 ||aufaustoalri.net^
 ||auforau.com^
 ||auftukoojimsuz.com^
@@ -11378,6 +11380,7 @@ vkcdnservice.appspot.com^
 ||bqrueuxqvhjhc.online^
 ||bqsnmpwxwd.buzz^
 ||bqszugpxadzlg.store^
+||bqtqvxmihnpil.store^
 ||bqvarftvrigcn.online^
 ||bqvzsxadeajio.global^
 ||bqwfemjlhxpia.online^
@@ -13156,6 +13159,7 @@ vkcdnservice.appspot.com^
 ||cnt.my^
 ||cntbrzonyxnzv.site^
 ||cntrealize.com^
+||cnvggbhoozkdr.space^
 ||cnvilqptnnpqr.online^
 ||cnwafglwlbcro.life^
 ||cnyojprieezzh.store^
@@ -15750,6 +15754,7 @@ vkcdnservice.appspot.com^
 ||dsxmn0.com^
 ||dsxrvvqolphwm.website^
 ||dsyrogvoyrsrl.space^
+||dszpyfbiywceq.website^
 ||dt4ever.com^
 ||dt51.net^
 ||dtadnetwork.com^
@@ -18196,6 +18201,7 @@ vkcdnservice.appspot.com^
 ||fmmnotstql.xyz^
 ||fmoezqerkepc.com^
 ||fmpub.net^
+||fmqbtajbojryt.store^
 ||fmsads.com^
 ||fmsbmpclfodn.net^
 ||fmstigat.online^
@@ -24871,6 +24877,7 @@ vkcdnservice.appspot.com^
 ||kissagepurrah.qpon^
 ||kissoffering.com^
 ||kistutch.net^
+||kitcheerduksomt.com^
 ||kitchenburrhel.shop^
 ||kitesiotas.life^
 ||kithaulrabirty.net^
@@ -25353,6 +25360,7 @@ vkcdnservice.appspot.com^
 ||kvdqzsytlcxuf.space^
 ||kvfiutytcelqx.site^
 ||kvgifdzxoyjpn.space^
+||kvgiyvsifqvrj.space^
 ||kvhfewmbwyads.online^
 ||kvhvthimrbtfs.com^
 ||kvicotyzeyt.com^
@@ -31911,6 +31919,7 @@ vkcdnservice.appspot.com^
 ||ozonemedia.com^
 ||ozonicutrecht.shop^
 ||ozorrjtydqrjd.online^
+||ozscuyfjroxrg.com^
 ||ozsiwqbeanupu.space^
 ||ozslvgepdluca.store^
 ||ozuvdfqzkqxho.store^
@@ -35022,6 +35031,7 @@ vkcdnservice.appspot.com^
 ||qr-captcha.com^
 ||qr-player-new.com^
 ||qrcvbzqlsbshx.space^
+||qrczjokpskryu.online^
 ||qrddvulqu.com^
 ||qrealqeorqorj.top^
 ||qrealqezjvarv.top^
@@ -35707,6 +35717,7 @@ vkcdnservice.appspot.com^
 ||realisechewing.com^
 ||realiserecognize.com^
 ||realistic-total.pro^
+||realizationnewestfangs.com^
 ||realizationwaterwillingly.com^
 ||realizesensitivenessflashlight.com^
 ||reallyzills.top^
@@ -46095,6 +46106,7 @@ vkcdnservice.appspot.com^
 ||xg8qofeylie14y8h5qnrb.cfd^
 ||xgbetzbmmdqbv.space^
 ||xgbzhyoeitomd.website^
+||xgcsuiebbavok.com^
 ||xghklnjmyljlc.site^
 ||xgiiioziwwayu.store^
 ||xgnrtinmuczbe.website^
