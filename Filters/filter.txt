@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2025-11-14T01:12:04.376Z
+! Last modified: 2025-11-14T03:10:05.437Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -17072,6 +17072,7 @@ vkcdnservice.appspot.com^
 ||eqcpkbdweyvff.online^
 ||eqddkngvrgvkw.site^
 ||eqfqekkgkwpya.online^
+||eqfrsqiui.com^
 ||eqiuunumwtxcl.site^
 ||eqltxthw.com^
 ||eqlzbrictopyi.space^
@@ -21043,6 +21044,7 @@ vkcdnservice.appspot.com^
 ||hcgupkkixlqad.store^
 ||hchqflfbx.com^
 ||hcioruffodhya.store^
+||hcjfmbra.com^
 ||hcknzbetfacar.space^
 ||hcleehgffswrafw.com^
 ||hclmnarlsmleo.site^
@@ -24227,6 +24229,7 @@ vkcdnservice.appspot.com^
 ||joapheepemeeth.net^
 ||joathath.com^
 ||joatouwhoujauca.net^
+||jobbetkatik.rest^
 ||jobbingunnet.shop^
 ||jobestzipolike.org^
 ||jobeyeball.com^
@@ -35322,6 +35325,7 @@ vkcdnservice.appspot.com^
 ||qjpiosbrbh.net^
 ||qjrvummavqjtr.website^
 ||qjskjiztddgxp.store^
+||qjuxbatoptcwi.website^
 ||qjvksieybn.vip^
 ||qjwssofsa.com^
 ||qjynxahxbynbpq.com^
@@ -35457,6 +35461,7 @@ vkcdnservice.appspot.com^
 ||qolkekwuvcjvm.website^
 ||qomg1mhlxx85nut49vw9xw.rest^
 ||qomqxzufyzmit.site^
+||qoocckkeuusm.com^
 ||qotbhqrralipkp.com^
 ||qottubusyheqj.store^
 ||qotuprmsjnjbn.site^
@@ -36923,6 +36928,7 @@ vkcdnservice.appspot.com^
 ||rhumbsguaque.cfd^
 ||rhvdsplm.com^
 ||rhwajoghefysf.site^
+||rhxawvxgqrawy.space^
 ||rhxdsplm.com^
 ||rhythmxchange.com^
 ||rhywbowr.com^
@@ -39984,6 +39990,7 @@ vkcdnservice.appspot.com^
 ||squirtdrsuccession.com^
 ||squirtpresented.com^
 ||sqwwhdckyewdnlu.net^
+||sqyuxifbrkuez.website^
 ||sqzwjufya.com^
 ||sr7pv7n5x.com^
 ||srahihdzoha.com^
@@ -43741,6 +43748,7 @@ vkcdnservice.appspot.com^
 ||ushercensor.com^
 ||usherfrightenwaiter.com^
 ||ushermassacrecranny.com^
+||usiablwvpqmqr.site^
 ||usihecbkdzxbw.site^
 ||usingageghoaft.net^
 ||usingstrikingindoors.com^
@@ -44031,6 +44039,7 @@ vkcdnservice.appspot.com^
 ||vardsusyseinpo.com^
 ||vargirgousa.net^
 ||variablehour.com^
+||variantfibula.rest^
 ||variationsradio.com^
 ||variedslimecloset.com^
 ||varietiesassuage.com^
@@ -46426,6 +46435,7 @@ vkcdnservice.appspot.com^
 ||wspfskknmnzvq.rocks^
 ||wspsbhvnjk.com^
 ||wsshehasnomoney.com^
+||wssnddllssomv.space^
 ||wsssaunhzztxj.store^
 ||wssxudxjuemps.com^
 ||wstep4.biz^
@@ -47408,6 +47418,7 @@ vkcdnservice.appspot.com^
 ||ycqsozlszqmdr.website^
 ||ycvlvgcuaxtem.website^
 ||ycwaqlnpzlvkw.store^
+||yczuantheoxem.website^
 ||ydbvxdrfblu.com^
 ||ydeyqndahrpry.online^
 ||ydiggeurkhusl.store^
@@ -48089,6 +48100,7 @@ vkcdnservice.appspot.com^
 ||zcumbriaxpjbl.site^
 ||zcuwwsophlhpm.online^
 ||zcymvyglyjyxu.online^
+||zczdlauinkihf.store^
 ||zdaptrksg.com^
 ||zdawvocofpfcr.vip^
 ||zdbuagetodumy.website^
@@ -144349,6 +144361,7 @@ dlsdk.appsflyer.com^
 ||xxts11140zs.com^
 ||mthonpga.com^
 ||bxmo.cn^
+||qyplvnzcm1.com^
 ||0h9yewgei.com^
 ||xxts11130zs.com^
 ||rf10b9mq8.com^
