@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2025-11-15T16:16:35.206Z
+! Last modified: 2025-11-15T18:19:44.969Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -8807,6 +8807,7 @@ vkcdnservice.appspot.com^
 ||ambbilgy.cfd^
 ||ambie.site^
 ||ambientplatform.vn^
+||ambigusandyx.qpon^
 ||ambitious-emergency.pro^
 ||ambitious-quote.com^
 ||ambitious-site.pro^
@@ -11656,6 +11657,7 @@ vkcdnservice.appspot.com^
 ||burryidiots.cfd^
 ||bursasrewaxes.qpon^
 ||bursthormone.com^
+||burtaikoodogruy.net^
 ||burwfuhpwjlme.site^
 ||busbieszapote.help^
 ||busherdebates.com^
@@ -17110,6 +17112,7 @@ vkcdnservice.appspot.com^
 ||extendingreversionmotorcycle.com^
 ||extension-ad-stopper.com^
 ||extensions-media.com^
+||extensionslightest.com^
 ||extensionworthwhile.com^
 ||extentsunfumed.cfd^
 ||extenuatemusketsector.com^
@@ -17422,6 +17425,7 @@ vkcdnservice.appspot.com^
 ||fcb6adad17.com^
 ||fcc217ae84.com^
 ||fccinteractive.com^
+||fce1xkzi8k37wr.rest^
 ||fceedf7652.com^
 ||fcghrjiduziwb.online^
 ||fcgwwfcc.net^
@@ -19533,6 +19537,7 @@ vkcdnservice.appspot.com^
 ||gorblekeepers.qpon^
 ||gorclck.com^
 ||gorebusters.shop^
+||gorevanmelic.click^
 ||gorgedipitself.com^
 ||gorgeousirreparable.com^
 ||gorgeousscrupulous.com^
@@ -20616,6 +20621,7 @@ vkcdnservice.appspot.com^
 ||hgbqsxuptruuf.website^
 ||hgctxoycmyqcn.store^
 ||hgesqwfqw.online^
+||hgfflsrymeivf.site^
 ||hgfosqroovvpw.website^
 ||hggcovkyhosxz.click^
 ||hghit.com^
@@ -21328,6 +21334,7 @@ vkcdnservice.appspot.com^
 ||hxdecujrfmyyv.online^
 ||hxefvtiqr.net^
 ||hxefvtiqr.xyz^
+||hxkeammfkgejm.space^
 ||hxlcunmryxpzq.space^
 ||hxmcaugiqijkz.store^
 ||hxoewq.com^
@@ -24034,6 +24041,7 @@ vkcdnservice.appspot.com^
 ||krofqawozfnma.website^
 ||kromerefinds.cyou^
 ||kronendaylong.help^
+||kroonsforches.qpon^
 ||krpebhpl.com^
 ||krpoxpezhuqqx.online^
 ||krshmqrqvipop.website^
@@ -29408,6 +29416,7 @@ vkcdnservice.appspot.com^
 ||oteblowdxltre.online^
 ||otfkqgfpcsnhi.website^
 ||otfygdzebcjme.space^
+||otgudjtnldzce.store^
 ||otgyufesofpmu.online^
 ||otherleg.pro^
 ||otherwallowssheh.com^
@@ -30312,6 +30321,7 @@ vkcdnservice.appspot.com^
 ||pfytpzssrhyah.website^
 ||pgazaz.icu^
 ||pgbsbhmayajsu.space^
+||pgdfbqnkprprf.space^
 ||pgdudllfjgeyy.online^
 ||pgfnciyodtbsm.store^
 ||pgfqlbnex.com^
@@ -30756,6 +30766,7 @@ vkcdnservice.appspot.com^
 ||pmawayqeerhxg.site^
 ||pmc1201.com^
 ||pmcfsdkxejfgd.store^
+||pmdbhrxgnfbwx.online^
 ||pmegdobhuwqwz.online^
 ||pmf73er72ez1hlfb25hzn.cfd^
 ||pmffi48z41x4f3bx3kobtfv7g.cfd^
@@ -30937,6 +30948,7 @@ vkcdnservice.appspot.com^
 ||popularcldfa.co^
 ||populateaccommodatingmart.com^
 ||populationrind.com^
+||populidippy.click^
 ||populis.com^
 ||populumparleys.cfd^
 ||popunder.bid^
@@ -31679,6 +31691,7 @@ vkcdnservice.appspot.com^
 ||pttyteuarfsqa.site^
 ||ptubsumsoay.net^
 ||ptugnins.net^
+||ptujurnpa.com^
 ||ptumesukrerd.net^
 ||ptupsewo.net^
 ||ptuqidzdjdkhi.site^
@@ -32285,6 +32298,7 @@ vkcdnservice.appspot.com^
 ||qmefcejujmezq.website^
 ||qmemxsreczhet.space^
 ||qmgybpccnjfuh.site^
+||qmhwtedcmpq.com^
 ||qmiwfgxfouwpc.net^
 ||qmjjfwxgmsovj.site^
 ||qmjzqncmzmei.com^
@@ -33752,6 +33766,7 @@ vkcdnservice.appspot.com^
 ||rmtagvivdrbwd.icu^
 ||rmtpouusuokbh.space^
 ||rmuancaxpzuj.com^
+||rmuscjmrhtmwy.com^
 ||rmvgkffxanynd.website^
 ||rmvvawqleqbaw.top^
 ||rmvvawqleqyok.top^
@@ -34971,6 +34986,7 @@ vkcdnservice.appspot.com^
 ||sementfannell.com^
 ||seminarlotus.rest^
 ||semiprotylari.qpon^
+||semitacense.cfd^
 ||semplesapolune.com^
 ||semqraso.net^
 ||semsicou.net^
@@ -40208,6 +40224,7 @@ vkcdnservice.appspot.com^
 ||uxwvvypzgtkxw.store^
 ||uxxyrwdudiacf.online^
 ||uxzkvkzxhxxjv.space^
+||uy9t65npflytgp.cfd^
 ||uydsjtaeibues.online^
 ||uydyqlnebqlwe.global^
 ||uyenydjup.com^
@@ -40510,6 +40527,7 @@ vkcdnservice.appspot.com^
 ||velvzzjayrozj.top^
 ||velvzzjayrwaw.top^
 ||vemqkbaqyjaaz.top^
+||vemqkbaqyjzaw.top^
 ||vemtoutcheeg.com^
 ||vendedlayup.com^
 ||vendigamus.com^
@@ -42283,6 +42301,7 @@ vkcdnservice.appspot.com^
 ||wlfslsqfinhtp.website^
 ||wlglvllmgknyq.top^
 ||wlgyeqqxjvomm.space^
+||wlibaquyngwcbi.com^
 ||wljrvynqkzdvn.site^
 ||wllebozbzjmbv.top^
 ||wllebozbzjqlk.top^
@@ -43600,6 +43619,7 @@ vkcdnservice.appspot.com^
 ||yepgfsxto.net^
 ||yephgmriwtzrl.website^
 ||yeplykerfed.shop^
+||yeqmnfifpcgoh.store^
 ||yequiremuke.com^
 ||yeranydwould.org^
 ||yernbiconic.com^
@@ -44150,6 +44170,7 @@ vkcdnservice.appspot.com^
 ||zamioculcas2.org^
 ||zamutsausauy.com^
 ||zangocash.com^
+||zaniahtruing.shop^
 ||zanontodg.com^
 ||zanvpkmdslnvg.vip^
 ||zanyestablishment.pro^
