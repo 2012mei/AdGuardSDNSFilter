@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2025-11-15T18:19:44.969Z
+! Last modified: 2025-11-15T20:15:28.124Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -13609,6 +13609,7 @@ vkcdnservice.appspot.com^
 ||cpuim.com^
 ||cpvlyqkpyfsns.store^
 ||cpwbapcsltmjh.vip^
+||cpwhmpykifj.com^
 ||cpx24.com^
 ||cpxinteractive.com^
 ||cpxkcejzsfcyf.space^
@@ -17583,6 +17584,7 @@ vkcdnservice.appspot.com^
 ||fezvmovxilyhe.site^
 ||ff1232f5f3.com^
 ||ff5860d583.com^
+||ffaxwbsxqt.com^
 ||ffbcyjedmvejy.website^
 ||ffbdatxllaeco.website^
 ||ffbdohvyginlok.xyz^
@@ -29959,6 +29961,7 @@ vkcdnservice.appspot.com^
 ||passwordssaturatepebble.com^
 ||pastaleafceiling.com^
 ||pastamia.help^
+||pastedict.com^
 ||pastel-hire.pro^
 ||pasteldrowsyaboriginal.com^
 ||pasteljav128.fun^
@@ -32095,6 +32098,7 @@ vkcdnservice.appspot.com^
 ||qcqobpxpeeiwh.store^
 ||qctltbddoojgy.website^
 ||qcuwpicccoscr.online^
+||qcwectnsirmoe.website^
 ||qcwncvezgmqbx.site^
 ||qcwnfoqtqgvau.icu^
 ||qcxavhaxbsdie.space^
@@ -32438,6 +32442,7 @@ vkcdnservice.appspot.com^
 ||qspylmhnisdrq.space^
 ||qsrdqwujtvxcf.vip^
 ||qsrvzbuhumwow.website^
+||qsswiwbsdnjp.com^
 ||qstdgyhrnvyij.space^
 ||qsvbi.space^
 ||qsvdftnuckecq.site^
@@ -32796,6 +32801,7 @@ vkcdnservice.appspot.com^
 ||ranopportuni.com^
 ||ranseursnapped.cfd^
 ||ranularejang.rest^
+||ranxeajgztdgo.space^
 ||raordukinarilyhuk.com^
 ||raosmeac.net^
 ||rapacitylikelihood.com^
@@ -34675,6 +34681,7 @@ vkcdnservice.appspot.com^
 ||scaldsheetdeterrent.com^
 ||scalerjangly.help^
 ||scalesassign.com^
+||scallopafford.com^
 ||scallopbedtime.com^
 ||scallopfulsome.help^
 ||scalpdisqualify.com^
@@ -35222,6 +35229,7 @@ vkcdnservice.appspot.com^
 ||shboshbok.com^
 ||shbqitjfwhhge.club^
 ||shcnohorrazqn.store^
+||shctjqdghgnxn.store^
 ||she-want-fuck.com^
 ||shealapish.com^
 ||shebarindict.com^
@@ -35724,6 +35732,7 @@ vkcdnservice.appspot.com^
 ||slavesubmarinebribery.com^
 ||slavicfarth.qpon^
 ||slavinboise.world^
+||slawhomager.com^
 ||slayingbritska.shop^
 ||slayingbugeyes.com^
 ||slbjksfomekcn.website^
@@ -43050,6 +43059,7 @@ vkcdnservice.appspot.com^
 ||xiqhsgtnqcbzy.online^
 ||xirgjcskcmabmy.com^
 ||xirmhojmjyldx.site^
+||xirnollcwexvz.website^
 ||xiszslutzusvr.store^
 ||xitowfveagfv.com^
 ||xitsievucdlde.space^
@@ -43627,6 +43637,7 @@ vkcdnservice.appspot.com^
 ||yes-messenger.com^
 ||yesgwyn.com^
 ||yesmessenger.com^
+||yesomdlzvbtui.store^
 ||yespbkpharqoo.site^
 ||yespetor.com^
 ||yestercicalas.click^
@@ -128324,6 +128335,7 @@ dlsdk.appsflyer.com^
 ||brotherslocket.com^
 ||brownboxgroup.com^
 ||bruisebaseball.com^
+||bubblyaction.com^
 ||bugpizza.com^
 ||buildingknife.com^
 ||bulbbait.com^
@@ -128976,6 +128988,7 @@ dlsdk.appsflyer.com^
 ||jamexport.com^
 ||jazzstadium.com^
 ||jazzwholesale.com^
+||jellyfinstream.com^
 ||jetskiscovers.com^
 ||jewelryforest.com^
 ||jewelrysprings.com^
