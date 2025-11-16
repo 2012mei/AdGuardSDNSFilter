@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2025-11-16T06:22:00.825Z
+! Last modified: 2025-11-16T08:18:41.295Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -12815,6 +12815,7 @@ vkcdnservice.appspot.com^
 ||ckqohqwhpsgvf.website^
 ||ckrf1.com^
 ||ckvhtzcrppkjg.website^
+||ckwvkjlmljzxl.online^
 ||ckximrtqugume.space^
 ||ckydlxzejeepc.rocks^
 ||ckzypnshkzevn.xyz^
@@ -14116,6 +14117,7 @@ vkcdnservice.appspot.com^
 ||czhmgezchubno.space^
 ||czhplaacakpki.website^
 ||cznratophrtou.website^
+||czqtpkjueiffw.space^
 ||czsttsmgndlni.website^
 ||czsusasfoyqln.website^
 ||cztmmijwxiafu.click^
@@ -19775,6 +19777,7 @@ vkcdnservice.appspot.com^
 ||greroaso.com^
 ||gretseemudseevo.net^
 ||greundproximo.cfd^
+||greundunnest.shop^
 ||greuy.xyz^
 ||grewhinsass.net^
 ||greystripe.com^
@@ -24901,6 +24904,7 @@ vkcdnservice.appspot.com^
 ||livvbkx-vejj.xyz^
 ||livxlilsq.click^
 ||lixstownrusisedpriv.org^
+||lizebruisiaculture.com^
 ||ljayfabggjyvc.website^
 ||ljbhrddcoyck.com^
 ||ljbiynvyhfteq.rocks^
@@ -25083,6 +25087,7 @@ vkcdnservice.appspot.com^
 ||lockianquota.top^
 ||lockoophoossy.net^
 ||lockupaccede.com^
+||locnrivalry.qpon^
 ||locoesferrara.qpon^
 ||locooler-ageneral.com^
 ||loculeskhass.qpon^
@@ -25323,6 +25328,7 @@ vkcdnservice.appspot.com^
 ||lsvfzskgudyyr.site^
 ||lswteiiyfccwt.site^
 ||lsxpzalzmioxq.online^
+||lsxvvokpclst.com^
 ||lsykbtaljztxr.online^
 ||ltackvyticqaq.online^
 ||ltassrv.com.s3.amazonaws.com^
@@ -26184,6 +26190,7 @@ vkcdnservice.appspot.com^
 ||metaeworral.help^
 ||metahv.xyz^
 ||metalbow.com^
+||metallcorrupt.com^
 ||metallichospital.pro^
 ||metallicselection.com^
 ||metallicside.pro^
@@ -31579,6 +31586,7 @@ vkcdnservice.appspot.com^
 ||psoaftob.xyz^
 ||psoaglaihuphais.net^
 ||psoajoabuca.net^
+||psoamsoampeetog.net^
 ||psoassoongouh.com^
 ||psoathaithosh.net^
 ||psoavaumtoassuh.net^
@@ -32164,6 +32172,7 @@ vkcdnservice.appspot.com^
 ||qdbsewwvrrqug.site^
 ||qdbsjlwldjudty.com^
 ||qdfscelxyyem.club^
+||qdhaokyrqr.com^
 ||qdhrbget.click^
 ||qdjgcchrgsrza.space^
 ||qdlrbnjioxxnl.website^
@@ -34087,6 +34096,7 @@ vkcdnservice.appspot.com^
 ||rpts.org^
 ||rptzikhuyzsgy.website^
 ||rpvhxowckitodm.net^
+||rpxjlfxnegnlz.website^
 ||rpxorephfxdvm.site^
 ||rqejawwjlomjw.top^
 ||rqejawwjlomla.top^
@@ -35024,6 +35034,7 @@ vkcdnservice.appspot.com^
 ||sehlicegxy.com^
 ||seidclonos.cyou^
 ||seigewakiup.click^
+||seinercasual.click^
 ||seishinyoga.com^
 ||seisorsverbile.top^
 ||seizureblade.com^
@@ -36512,6 +36523,7 @@ vkcdnservice.appspot.com^
 ||sqpcjfvdgnemlhf.net^
 ||sqrekndc.fun^
 ||sqrobmpshvj.com^
+||sqsupmkbenkyh.site^
 ||sqtagpqwzyfhj.site^
 ||sqtnbselqbaqw.site^
 ||sqtpgwvxxad.net^
@@ -38265,6 +38277,7 @@ vkcdnservice.appspot.com^
 ||tjndsmlcnoweq.space^
 ||tjnkzeqjntmhj.website^
 ||tjnukcxcafaiq.website^
+||tjosjuihqnxke.online^
 ||tjpkgnwvighek.click^
 ||tjpzz.buzz^
 ||tjskwgxsu.net^
@@ -39738,6 +39751,7 @@ vkcdnservice.appspot.com^
 ||unfortunate-can.com^
 ||unfortunatechampionship.com^
 ||unfortunatelyemotion.com^
+||unfortunatemiss.com^
 ||unfrostneoneds.help^
 ||unfumedvamoses.com^
 ||ungagosmund.rest^
@@ -44187,6 +44201,7 @@ vkcdnservice.appspot.com^
 ||yxlrztklsogxs.site^
 ||yxmtgttitplap.store^
 ||yxnitldzfbuun.space^
+||yxnkrmzdmjwwt.site^
 ||yxouetwlvpli.com^
 ||yxpmkgzsqcxyu.site^
 ||yxtwurrbxqifz.website^
@@ -140563,6 +140578,8 @@ dlsdk.appsflyer.com^
 ||ntegrodvtu.com^
 ||1qkssfop4l.com^
 ||ibqh.cn^
+||xxts11161zs.com^
+||4h87y9pc59.com^
 ||wsnxw6ihs.com^
 ||xxts11150zs.com^
 ||qayjvrxso.com^
