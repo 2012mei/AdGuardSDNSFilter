@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2025-11-16T03:14:47.016Z
+! Last modified: 2025-11-16T04:21:38.017Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -8592,6 +8592,7 @@ vkcdnservice.appspot.com^
 ||aksfkedagaz.com^
 ||aksvougxccpvg.online^
 ||aksxpzjcwbrwu.website^
+||aktflpeamcdej.store^
 ||akucord.com^
 ||akupmhxbzdhau.space^
 ||akutapro.com^
@@ -15499,6 +15500,7 @@ vkcdnservice.appspot.com^
 ||drevelrolling.cyou^
 ||dreycusps.com^
 ||dreyeli.info^
+||drferingi.rest^
 ||drgfelufnknwy.space^
 ||drhtaevoalgbx.website^
 ||dribbleads.com^
@@ -26992,6 +26994,7 @@ vkcdnservice.appspot.com^
 ||mrvfhwmcmeioh.website^
 ||mrvsaifkql.com^
 ||mrxapclsfuerb.online^
+||mrxpstgogyebr.com^
 ||mrycibqutoz.com^
 ||mrydhdmpx.com^
 ||mrylmhntwqtdubd.com^
@@ -34335,6 +34338,7 @@ vkcdnservice.appspot.com^
 ||rvardsusyseinp.org^
 ||rvetreyu.net^
 ||rvgeptxytttwg.site^
+||rvhbufmwvafov.site^
 ||rvihkyszwavms.store^
 ||rviqayltwu.love^
 ||rvisofoseveralye.com^
@@ -37521,6 +37525,7 @@ vkcdnservice.appspot.com^
 ||targermootman.world^
 ||targeta41.net^
 ||targetmatch.co^
+||tarhszehtlxis.website^
 ||tarlikehirer.help^
 ||taroads.com^
 ||tarocanimism.cyou^
