@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2025-11-16T01:16:40.686Z
+! Last modified: 2025-11-16T03:14:47.016Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -9712,6 +9712,7 @@ vkcdnservice.appspot.com^
 ||aviiivsxdmbgc.site^
 ||avirstiinmxzp.space^
 ||avitalstichos.qpon^
+||avjbjbekaarer.top^
 ||avjlllfpqvloi.website^
 ||avloan3431.fun^
 ||avmonk3431.fun^
@@ -11147,6 +11148,7 @@ vkcdnservice.appspot.com^
 ||boomads.com^
 ||boomkinloyal.help^
 ||booneeptou.net^
+||boophobewhee.com^
 ||booseed.com^
 ||boosheewetie.com^
 ||boost-next.co.jp^
@@ -14145,6 +14147,7 @@ vkcdnservice.appspot.com^
 ||d71194ad75.com^
 ||d77155313b.com^
 ||d79dcdbf0a.com^
+||d883e0249b.com^
 ||d8b03d6392.com^
 ||d8c9bf3664.com^
 ||d949b51857.com^
@@ -17254,6 +17257,7 @@ vkcdnservice.appspot.com^
 ||factsheetgrievancekeg.com^
 ||facultativethus.com^
 ||facultycoffeehouseharp.com^
+||facxqniewyxym.site^
 ||fadegranted.com^
 ||fadesunshine.com^
 ||fadppvjumphyh.online^
@@ -17691,6 +17695,7 @@ vkcdnservice.appspot.com^
 ||filetarget.com^
 ||filetarget.net^
 ||filingattenuate.com^
+||filipposicken.com^
 ||filletenemyroast.com^
 ||filletfiguredconstrain.com^
 ||fillingcater.com^
@@ -17826,6 +17831,7 @@ vkcdnservice.appspot.com^
 ||fkqwhiyfckztp.site^
 ||fkrwxzvxljbyh.website^
 ||fksnk.com^
+||fktdvpuptvcsv.com^
 ||fktmddelukc.com^
 ||fkwlwfjlavrcb.online^
 ||fkwwiawjeqatk.website^
@@ -18862,6 +18868,7 @@ vkcdnservice.appspot.com^
 ||gbzxgadljursj.site^
 ||gcamwwxwybba.xyz^
 ||gcbdpfikiuolb.com^
+||gcddmqvd.com^
 ||gcextetfibnoy.net^
 ||gcfubeywqiffq.website^
 ||gcgrabxewyxwe.website^
@@ -21422,6 +21429,7 @@ vkcdnservice.appspot.com^
 ||hzyrtyxsarscw.online^
 ||hzzvfturvtdvt.store^
 ||i-svzgrtibs.rocks^
+||i1g55rb4pk8xof9zqy54t5x.rest^
 ||i2ij7inr7kbiw8423rwiticev1xbzjo6jxh.cfd^
 ||i3ppkm9wjy5zmz79hffp1euclp.cfd^
 ||i4lx3jb2tpfrn751j8z12.cfd^
@@ -21800,6 +21808,7 @@ vkcdnservice.appspot.com^
 ||imitateupsettweak.com^
 ||imitrck.net^
 ||imjgkrmhfvznf.online^
+||imjprkvybgfdw.space^
 ||imkirh.com^
 ||imlhrlqatliqu.store^
 ||immaculate-vacation.pro^
@@ -23755,6 +23764,7 @@ vkcdnservice.appspot.com^
 ||kitingbrutely.cfd^
 ||kitrigthy.com^
 ||kitschscuft.com^
+||kivkmopakxkwo.online^
 ||kivnebwejssep.site^
 ||kiweegraulree.net^
 ||kiwhopoardeg.net^
@@ -29749,6 +29759,7 @@ vkcdnservice.appspot.com^
 ||ozonemedia.com^
 ||ozorrjtydqrjd.online^
 ||ozpbrvotrpccx.space^
+||ozpnmwkzyvazx.store^
 ||ozscuyfjroxrg.com^
 ||ozsiwqbeanupu.space^
 ||ozslvgepdluca.store^
@@ -29813,6 +29824,7 @@ vkcdnservice.appspot.com^
 ||paginaewakens.shop^
 ||pagkitahn.com^
 ||pagumaderout.digital^
+||pagumariffed.shop^
 ||pagvlobq.com^
 ||paht.tech^
 ||pahtdz.tech^
@@ -36533,6 +36545,7 @@ vkcdnservice.appspot.com^
 ||ssblepbnncttn.site^
 ||sscjqsqachetz.space^
 ||ssedcrimble.com^
+||ssedsneeze.com^
 ||sservs.com^
 ||ssindserving.com^
 ||sskzlabs.com^
@@ -40570,6 +40583,7 @@ vkcdnservice.appspot.com^
 ||velocitycdn.com^
 ||velodran.com^
 ||velvetdock.com^
+||velvetybowtie.rest^
 ||velvetymaximum.pro^
 ||velvzzjayrozj.top^
 ||velvzzjayrwaw.top^
@@ -44664,6 +44678,7 @@ vkcdnservice.appspot.com^
 ||zpr7jnz7k7htkfo2.rest^
 ||zprelandings.com^
 ||zpwllfsjphpig.online^
+||zpww6cvibbxqt6zv2izb35exxh6.cfd^
 ||zqdekzkqwvzcl.buzz^
 ||zqdetabyxxnwp.website^
 ||zqethqturvqgc.online^
@@ -140521,6 +140536,8 @@ dlsdk.appsflyer.com^
 ||naszig.cn^
 ||mbjaob.cn^
 ||ntegrodvtu.com^
+||1qkssfop4l.com^
+||ibqh.cn^
 ||wsnxw6ihs.com^
 ||xxts11150zs.com^
 ||qayjvrxso.com^
