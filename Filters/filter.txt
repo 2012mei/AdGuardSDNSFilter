@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2025-11-19T00:30:30.321Z
+! Last modified: 2025-11-19T01:11:43.149Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -8823,6 +8823,7 @@ vkcdnservice.appspot.com^
 ||ammeossmalts.help^
 ||ammonicdowsing.com^
 ||amnew.net^
+||amnionshake.help^
 ||amntx1.net^
 ||amogartouchoams.net^
 ||amolesramsons.cfd^
@@ -9303,6 +9304,7 @@ vkcdnservice.appspot.com^
 ||arrivingserpentoutbalance.com^
 ||arrlnk.com^
 ||arrnaught.com^
+||arsakan.click^
 ||arsenylasearch.com^
 ||arsfoundhertobe.com^
 ||arsonincreasingmedic.com^
@@ -11136,6 +11138,7 @@ vkcdnservice.appspot.com^
 ||bonnettaking.com^
 ||bonosbevvy.com^
 ||bonrarjfozxyu.website^
+||bonteeeyebree.cfd^
 ||bonusmaniac.com^
 ||bonuspis.com^
 ||bonyface.com^
@@ -16018,6 +16021,7 @@ vkcdnservice.appspot.com^
 ||easysemblyjusti.info^
 ||easythedate-casual.com^
 ||eatcarvedfootprints.com^
+||eatnlqrmbmky.com^
 ||eautifulasaweathercoc.org^
 ||eauxabzmqkikf.space^
 ||eavailandpro.com^
@@ -20802,6 +20806,7 @@ vkcdnservice.appspot.com^
 ||hfhgbhqkxfwv2x.cfd^
 ||hfjayqpjryxel.online^
 ||hfkncj-qalcg.top^
+||hfkndunzsoohv.store^
 ||hfknoftkkkmbi.space^
 ||hflcolyyf.xyz^
 ||hflflbargcuje.website^
@@ -24707,6 +24712,7 @@ vkcdnservice.appspot.com^
 ||lbfpfffanlyzb.online^
 ||lbhtkeffrcqxz.site^
 ||lbkezllrokbev.top^
+||lblfcddvvsnbi.website^
 ||lbmznmoboxffo.online^
 ||lbpodurp.cam^
 ||lbrceeuashhas.net^
@@ -25648,6 +25654,7 @@ vkcdnservice.appspot.com^
 ||lucwypvpwkafq.site^
 ||ludibrynecklet.qpon^
 ||ludicrousfreshencovering.com^
+||ludjzpjhenx.com^
 ||ludpvyyfohlgi.space^
 ||lufavevu.com^
 ||lufberythala.qpon^
@@ -28211,6 +28218,7 @@ vkcdnservice.appspot.com^
 ||nkmopmwspeem.net^
 ||nkmsite.com^
 ||nknowledconsideu.org^
+||nkqrtwvndvss.com^
 ||nkredir.com^
 ||nktavtvkdftkd.site^
 ||nktiyfau.com^
@@ -34195,6 +34203,7 @@ vkcdnservice.appspot.com^
 ||rjliakirakufw.space^
 ||rjmagdairzath.website^
 ||rjmjflkndiqxw.site^
+||rjmyezxkxapco.website^
 ||rjnrddxsxpkwd.site^
 ||rjowzlkaz.today^
 ||rjqwkmcvxsouz.space^
@@ -37169,6 +37178,7 @@ vkcdnservice.appspot.com^
 ||stxmumxjxbeud.store^
 ||stylish-airport.com^
 ||stylish-knife.com^
+||stylusanswer.help^
 ||suabwdmgbartr.online^
 ||suatabolures.com^
 ||suaverplenish.cfd^
