@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2025-11-22T12:27:26.418Z
+! Last modified: 2025-11-22T14:13:02.357Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -9273,6 +9273,7 @@ vkcdnservice.appspot.com^
 ||arcticsentia.help^
 ||arcticsiters.cfd^
 ||ardassnitrids.world^
+||ardeliaarvos.cfd^
 ||ardentlydrivablepagan.com^
 ||ardont.xyz^
 ||ardourunderneath.com^
@@ -13980,6 +13981,7 @@ vkcdnservice.appspot.com^
 ||crutchstubbornultimatum.com^
 ||cruxgpnyrvvur.website^
 ||crvtpvsqvmypc.site^
+||crvxrjwede.net^
 ||crwdcntrl.net^
 ||crwthurling.click^
 ||cryingforanyth.com^
@@ -14265,6 +14267,7 @@ vkcdnservice.appspot.com^
 ||cynem.xyz^
 ||cynzybmckvjxg.store^
 ||cyphershaskard.qpon^
+||cypreaurums.click^
 ||cypselivarve.click^
 ||cystousbuttery.cfd^
 ||cytdmhahgvmur.fun^
@@ -15834,6 +15837,7 @@ vkcdnservice.appspot.com^
 ||dsvzihwpdkagq.store^
 ||dswagqnjedlcq.site^
 ||dswckxxivdrjj.website^
+||dswiqasjjcvsa.online^
 ||dsxgwwrkecsxd.online^
 ||dsxmn0.com^
 ||dsxrvvqolphwm.website^
@@ -19582,6 +19586,7 @@ vkcdnservice.appspot.com^
 ||givingface.pro^
 ||givingpokunt.shop^
 ||givingsol.com^
+||giwypipteywvx.online^
 ||gixiluros.com^
 ||gizokraijaw.net^
 ||gjadyyxbjdshtsy.net^
@@ -22783,6 +22788,7 @@ vkcdnservice.appspot.com^
 ||ip186269007.ahcdn.com^
 ||ipallhpscbdou.site^
 ||ipcgssuxfrlmr.website^
+||ipdqegogqbgwa.space^
 ||ipelo.site^
 ||ipfgvwdwcqiwo.space^
 ||ipfovwmuaxcfw.site^
@@ -23148,6 +23154,7 @@ vkcdnservice.appspot.com^
 ||jaigoaphamu.net^
 ||jaijeestaipsee.net^
 ||jaijs.com^
+||jailishwabbles.cfd^
 ||jaimirozadair.net^
 ||jaiphaugaw.net^
 ||jaiphoudidaust.net^
@@ -28964,6 +28971,7 @@ vkcdnservice.appspot.com^
 ||nqvi-lnlu.icu^
 ||nqvqyxxsxupai.top^
 ||nqwamfuiardkj.space^
+||nqwpspahqsvjo.com^
 ||nqxnhjrcgkupm.website^
 ||nrdpfnpqunyle.rocks^
 ||nreg.world^
@@ -29594,6 +29602,7 @@ vkcdnservice.appspot.com^
 ||ofgulpinan.com^
 ||ofgwuupl.com^
 ||ofhappinyer.com^
+||ofhghlgccwhwh.site^
 ||ofhisladyloveheh.com^
 ||ofhypnoer.com^
 ||ofhzqxpfhusrw.website^
@@ -30765,6 +30774,7 @@ vkcdnservice.appspot.com^
 ||paniscafrancs.cfd^
 ||panish-buddy.pro^
 ||panjsnlmneasi.store^
+||pannerjerrids.help^
 ||panocero.com^
 ||panpbibrvqyen.space^
 ||pansidewechts.rest^
@@ -35462,6 +35472,7 @@ vkcdnservice.appspot.com^
 ||rxayc.com^
 ||rxcwmnrk.com^
 ||rxdbycrfg.com^
+||rxdunybeeeiilox.com^
 ||rxeosevsso.com^
 ||rxexiaam.guru^
 ||rxeyyesahhlyh.website^
@@ -39407,6 +39418,7 @@ vkcdnservice.appspot.com^
 ||trinkumjuneau.help^
 ||triodonfogas.click^
 ||trioecsduomi.digital^
+||triossophic.rest^
 ||tripcarriagewaving.com^
 ||tripledeliveryinstance.com^
 ||triplesscarabs.world^
@@ -39805,6 +39817,7 @@ vkcdnservice.appspot.com^
 ||tyvgycimiqhrrr.com^
 ||tywznvfxgjbtm.space^
 ||tyywkxynwfkoj.site^
+||tyzrkxwumysch.site^
 ||tz2zgeppcg14yz624v3wxh7j55ww3.cfd^
 ||tzaho.com^
 ||tzahvkqybkdrx.store^
@@ -40268,6 +40281,7 @@ vkcdnservice.appspot.com^
 ||unkemptlecture.com^
 ||unknowndeliquencydeliquencypenthouse.com^
 ||unknownpermission.com^
+||unlaughlogos.rest^
 ||unlawful-judgment.com^
 ||unlawfulcream.com^
 ||unlawfuldamage.com^
@@ -40515,6 +40529,7 @@ vkcdnservice.appspot.com^
 ||urban-signal.pro^
 ||urbanercockily.cyou^
 ||urcadnhtikrlq.space^
+||urdeseining.qpon^
 ||urealath.com^
 ||ureasesparlish.cyou^
 ||urencenes.com^
@@ -41403,6 +41418,7 @@ vkcdnservice.appspot.com^
 ||vocuyawjas.net^
 ||vodobyve.pro^
 ||vodumskruller.click^
+||vofgpnpufdsbt.online^
 ||voguelift.biz^
 ||voguishurds.qpon^
 ||vohaukrass.net^
