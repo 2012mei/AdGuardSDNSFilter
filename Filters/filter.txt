@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2025-11-22T18:20:09.239Z
+! Last modified: 2025-11-22T20:16:28.478Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -11802,6 +11802,7 @@ vkcdnservice.appspot.com^
 ||buttonderecho.digital^
 ||buttonsreliabletome.com^
 ||buttontileaiming.com^
+||buvhlspktqqoi.online^
 ||buvkkecibaf.com^
 ||buyerneedly.help^
 ||buyfrightencheckup.com^
@@ -14659,6 +14660,7 @@ vkcdnservice.appspot.com^
 ||debursechorti.cyou^
 ||debutknee.com^
 ||decagonscrat.click^
+||decalogxiphoidbolus.cfd^
 ||decanslided.shop^
 ||deccsvyxcvhfe.website^
 ||deceivedaisle.com^
@@ -15422,6 +15424,7 @@ vkcdnservice.appspot.com^
 ||dmojymtmhtguv.buzz^
 ||dmonastydrumgm.org^
 ||dmoocvjybyqvq.space^
+||dmozazelsojos.website^
 ||dmqwctmxnaizz.site^
 ||dmrtx.com^
 ||dmsik.com^
@@ -20966,6 +20969,7 @@ vkcdnservice.appspot.com^
 ||hebenefitssheasht.com^
 ||hecathedralinth.org^
 ||heccupwir.com^
+||hecdwyyphbblq.space^
 ||heckleragents.help^
 ||hecklerdouter.cfd^
 ||hectareeprosy.cyou^
@@ -21360,6 +21364,7 @@ vkcdnservice.appspot.com^
 ||hlxyidqacaivu.site^
 ||hlyrecomemum.info^
 ||hmaehyejkqijb.site^
+||hmbcfccmdpcmg.space^
 ||hmclbciabangw.online^
 ||hmeqpjky.xyz^
 ||hmgsnucopfzwv.space^
@@ -25344,6 +25349,7 @@ vkcdnservice.appspot.com^
 ||lgfuoslalt.com^
 ||lghjjjwnxrpjq.space^
 ||lgiwoxapambgm.site^
+||lgjdmglqloopu.space^
 ||lgkdxzaslmiai.site^
 ||lgkjgunjzaort.website^
 ||lgklwhhssyxqe.space^
@@ -32836,6 +32842,7 @@ vkcdnservice.appspot.com^
 ||pupaetrah.cyou^
 ||pupatesdesists.rest^
 ||pupatesqueeze.com^
+||pupauleegeeckee.net^
 ||pupiha.my^
 ||pupilarouranos.com^
 ||pupilchangesjustified.com^
@@ -37292,6 +37299,7 @@ vkcdnservice.appspot.com^
 ||spelmanceil.world^
 ||spendharassingwarmly.com^
 ||spendsterral.cfd^
+||spennkblhsnv.com^
 ||spentgeographical.com^
 ||sperans-beactor.com^
 ||speraspace.com^
@@ -38070,6 +38078,7 @@ vkcdnservice.appspot.com^
 ||suxjwbzqcibjd.online^
 ||suzanne.pro^
 ||suzukisistrum.shop^
+||svaeiurkhy.com^
 ||svanazido.qpon^
 ||svbakoarswdvw.site^
 ||svgmirkagtgcz.space^
@@ -40698,6 +40707,7 @@ vkcdnservice.appspot.com^
 ||uucirqufdaer.net^
 ||uudckenzwdhvj.online^
 ||uufjxnfitxtvt.website^
+||uugfvrpccibuj.website^
 ||uuhnjutdqxnac.space^
 ||uuidksinc.net^
 ||uumbahniwkyki.space^
@@ -43442,6 +43452,7 @@ vkcdnservice.appspot.com^
 ||xvuslink.com^
 ||xvxboavgkjuex.website^
 ||xvzgfyqucqrbw.space^
+||xwcrawsqiooawfu.com^
 ||xwfafjiihnpmy.space^
 ||xwiashrkcpvns.love^
 ||xwkyiqdccvsypkm.com^
@@ -44711,6 +44722,7 @@ vkcdnservice.appspot.com^
 ||zvjbgsqpcnlku.site^
 ||zvlsctfwctmhe.website^
 ||zvmxpklpnnenv.site^
+||zvnwttdzp.com^
 ||zvoqhqvnjfyb.com^
 ||zvpiipqfnoubf.online^
 ||zvrokbqvqvvbw.top^
