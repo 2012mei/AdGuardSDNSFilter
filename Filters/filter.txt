@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2025-11-23T03:23:43.155Z
+! Last modified: 2025-11-23T04:29:27.127Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -8587,6 +8587,7 @@ vkcdnservice.appspot.com^
 ||akehuhhzwtpzo.website^
 ||akfovwbrmflup.space^
 ||akfteothobqbk.space^
+||akgayggphyceu.website^
 ||akgpoauxieivj.space^
 ||akhijiyecwbrrk.com^
 ||akijk.life^
@@ -9362,6 +9363,7 @@ vkcdnservice.appspot.com^
 ||arsfoundhertobe.com^
 ||arsonincreasingmedic.com^
 ||arswabluchan.com^
+||artalturbit.com^
 ||artcapturemumble.com^
 ||arterybasin.com^
 ||arthaven.xyz^
@@ -12662,6 +12664,7 @@ vkcdnservice.appspot.com^
 ||chefegladaudoo.net^
 ||cheftoondiligord.site^
 ||chegreacetla.cfd^
+||chekeeckoolte.com^
 ||chekmakfrosk.click^
 ||chekrilsoumpoab.net^
 ||cheloudsert.net^
@@ -16589,6 +16592,7 @@ vkcdnservice.appspot.com^
 ||ekbggmuqsovel.site^
 ||ekczzoyecfkfm.store^
 ||ekdthfqecpmjp.click^
+||ekejmcdmuqvxv.space^
 ||ekekpmucahnti.site^
 ||ekerududeyuqb.space^
 ||ekf4jlvowbb5gi.rest^
@@ -19259,6 +19263,7 @@ vkcdnservice.appspot.com^
 ||gbgomscmeyenl.site^
 ||gbgxceugaznsc.site^
 ||gbhyhxkdwqzjf.site^
+||gbkncsvtnhkvsdv.net^
 ||gblcdn.com^
 ||gbmgukyvlwhgy.site^
 ||gbozkwpecmzvc.online^
@@ -19795,6 +19800,7 @@ vkcdnservice.appspot.com^
 ||gloriousoutfieldtrembling.com^
 ||glorycomprehensionembroidery.com^
 ||glosantewar.qpon^
+||glosserwhamble.com^
 ||glossyburn.pro^
 ||glossyplan.pro^
 ||gloubauzaifoupe.net^
@@ -21378,6 +21384,7 @@ vkcdnservice.appspot.com^
 ||hlkwshtzpeuma.space^
 ||hlmiq.com^
 ||hloontleulrrx.site^
+||hlpjobrchkaun.online^
 ||hlserve.com^
 ||hlshoqbndrqfny.com^
 ||hlufsqadxupgr.website^
@@ -27748,6 +27755,7 @@ vkcdnservice.appspot.com^
 ||mpnoyjbqtyfht.love^
 ||mpnrs.com^
 ||mpocvdros.com^
+||mppiorwmiggdo.space^
 ||mpqffeqcnyzwx.site^
 ||mpraidmupfb.com^
 ||mpsfwrurozogw.space^
@@ -28231,6 +28239,7 @@ vkcdnservice.appspot.com^
 ||naivewithdrawal.com^
 ||najmgqfwacvln.website^
 ||nakedfulfilhairy.com^
+||nakipxiynjuzm.online^
 ||nakooarsenal.com^
 ||nakqsplmrmcig.website^
 ||nakrovixeenac.site^
@@ -37090,6 +37099,7 @@ vkcdnservice.appspot.com^
 ||snowmanjo.com^
 ||snowmansphereabrasive.com^
 ||snqsqbnzrppvc.online^
+||snrhymnniqox.com^
 ||snsfdmmzpixhn.site^
 ||snsv.ru^
 ||sntjim.com^
@@ -42082,6 +42092,7 @@ vkcdnservice.appspot.com^
 ||wdtypxrniewko.website^
 ||wduwzaqhftslc.website^
 ||wdwadkgqylntz.space^
+||wdxuugjqeavzv.space^
 ||wdyynhcllupdc.online^
 ||weakdesire.pro^
 ||weakermumrespect.com^
@@ -97483,6 +97494,7 @@ vkcdnservice.appspot.com^
 ! Blocking piwik analytics subdomain(for DNS filtering)
 |piwik.
 !
+||web.analytics.metrobyt-mobile.com^
 ||conversionsapigateway.com^
 ||ebm.lfmall.co.kr^
 ||analytics.adjust.io^
@@ -102148,6 +102160,7 @@ dlsdk.appsflyer.com^
 ||tag.digops.sincro.io^
 ||tag.elevaate.io^
 ||tag.flagship.io^
+||tag.getamigo.io^
 ||tag.lexer.io^
 ||tag.mtrcs.samba.tv^
 ||tag.myplay.com^
@@ -114804,6 +114817,8 @@ dlsdk.appsflyer.com^
 ||nfvp.cn^
 ||l9qxrmda6.com^
 ||t1thmtn5.xyz^
+||xjx11231ts.com^
+||coisj3nil.com^
 ||3k2frl8r79.com^
 ||h4htfgrei0.com^
 ||xjx11220ts.com^
