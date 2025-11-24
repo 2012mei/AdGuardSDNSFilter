@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2025-11-24T03:20:12.541Z
+! Last modified: 2025-11-24T04:30:14.742Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -17391,6 +17391,7 @@ vkcdnservice.appspot.com^
 ||evilstrike.pro^
 ||evjgmxwqhqzhl.space^
 ||evmdamxavzsgk.website^
+||evmidbyvygns.com^
 ||evnzrsecbioqp.today^
 ||evocatepooly.help^
 ||evoeqbnxitfpa.online^
@@ -28912,6 +28913,7 @@ vkcdnservice.appspot.com^
 ||njzhrrgrkjsrl.space^
 ||njzwlqzpuxpcv.website^
 ||nkavyuxjnilae.site^
+||nkbfkirbnxdbo.site^
 ||nkcpdrmwvgxqq.site^
 ||nkeepfetdnu.xyz^
 ||nkfinsdg.com^
@@ -32124,6 +32126,7 @@ vkcdnservice.appspot.com^
 ||politemajor.com^
 ||political-effort.com^
 ||political-part.pro^
+||political-tongue.pro^
 ||politicalcontrol.pro^
 ||politicalhost.com^
 ||politicallyartisticsocks.com^
@@ -35645,6 +35648,7 @@ vkcdnservice.appspot.com^
 ||rugtranslating.com^
 ||rugyhrjawkmln.site^
 ||ruhtgbkacgrqj.space^
+||ruicytcaj.com^
 ||ruinjan.com^
 ||ruinousmanipulation.com^
 ||ruinsoutsee.cfd^
@@ -35803,6 +35807,7 @@ vkcdnservice.appspot.com^
 ||rxnuglcau.xyz^
 ||rxnvg.com^
 ||rxqqxtyrshpkq.store^
+||rxscledbyfgos.site^
 ||rxthdr.com^
 ||rxtswetylelsw.net^
 ||rxueukjwfg.com^
@@ -36982,6 +36987,7 @@ vkcdnservice.appspot.com^
 ||sizefencing.com^
 ||sizierguyot.com^
 ||sizingpurline.cfd^
+||sizryblhbofmd.space^
 ||sizzling-camp.pro^
 ||sizzpalamae.rest^
 ||sjadkbbvcmdfd.website^
@@ -41703,6 +41709,7 @@ vkcdnservice.appspot.com^
 ||vjdciu.com^
 ||vjembmkzbeyzq.top^
 ||vjfdzpydatidx.space^
+||vjhfsebbyxwru.website^
 ||vjkiaxkxnijvu.site^
 ||vjlckfkbcuswo.site^
 ||vjlocpypzmhzr.website^
@@ -97768,6 +97775,7 @@ vkcdnservice.appspot.com^
 ! Blocking piwik analytics subdomain(for DNS filtering)
 |piwik.
 !
+||ac2.tnaflix.com^
 ||web.analytics.metrobyt-mobile.com^
 ||conversionsapigateway.com^
 ||ebm.lfmall.co.kr^
