@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2025-11-25T12:33:11.289Z
+! Last modified: 2025-11-25T14:16:25.884Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -7927,6 +7927,7 @@ vkcdnservice.appspot.com^
 ||adpacks.com^
 ||adpass.co.uk^
 ||adpatrof.com^
+||adpcebpo.com^
 ||adperium.com^
 ||adpicmedia.net^
 ||adpinion.com^
@@ -8600,6 +8601,7 @@ vkcdnservice.appspot.com^
 ||ajhcxism.xyz^
 ||ajhyuhsyzvjxd.online^
 ||ajillionmax.com^
+||ajimezcox.help^
 ||ajjkmozrrvmj.top^
 ||ajjlasruwwrlt.store^
 ||ajjwutdytigzg.rocks^
@@ -8744,6 +8746,7 @@ vkcdnservice.appspot.com^
 ||aljjsnvrdjwmeq.xyz^
 ||aljmhztthtchf.icu^
 ||alkazfholgdjj.website^
+||alkennamakes.cyou^
 ||allabc.com^
 ||allbqusgepzmf.store^
 ||allegemagnanimityensue.com^
@@ -14536,6 +14539,7 @@ vkcdnservice.appspot.com^
 ||dalymix.com^
 ||dalysv.com^
 ||damaged-transition.com^
+||damaged-unit.pro^
 ||damagedarticle.pro^
 ||damagedbehaved.com^
 ||damagedbroad.pro^
@@ -15003,6 +15007,7 @@ vkcdnservice.appspot.com^
 ||dentileazurite.com^
 ||deokxdgzwdyzm.website^
 ||deostr.com^
+||depairdicer.click^
 ||departedcomeback.com^
 ||departgross.com^
 ||departurealtar.com^
@@ -16840,6 +16845,7 @@ vkcdnservice.appspot.com^
 ||eltontry.com^
 ||eltrotmikania.cfd^
 ||eludemodred.help^
+||eludmmaymbkgj.com^
 ||eluhlhjv.life^
 ||eluxatehurdles.click^
 ||elyandbegantoti.com^
@@ -16862,6 +16868,7 @@ vkcdnservice.appspot.com^
 ||embarrassment2.fun^
 ||embassygroceryobvious.com^
 ||embassysmokedexhibited.com^
+||embeddedhelpful.com^
 ||embeddedoxide.com^
 ||embezzlementclearedbake.com^
 ||embitterlorrycar.com^
@@ -19409,6 +19416,7 @@ vkcdnservice.appspot.com^
 ||gatetodisplaycontent.com^
 ||gatetotrustednetwork.com^
 ||gathermadness.com^
+||gatingreagan.rest^
 ||gatnzlayrscdc.site^
 ||gatorifrit.shop^
 ||gaubaisteelaze.net^
@@ -27321,6 +27329,7 @@ vkcdnservice.appspot.com^
 ||metinbari.click^
 ||metinsmaze.qpon^
 ||metlculousdates.net^
+||metnngumcmgxr.site^
 ||metothepointa.com^
 ||metredesculic.com^
 ||metrefluke.com^
@@ -27609,6 +27618,7 @@ vkcdnservice.appspot.com^
 ||mixtureprerogativesnail.com^
 ||miyktylovuibs.online^
 ||miyubhvqxopdx.store^
+||mizarscance.shop^
 ||mizytadpwfswa.world^
 ||mizzenjarfuls.rest^
 ||mizzledilogy.life^
@@ -28490,6 +28500,7 @@ vkcdnservice.appspot.com^
 ||myijgzvgluvai.site^
 ||myimagetracking.com^
 ||mykkfjgkddfel.site^
+||mylnvywrikxpt.online^
 ||mylot.com^
 ||mymatch.site^
 ||mymukindwould.com^
@@ -31160,6 +31171,7 @@ vkcdnservice.appspot.com^
 ||pabbhjvefvqic.website^
 ||pabjriyhlvedc.vip^
 ||pabovmxizagg.com^
+||pacascretify.cfd^
 ||paceaskhari.com^
 ||pacekami.com^
 ||pacesconcise.com^
@@ -37542,6 +37554,7 @@ vkcdnservice.appspot.com^
 ||smoremewling.cyou^
 ||smotherpeppermint.com^
 ||smpgfx.com^
+||smqetvondaamt.online^
 ||smrt-cdn.com^
 ||smrt-content.com^
 ||smsafelink.com^
@@ -37700,6 +37713,7 @@ vkcdnservice.appspot.com^
 ||solidlyrotches.guru^
 ||solidmigraine.com^
 ||solispartner.com^
+||solitaryburlapillogical.com^
 ||solitudeelection.com^
 ||solitudinous.cyou^
 ||solocpm.com^
@@ -38805,6 +38819,7 @@ vkcdnservice.appspot.com^
 ||syndenizen.shop^
 ||syndicatedsearch.goog^
 ||syndromekaleidoscope.com^
+||syneticoverfewaglossa.cfd^
 ||synodalcackled.cfd^
 ||synoecyjouks.cfd^
 ||synonymdetected.com^
@@ -39515,6 +39530,7 @@ vkcdnservice.appspot.com^
 ||timsef.com^
 ||timtousafto.net^
 ||tinaheinheri.org^
+||tinctsrelose.cyou^
 ||tineidsreseeds.com^
 ||tinemanduring.cfd^
 ||tingefifortwaukth.org^
@@ -39618,6 +39634,7 @@ vkcdnservice.appspot.com^
 ||tkoxiczqjjteg.website^
 ||tkpmulayvctzq.site^
 ||tkqjtaurqpltn.store^
+||tkuotnlucairgha.com^
 ||tkvudnysg.com^
 ||tkwxiseyzfzle.store^
 ||tkyclvgzjfjwq.space^
@@ -40468,6 +40485,7 @@ vkcdnservice.appspot.com^
 ||txxqrzwdymmhg.online^
 ||txykmuqzxjitf.space^
 ||txzaazmdhtw.com^
+||txzylleycallj.site^
 ||tyburnpenalty.com^
 ||tychitejatni.click^
 ||tychon.bid^
@@ -45030,6 +45048,7 @@ vkcdnservice.appspot.com^
 ||zetadeo.com^
 ||zethoaceems.net^
 ||zetjmzwbpuhbh.site^
+||zetoogosseepa.com^
 ||zeusadx.com^
 ||zevwkbzlbkmle.top^
 ||zevwkbzlbkyew.top^
@@ -45219,6 +45238,7 @@ vkcdnservice.appspot.com^
 ||zmamhuakbbu.com^
 ||zmbquvsa.com^
 ||zmbulwdslrrhu.online^
+||zmchonvaefwzol.com^
 ||zmdesf.cn^
 ||zmewqybrjlblp.com^
 ||zmhgvuxeohjhl.space^
