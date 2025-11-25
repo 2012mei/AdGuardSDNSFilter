@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2025-11-25T03:11:41.933Z
+! Last modified: 2025-11-25T04:21:59.354Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -10235,6 +10235,7 @@ vkcdnservice.appspot.com^
 ||bapoomsupurooph.net^
 ||bapouwoakoa.net^
 ||baptizespadeaccompanying.com^
+||baqczoryagbvi.online^
 ||baqsjlfdaorou.space^
 ||baqtxlxxvtnwx.online^
 ||barakashucked.rest^
@@ -13313,6 +13314,7 @@ vkcdnservice.appspot.com^
 ||cnqatpzabwfzc.website^
 ||cnqsmekgjmgrp.site^
 ||cnqsocfzpdfkp.space^
+||cnrsyxxkcjlor.online^
 ||cnsxrfsrfpsvf.site^
 ||cnt.my^
 ||cntbrzonyxnzv.site^
@@ -19443,6 +19445,7 @@ vkcdnservice.appspot.com^
 ||gbrwplgcsjieu.online^
 ||gbthaqumoswk.xyz^
 ||gbvlbjyfrtdgk.site^
+||gbwlffzxdydoz.space^
 ||gbycurodiydutdb.xyz^
 ||gbysybyfehatt.store^
 ||gbzxgadljursj.site^
@@ -20757,6 +20760,7 @@ vkcdnservice.appspot.com^
 ||gxqakqcvwsubt.site^
 ||gxrmpswtx.com^
 ||gxrpbnhskxrtj.vip^
+||gxtihgivnpgei.online^
 ||gxulicnb.xyz^
 ||gxxsvvfyayayf.website^
 ||gxzvrffzlfxyq.global^
@@ -22085,6 +22089,7 @@ vkcdnservice.appspot.com^
 ||hvywllhiwgbjj.icu^
 ||hvyzobgbeoqgg.website^
 ||hwbccksvyjdto.website^
+||hwbyspodhwjsf.online^
 ||hwdbjplcsdbvl.online^
 ||hwfibqtczxdxi.website^
 ||hwithyouryrety.org^
@@ -23970,6 +23975,7 @@ vkcdnservice.appspot.com^
 ||jpisoprhajjyx.space^
 ||jpjqfhvwny.com^
 ||jplmzaksiplng.com^
+||jpmcqouplqkrwh.com^
 ||jpmkbcgx-o.buzz^
 ||jpoeeexklntxcv.net^
 ||jpoeeexklntxcv.xyz^
@@ -35811,6 +35817,7 @@ vkcdnservice.appspot.com^
 ||rubiestfoisted.top^
 ||rubpucarloh.com^
 ||rubyblu.com^
+||rucdnicjsy.com^
 ||rucecnegkrxul.site^
 ||rucheflutes.shop^
 ||ruchinggodsent.world^
@@ -49660,6 +49667,7 @@ vkcdnservice.appspot.com^
 !
 !
 !
+||hackle.io^
 ||track.aimroas.com^
 ||upsellit.com^
 ||assetsconfigcdn.org^
@@ -49688,8 +49696,6 @@ vkcdnservice.appspot.com^
 ||conviva.com^
 ||gau.groobee.io^
 ||gre.groobee.io^
-||monitoring.hackle.io^
-||event-api.hackle.io^
 ||tracking-api.g2.com^
 ||litix.io^
 ||audiencelab.io^
@@ -98646,7 +98652,6 @@ vkcdnservice.appspot.com^
 ||tracking.fortnite.com^
 ||log.znews.vn^
 ||cellar-analytics.mapion.co.jp^
-||event.hackle.io^
 ||r.aachener-zeitung.de^
 ||analytics.dealmoon.com^
 ||tagmanager.yodobashi.com^
