@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2025-11-26T06:24:27.216Z
+! Last modified: 2025-11-26T08:21:36.275Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -9854,6 +9854,7 @@ vkcdnservice.appspot.com^
 ||awakeexterior.com^
 ||awalesglower.com^
 ||awanfoisted.qpon^
+||awaphfrsnkkwu.site^
 ||awardchirpingenunciate.com^
 ||awardeeintune.qpon^
 ||awarderabune.help^
@@ -11054,6 +11055,7 @@ vkcdnservice.appspot.com^
 ||blaysubhall.help^
 ||blaze-media.com^
 ||blazeteamlow.com^
+||blbrlqxttpjjk.site^
 ||blcdog.com^
 ||bldkgmtnesbfp.site^
 ||bleaborahmagtgi.org^
@@ -14130,6 +14132,7 @@ vkcdnservice.appspot.com^
 ||crunchysheathstruck.com^
 ||crusczpxgpgwt.website^
 ||crusetbaffy.click^
+||crusetsbleauntgarlic.cfd^
 ||crushedshakechasing.com^
 ||crushingaspect.pro^
 ||crushingaspirin.com^
@@ -15202,6 +15205,7 @@ vkcdnservice.appspot.com^
 ||dheketusdfcpn.online^
 ||dhertouchingthe.org^
 ||dhgulmvqfnrl.com^
+||dhhardtosntrk.site^
 ||dhmfgzuhhusoz.online^
 ||dhncuhar.xyz^
 ||dhnxalgfditdo.online^
@@ -18835,6 +18839,7 @@ vkcdnservice.appspot.com^
 ||fppxjvtmcxjqib.xyz^
 ||fprgsxjsykxem.website^
 ||fpukmwpb.top^
+||fpuxxbskapwcz.online^
 ||fpvthmnrhcs.com^
 ||fpxpobaudkjzu.site^
 ||fpyf8.com^
@@ -23236,6 +23241,7 @@ vkcdnservice.appspot.com^
 ||irpexprodd.cyou^
 ||irradiatestartle.com^
 ||irresponsibilityprograms.com^
+||irresponsibilitystealdestroyer.com^
 ||irresponsiblejudge.pro^
 ||irresponsiblevalve.com^
 ||irries.com^
@@ -23901,6 +23907,7 @@ vkcdnservice.appspot.com^
 ||jklgbyxnogmpo.site^
 ||jklhsbwtbfkmh.site^
 ||jklpy.com^
+||jkmwcgubcohnh.website^
 ||jkozcaswi.com^
 ||jkqiweqrxsieb.website^
 ||jksmaafnkdyni.store^
@@ -24851,6 +24858,7 @@ vkcdnservice.appspot.com^
 ||kkytqmuyworov.online^
 ||kkzsewwbrnuhg.website^
 ||klamdocker.rest^
+||klatchunpins.shop^
 ||klaushydra.com^
 ||klbcjpyploqjfql.com^
 ||klcioiaymjgzka.com^
@@ -25565,6 +25573,7 @@ vkcdnservice.appspot.com^
 ||lcuozmosstcu.com^
 ||lcxzkflqdqnbj.website^
 ||lczcvvcxgmqdl.website^
+||ldajpiqsg.com^
 ||ldcochypiimyb.website^
 ||ldcumoqpdhule.store^
 ||ldeecdlgdtv.com^
@@ -30038,6 +30047,7 @@ vkcdnservice.appspot.com^
 ||ocvrulo.digital^
 ||ocwutmrfbsrwy.store^
 ||ocxelruljrn.xyz^
+||ocxhcjgaozxqe.space^
 ||oczu1k27b5hp8r2gu4vht.rest^
 ||odakhzdbrzbny.website^
 ||odalrevaursartu.net^
@@ -30675,6 +30685,7 @@ vkcdnservice.appspot.com^
 ||opjogdruojxwl.online^
 ||opjylzjlfxgw.com^
 ||oplaksik.online^
+||opmadpyqm.com^
 ||opnobbohq.com^
 ||opnwtirwio.com^
 ||opoiypnrygogix.com^
@@ -32371,6 +32382,7 @@ vkcdnservice.appspot.com^
 ||pmxwbtoqovmylsd.com^
 ||pmyvslrvug.net^
 ||pmzer.com^
+||pnaddawgsyxyw.site^
 ||pncloudfl.com^
 ||pnd.gs^
 ||pndvhjgixorbq.online^
@@ -32472,6 +32484,7 @@ vkcdnservice.appspot.com^
 ||pollexbout.help^
 ||pollingramblefunctions.com^
 ||pollpublicly.com^
+||pollutiondespite.com^
 ||polluxnetwork.com^
 ||poloptrex.com^
 ||polosskulks.cyou^
@@ -34717,6 +34730,7 @@ vkcdnservice.appspot.com^
 ||rdilgjxfabtiu.life^
 ||rdiloktcbwkhg.online^
 ||rdizbuadhvcrs.site^
+||rdjypzrfxctjo.site^
 ||rdlkuvqesmlva.store^
 ||rdmwvqumjfujk.online^
 ||rdncetfegztbp.space^
@@ -36635,6 +36649,7 @@ vkcdnservice.appspot.com^
 ||scornfularmy.pro^
 ||scotiawinze.com^
 ||scotismjellify.rest^
+||scoundrelbreakdown.com^
 ||scoutsdregs.com^
 ||scovyautarky.digital^
 ||scowpoppanasals.com^
@@ -38188,6 +38203,7 @@ vkcdnservice.appspot.com^
 ||srbtztegq.today^
 ||srgev.com^
 ||sriqqflv.com^
+||srmdctvbdr.com^
 ||srowvggksbuvv.vip^
 ||srsxwdadzsrf.world^
 ||srtrak.com^
@@ -43860,6 +43876,7 @@ vkcdnservice.appspot.com^
 ||wzhraonifqvig.space^
 ||wzjaczokogjfl.space^
 ||wzlzgwdtasjfs.online^
+||wznljcvyjyomk.site^
 ||wzplcddnvdodh.xyz^
 ||wzqotpvpbyqhc.store^
 ||wzqqakuxrstyc.store^
@@ -44175,9 +44192,11 @@ vkcdnservice.appspot.com^
 ||xoniwltrsxgot.site^
 ||xoofjgbtvkzjf.store^
 ||xoojebxoyzves.online^
+||xoqkkbas.com^
 ||xoqod.sbs^
 ||xorcvrjchcawdd.com^
 ||xoszyclagweyv.online^
+||xotsxpboxljzv.website^
 ||xoubuywanqskg.website^
 ||xovbjzdbfomoo.site^
 ||xovlsjegbpwqs.site^
