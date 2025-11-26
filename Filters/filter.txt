@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2025-11-26T01:12:21.655Z
+! Last modified: 2025-11-26T03:11:38.149Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -11285,6 +11285,7 @@ vkcdnservice.appspot.com^
 ||bombplinker.help^
 ||bomdog.com^
 ||bomibrawlis.cfd^
+||bomjubiles.shop^
 ||bonad.io^
 ||bonafides.club^
 ||bonbomorpion.qpon^
@@ -11866,6 +11867,7 @@ vkcdnservice.appspot.com^
 ||busherdebates.com^
 ||bushersfrugged.shop^
 ||bushesassortmentwearisome.com^
+||bushidobastite.rest^
 ||bushpigaquilia.rest^
 ||bushsurprising.com^
 ||busierflutier.qpon^
@@ -18278,6 +18280,7 @@ vkcdnservice.appspot.com^
 ||finalice.net^
 ||finalisexilian.rest^
 ||finallyswirly.cfd^
+||financialwagerepel.com^
 ||finanvideos.com^
 ||fincashastler.qpon^
 ||finchoiluntainted.com^
@@ -28849,6 +28852,7 @@ vkcdnservice.appspot.com^
 ||negjbfdn.net^
 ||neglectsquad.com^
 ||negligible-device.pro^
+||negligibleswitch.pro^
 ||negrystivi.com^
 ||negxkj5ca.com^
 ||neighboringyellow.com^
@@ -31583,6 +31587,7 @@ vkcdnservice.appspot.com^
 ||pctrevoir.cyou^
 ||pctsrv.com^
 ||pctv.xyz^
+||pcuelgwv.com^
 ||pcvvgcpjqwdm.com^
 ||pdainpzfelpch.site^
 ||pdasiese.net^
@@ -38539,6 +38544,7 @@ vkcdnservice.appspot.com^
 ||stwdqkalzbqfg.online^
 ||stwwdyowpkzof.website^
 ||stxmumxjxbeud.store^
+||stxtocrtgkwgb.website^
 ||stylish-airport.com^
 ||stylish-knife.com^
 ||stylusanswer.help^
@@ -40306,6 +40312,7 @@ vkcdnservice.appspot.com^
 ||trystcoryza.world^
 ||trytestifysupply.com^
 ||tryxmehamxmfv.website^
+||trzedcvdrbuvg.online^
 ||tsapphires.buzz^
 ||tsapphiresand.info^
 ||tsazdxinqmano.love^
@@ -41307,6 +41314,7 @@ vkcdnservice.appspot.com^
 ||uqqclbgexmriv.store^
 ||uqqmj868.xyz^
 ||uqrchidhtpvmc.space^
+||uqrntdvcrucmn.online^
 ||uqvgtqnthkqgi.space^
 ||uqxkpzhdbszer.space^
 ||uqxtyjclokxex.website^
@@ -42217,6 +42225,7 @@ vkcdnservice.appspot.com^
 ||vmxckyomhbtcz.space^
 ||vmxneqttwxhcv.site^
 ||vmyzsntquxfav.space^
+||vnadexybcugck.online^
 ||vnaytmsucryispu.net^
 ||vnbbfvgbeklnf.store^
 ||vnbrcfmdndguz.life^
@@ -43701,6 +43710,7 @@ vkcdnservice.appspot.com^
 ||wuporg.com^
 ||wuqvucsa.com^
 ||wurqaz.com^
+||wusbinamntcwy.website^
 ||wutfykwgbuq.xyz^
 ||wuthersoord.cyou^
 ||wutqgiuriurbk.space^
@@ -43977,6 +43987,7 @@ vkcdnservice.appspot.com^
 ||xhmyevcqcasdf.site^
 ||xhpvfyhlvrsbl.website^
 ||xhpxlfigiuylm.store^
+||xhpztvtjgfa.com^
 ||xhrhamnlzddyk.space^
 ||xhskoszdinatr.space^
 ||xhstfdnhkcgec.online^
@@ -44536,6 +44547,7 @@ vkcdnservice.appspot.com^
 ||ygkswbscgvukj.space^
 ||ygncvlnvzvsco.website^
 ||yguychjhiayuj.site^
+||ygxijeoljljhsc.com^
 ||ygzrbzzfccqua.online^
 ||yhbcii.com^
 ||yhcyyokvksgne.website^
@@ -115211,6 +115223,11 @@ dlsdk.appsflyer.com^
 ||klljo2cp63.com^
 ||jqz8z7gqxw.com^
 ||xjx11260ts.com^
+||periscope73.com^
+||hunzlj.icu^
+||conscience34.top^
+||imgzxr.cn^
+||lcgcrldp6m.com^
 ||veirkaey.com^
 ||d89sze2uu.com^
 ||j33xvvanl.com^
